@@ -1,0 +1,29 @@
+<style type="text/css">
+  .template-404 .title + * {
+    margin-top: 1rem;
+  }
+
+  #MainContent {
+    background-image: url("https://cdn.shopify.com/s/files/1/0779/8118/8435/t/3/assets/404_smeagol.jpg?v=1699524536");
+    background-position: top;
+    background-size: cover;
+  }
+
+  @media screen and (min-width: 750px) {
+    .template-404 .title + * {
+      margin-top: 2rem;
+    }
+  }
+</style>
+
+<div class="template-404 page-width page-margin center">
+  <p>
+    {{ 'templates.404.subtext' | t }}
+  </p>
+  <h1 class="title">
+    {{ 'templates.404.title' | t }}
+  </h1>
+  <a href="{{ routes.collections_url }}/beer" class="button">
+    {{ 'general.continue_shopping' | t }}
+  </a>
+</div>
