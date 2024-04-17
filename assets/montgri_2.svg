@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 729.8 79.2">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-5 {
+        fill: #cc9e29;
+        font-family: PitagonSansText-ExtraBold, 'Pitagon Sans Text';
+        font-size: 21.98px;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient-3);
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-4);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="719.35" y1="61.21" x2="719.35" y2="72.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#247f7f"/>
+      <stop offset=".16" stop-color="#237575"/>
+      <stop offset=".44" stop-color="#225a5a"/>
+      <stop offset=".79" stop-color="#202f2f"/>
+      <stop offset=".9" stop-color="#202020"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="632.41" y1="59.35" x2="632.41" y2="71.69" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#247f7f"/>
+      <stop offset=".91" stop-color="#202020"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="690.24" y1="60.94" x2="690.24" y2="72.24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#247f7f"/>
+      <stop offset=".22" stop-color="#236b6b"/>
+      <stop offset=".67" stop-color="#213a3a"/>
+      <stop offset=".89" stop-color="#202020"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="293.34" y1="-222.16" x2="293.34" y2="66.96" gradientUnits="userSpaceOnUse">
+      <stop offset=".02" stop-color="#e0cc91"/>
+      <stop offset=".36" stop-color="#ddca8f"/>
+      <stop offset=".51" stop-color="#d6c38b"/>
+      <stop offset=".61" stop-color="#cab884"/>
+      <stop offset=".7" stop-color="#b8a879"/>
+      <stop offset=".78" stop-color="#a1946c"/>
+      <stop offset=".84" stop-color="#857a5b"/>
+      <stop offset=".91" stop-color="#635c47"/>
+      <stop offset=".96" stop-color="#3d3a31"/>
+      <stop offset="1" stop-color="#202020"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <g>
+          <path class="cls-1" d="M729.8,71.42h-20.91s.18-1.39.45-1.99c2.75-4.79,3.97-5.47,8.16-4.23.32-.45.68-.89,1.01-1.39.43-.66,2.59-2.99,4.48-2.73.96.13,1.5.89,3.21,3.69,2.53,4.13,3.58,6.06,3.61,6.66Z"/>
+          <path class="cls-2" d="M659.89,63.28c-1.86-1.09-4.42-2.18-8.08-3.19-1.57-.43-6.51.7-15.03-1.47-7.81-1.99-20.98,1.22-23.36,1.83-1.48.38-2.41.68-3.86,1.15,0,0-10.43,3.4-13.47,7.65-.36.51-.57,1.06-.57,1.06-.16.43-.23.82-.26,1.1h74.33s-.8-1.27-1.31-1.99c-2.01-2.82-5.41-4.39-8.38-6.13Z"/>
+          <path class="cls-3" d="M699.75,64.2c-1.66-1.45-3.47-1.16-5.55-1.52-3.46-.6-3.72-2.31-5.6-1.8-1.02.28-1.44.12-3.17,1.92-1.33,1.38-1.59,1.23-2.46,1.71-1.49.82-.96,1.57-2.29,2.86-.74.72-2.18.71-2.79,1.8-.3.53-1.07,2.25-1.07,2.25h26.85s-2.7-6.09-3.67-7c-.09-.08-.15-.14-.24-.22Z"/>
+        </g>
+        <path class="cls-4" d="M579.17,65.26c-1.45-2.91-14.77-14.11-17.3-15.67-2.53-1.56-8.03-1.5-12.07-1.83-18.63-1.49-37.27.11-55.91-1.19-15.67-1.1-26.87,6.23-41.76.5-9.74-3.75-26.16-.23-37.24,3.23-21.6,6.73-43.75-14.85-63.76-27.02-.61-.37-1.25-.71-1.88-1.05-10.91-5.76-21.65-11.95-34.02-14.15-2.44-.43-3.63-1.36-3.43-3.91.2-2.65-1.24-3.57-3.74-3.56-2.91,0-5.9-1.04-8.71-.42-3.25.71-5.11.21-5.35,3.57-.12,1.63-.06,3.26-.08,5.17-10.69.09-18.6,5.44-26.31,11.32-4.77,3.63-9.6,7.19-14.6,10.5-7.09,4.69-14.89,7.67-23.46,6.02-19.32-3.73-47.4-11.25-64.06-22.67-2.93-2.01-6.88-3.95-10.19-3.69-5.48.43-10.4-.68-15.46-2.13-2.41-.69-4.9-1.11-7.39-1.5-8-1.26-15.38,1.58-22.86,3.63-6.49,1.78-12.9,2.97-19.8,2.51-7.47-.49-15.25-.62-22.51.93C43.98,18.85,20.99,18.58.09,31.35c-.02,1.71-.09,40.07-.09,40.07h586.68c-4.1-.97-6.29-3.7-7.51-6.15Z"/>
+      </g>
+      <text class="cls-5" transform="translate(33.87 71.42)"><tspan x="0" y="0">DOSKIWIS BREWING</tspan></text>
+    </g>
+  </g>
+</svg>
