@@ -1,1 +1,8 @@
-{"parent":"page.taproom-i-tasts.json","context":{"market":"es"},"sections":{}}
+{
+  "parent": "page.taproom-i-tasts.json",
+  "context": {
+    "market": "es"
+  },
+  "sections": {
+  }
+}
