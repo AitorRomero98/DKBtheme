@@ -1,1 +1,218 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"padding_top":36,"padding_bottom":36}},"b23258b0-b41a-4821-b6e6-44d057961ccd":{"type":"image-with-text","blocks":{"template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-heading-1":{"type":"heading","settings":{"heading":"TASTA LES  NOSTRES CERVESES","heading_size":"h1"}},"template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-text-1":{"type":"text","settings":{"text":"<p>Si el que vols és provar totes les cerveses que oferim, vine a fer un tast amb nosaltres!<\/p>","text_style":"subtitle"}},"template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-button-1":{"type":"button","settings":{"button_label":"REGALA UN TAST","button_link":"https:\/\/giftup.app\/place-order\/1203d1ec-1b1a-4243-9541-2740b5e83041?platform=hosted","button_style_secondary":false}}},"block_order":["template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-heading-1","template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-text-1","template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-button-1"],"custom_css":["div {border-radius: 2%;}"],"settings":{"image":"shopify:\/\/shop_images\/DOSKIWIS-IPA.jpg","height":"medium","desktop_image_width":"large","layout":"image_first","desktop_content_position":"top","desktop_content_alignment":"left","content_layout":"overlap","section_color_scheme":"","color_scheme":"inverse","image_behavior":"ambient","mobile_content_alignment":"left","padding_top":36,"padding_bottom":16}},"dc3b0198-9847-4d76-bc9e-3f6eb4350870":{"type":"rich-text","blocks":{"template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-heading-1":{"type":"heading","settings":{"heading":"En què consisteix?","heading_size":"h1"}},"template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-text-1":{"type":"text","settings":{"text":"<p>Tastaràs 100ml de cadascuna de les cerveses que elaborem i que tinguem a les aixetes aquell dia. Normalment 9 varietats. El preu per persona és de 19€ i inclou pica-pica (xips artesanes i olives barrejades).<\/p>"}},"ca6dafb7-91cd-44c4-ba7a-caf3738a6fd4":{"type":"heading","settings":{"heading":"Quant dura?","heading_size":"h1"}},"957a01be-b321-494d-857b-52274493cbac":{"type":"text","settings":{"text":"<p>La durada del tast és d’aproximadament dues hores, tot i que sou vosaltres qui marqueu el ritme.<\/p>"}},"1ad2a551-c390-44aa-95e1-61b836f18ceb":{"type":"heading","settings":{"heading":"I si també vull dinar\/sopar?","heading_size":"h1"}},"298645bf-1bae-4d18-8906-8361bcbab38a":{"type":"text","settings":{"text":"<p>El tast és 100% compatible amb qualsevol dels plats de la nostra cuina, <a href=\"\/pages\/taproom\" title=\"Taproom\">El Container<\/a>, així que pots fer el tast mentre fas un àpat, o demanar menjar un cop acabat el tast. Ho pots improvitzar al moment ;-)<\/p>"}}},"block_order":["template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-heading-1","template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-text-1","ca6dafb7-91cd-44c4-ba7a-caf3738a6fd4","957a01be-b321-494d-857b-52274493cbac","1ad2a551-c390-44aa-95e1-61b836f18ceb","298645bf-1bae-4d18-8906-8361bcbab38a"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"","full_width":true,"padding_top":0,"padding_bottom":0}},"5eee92b6-bffe-4904-ba27-db07d5ac2af5":{"type":"rich-text","blocks":{"template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-heading-1":{"type":"heading","settings":{"heading":"Cal Reserva? Quan puc reservar?","heading_size":"h1"}},"template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-text-1":{"type":"text","settings":{"text":"<p>Si! És important reservar! D’aquesta manera ho podem tenir tot a punt per oferir-vos la millor experiència.<\/p><p>Els horaris dels tasts poden variar segons la temporada. Els dies que obrim al públic de matins, es poden reservar a les 12h. Els dies que obrim de tardes, es pot reservar per les 17h\/18h.<\/p><p>Contacta’ns a <a href=\"mailto:taproom@doskiwisbrewing.com\">info@doskiwisbrewing.com<\/a> per fer una reserva.<\/p>"}},"6a5456f3-9ec2-4dee-ae3a-f471a2afc03f":{"type":"heading","settings":{"heading":"Vull regalar l’experiència d’un tast!","heading_size":"h1"}},"e46c788c-581c-452c-b9db-478ac140ef51":{"type":"text","settings":{"text":"<p>Aquest <a href=\"https:\/\/giftup.app\/place-order\/1203d1ec-1b1a-4243-9541-2740b5e83041?platform=hosted\" title=\"https:\/\/giftup.app\/place-order\/1203d1ec-1b1a-4243-9541-2740b5e83041?platform=hosted\">enllaç<\/a> permet comprar un xec-regal per fer un tast o per un import personalitzat per utilitzar al taproom.<\/p><p>El\/la recipient ens haurà de contactar per concretar el dia i hora del tast.<\/p><p>Tens més preguntes? Contacta’ns a <a href=\"mailto:taproom@doskiwisbrewing.com\">info@doskiwisbrewing.com<\/a>.<\/p>"}}},"block_order":["template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-heading-1","template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-text-1","6a5456f3-9ec2-4dee-ae3a-f471a2afc03f","e46c788c-581c-452c-b9db-478ac140ef51"],"settings":{"desktop_content_position":"center","content_alignment":"left","color_scheme":"","full_width":true,"padding_top":40,"padding_bottom":52}},"320eb67d-f6c8-44a8-9ad9-fb3772f711ab":{"type":"multicolumn","blocks":{"template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-1":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-2":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-1","template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-2"],"disabled":true,"settings":{"title":"","heading_size":"h1","image_width":"half","image_ratio":"adapt","columns_desktop":2,"column_alignment":"left","background_style":"primary","button_label":"Button label","button_link":"","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}}},"order":["main","b23258b0-b41a-4821-b6e6-44d057961ccd","dc3b0198-9847-4d76-bc9e-3f6eb4350870","5eee92b6-bffe-4904-ba27-db07d5ac2af5","320eb67d-f6c8-44a8-9ad9-fb3772f711ab"]}
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b23258b0-b41a-4821-b6e6-44d057961ccd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "TASTA LES  NOSTRES CERVESES",
+            "heading_size": "h1"
+          }
+        },
+        "template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si el que vols és provar totes les cerveses que oferim, vine a fer un tast amb nosaltres!<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "REGALA UN TAST",
+            "button_link": "https:\/\/giftup.app\/place-order\/1203d1ec-1b1a-4243-9541-2740b5e83041?platform=hosted",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-heading-1",
+        "template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-text-1",
+        "template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-button-1"
+      ],
+      "custom_css": [
+        "div {border-radius: 2%;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/DOSKIWIS-IPA.jpg",
+        "height": "medium",
+        "desktop_image_width": "large",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "inverse",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "dc3b0198-9847-4d76-bc9e-3f6eb4350870": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "En què consisteix?",
+            "heading_size": "h1"
+          }
+        },
+        "template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Tastaràs 100ml de cadascuna de les cerveses que elaborem i que tinguem a les aixetes aquell dia. Normalment 9 varietats. El preu per persona és de 19€ i inclou pica-pica (xips artesanes i olives barrejades).<\/p>"
+          }
+        },
+        "ca6dafb7-91cd-44c4-ba7a-caf3738a6fd4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quant dura?",
+            "heading_size": "h1"
+          }
+        },
+        "957a01be-b321-494d-857b-52274493cbac": {
+          "type": "text",
+          "settings": {
+            "text": "<p>La durada del tast és d’aproximadament dues hores, tot i que sou vosaltres qui marqueu el ritme.<\/p>"
+          }
+        },
+        "1ad2a551-c390-44aa-95e1-61b836f18ceb": {
+          "type": "heading",
+          "settings": {
+            "heading": "I si també vull dinar\/sopar?",
+            "heading_size": "h1"
+          }
+        },
+        "298645bf-1bae-4d18-8906-8361bcbab38a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>El tast és 100% compatible amb qualsevol dels plats de la nostra cuina, <a href=\"\/pages\/taproom\" title=\"Taproom\">El Container<\/a>, així que pots fer el tast mentre fas un àpat, o demanar menjar un cop acabat el tast. Ho pots improvitzar al moment ;-)<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-heading-1",
+        "template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-text-1",
+        "ca6dafb7-91cd-44c4-ba7a-caf3738a6fd4",
+        "957a01be-b321-494d-857b-52274493cbac",
+        "1ad2a551-c390-44aa-95e1-61b836f18ceb",
+        "298645bf-1bae-4d18-8906-8361bcbab38a"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5eee92b6-bffe-4904-ba27-db07d5ac2af5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cal Reserva? Quan puc reservar?",
+            "heading_size": "h1"
+          }
+        },
+        "template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si! És important reservar! D’aquesta manera ho podem tenir tot a punt per oferir-vos la millor experiència.<\/p><p>Els horaris dels tasts poden variar segons la temporada. Els dies que obrim al públic de matins, es poden reservar a les 12h. Els dies que obrim de tardes, es pot reservar per les 18h.<\/p><p>Contacta’ns a <a href=\"mailto:taproom@doskiwisbrewing.com\">info@doskiwisbrewing.com<\/a> per fer una reserva.<\/p>"
+          }
+        },
+        "6a5456f3-9ec2-4dee-ae3a-f471a2afc03f": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vull regalar l’experiència d’un tast!",
+            "heading_size": "h1"
+          }
+        },
+        "e46c788c-581c-452c-b9db-478ac140ef51": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Aquest <a href=\"https:\/\/giftup.app\/place-order\/1203d1ec-1b1a-4243-9541-2740b5e83041?platform=hosted\" title=\"https:\/\/giftup.app\/place-order\/1203d1ec-1b1a-4243-9541-2740b5e83041?platform=hosted\">enllaç<\/a> permet comprar un xec-regal per fer un tast o per un import personalitzat per utilitzar al taproom.<\/p><p>El\/la recipient ens haurà de contactar per concretar el dia i hora del tast.<\/p><p>Tens més preguntes? Contacta’ns a <a href=\"mailto:taproom@doskiwisbrewing.com\">info@doskiwisbrewing.com<\/a>.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-heading-1",
+        "template--20016114925907__5eee92b6-bffe-4904-ba27-db07d5ac2af5-text-1",
+        "6a5456f3-9ec2-4dee-ae3a-f471a2afc03f",
+        "e46c788c-581c-452c-b9db-478ac140ef51"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "320eb67d-f6c8-44a8-9ad9-fb3772f711ab": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-1",
+        "template--20069978866003__320eb67d-f6c8-44a8-9ad9-fb3772f711ab-column-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b23258b0-b41a-4821-b6e6-44d057961ccd",
+    "dc3b0198-9847-4d76-bc9e-3f6eb4350870",
+    "5eee92b6-bffe-4904-ba27-db07d5ac2af5",
+    "320eb67d-f6c8-44a8-9ad9-fb3772f711ab"
+  ]
+}
