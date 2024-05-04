@@ -11,6 +11,15 @@
         "padding_bottom": 0
       }
     },
+    "custom_liquid_gEtbnf": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<a href=\"\/pages\/event-management-page\">Calendari d'esdeveniments<\/a>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095": {
       "type": "rich-text",
       "blocks": {
@@ -57,6 +66,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_gEtbnf",
     "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095",
     "11a17f57-7c52-478a-8af1-40329256d795"
   ]
