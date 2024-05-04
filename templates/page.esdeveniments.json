@@ -11,13 +11,42 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_gEtbnf": {
-      "type": "custom-liquid",
+    "image_with_text_ya6Unr": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LQ8HB3": {
+          "type": "heading",
+          "settings": {
+            "heading": "26\/04\/2024 - Mercat de roba de 2a mà",
+            "heading_size": "h2"
+          }
+        },
+        "text_AMHrKh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Necessites fer canvi d'armari? Sovint no és necessari comprar noves peces de roba! <br\/><br\/>El diumenge 26 de maig, vine a conèixer persones de la teva comunitat i troba allò que necessites. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LQ8HB3",
+        "text_AMHrKh"
+      ],
       "settings": {
-        "custom_liquid": "<a href=\"\/pages\/event-management-page\">Calendari d'esdeveniments<\/a>",
+        "image": "shopify:\/\/shop_images\/mercat_roba_de_segona_m_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
         "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095": {
@@ -66,7 +95,7 @@
   },
   "order": [
     "main",
-    "custom_liquid_gEtbnf",
+    "image_with_text_ya6Unr",
     "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095",
     "11a17f57-7c52-478a-8af1-40329256d795"
   ]
