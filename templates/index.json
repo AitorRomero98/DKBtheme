@@ -19,6 +19,106 @@
         "show_text_below": false
       }
     },
+    "image_with_text_e6p4Qc": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9bWkgN": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>INTO IT<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_E8my4R": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Una nova IPA de 6,5% que busca ser bebible però plena de sabors intensos. Aquí combinem varietats de llúpol que utilitzem normalment amb la nova varietat, Superdelic. Les notes de cata inclouen fruits vermells i llima acabada d’exprimir en un rerefons tropical i dolç. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_hnggch": {
+          "type": "button",
+          "settings": {
+            "button_label": "MÉS INFORMACIÓ",
+            "button_link": "shopify:\/\/products\/into-it",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9bWkgN",
+        "text_E8my4R",
+        "button_hnggch"
+      ],
+      "custom_css": [
+        "img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/intoit.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_tWwdMf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_RW89MN": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>OUT OF IT<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "text_rptbDJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Out of It és una Hazy Doble IPA que combina les varietats de llúpol Motueka, Nelson Sauvin i Mosaic Cryo. Amb un 8,3% de graduació, les notes en nas són de préssec i nectarina, mango i herba que recorda el cannabis. En boca, la base és dolça i sedosa amb sutils de pi, herba fresca, i espècies.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_VbRNUR": {
+          "type": "button",
+          "settings": {
+            "button_label": "MÉS INFORMACIÓ",
+            "button_link": "shopify:\/\/products\/out-of-it",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RW89MN",
+        "text_rptbDJ",
+        "button_VbRNUR"
+      ],
+      "custom_css": [
+        "img {object-fit: contain;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/outofit.jpg",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 100
+      }
+    },
     "featured_product_77iTaM": {
       "type": "featured-product",
       "blocks": {
@@ -64,6 +164,7 @@
         "buy_buttons_PUQy7J",
         "share_yEYNDN"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: contain; max-height: 500px;}",
         ".grid__item {max-height: 500px;}"
@@ -263,6 +364,8 @@
   },
   "order": [
     "c227bd9b-4cf2-481c-b9a6-4bfcb6a8f075",
+    "image_with_text_e6p4Qc",
+    "image_with_text_tWwdMf",
     "featured_product_77iTaM",
     "bdfed234-7975-4e20-bad7-04b40c568ff0",
     "a84e0931-8f51-46dd-8c7f-cf103348b5ac",
