@@ -25,14 +25,14 @@
         "heading_9bWkgN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>INTO IT<\/strong>",
+            "heading": "<strong>BRITISH RACING GREEN<\/strong>",
             "heading_size": "h0"
           }
         },
         "text_E8my4R": {
           "type": "text",
           "settings": {
-            "text": "<p>Una nova IPA de 6,5% que busca ser bebible però plena de sabors intensos. Aquí combinem varietats de llúpol que utilitzem normalment amb la nova varietat, Superdelic. Les notes de cata inclouen fruits vermells i llima acabada d’exprimir en un rerefons tropical i dolç. <\/p>",
+            "text": "<p>BRG o British Racing Green és la nostra primera col·laboració amb els nostres amics de la distant Cornualla (Cornwall), a Anglaterra, i una de les nostres cerveseres preferides: <a href=\"https:\/\/verdantbrewing.co\/collections\/all-beers\"><strong>Verdant<\/strong><\/a>.<\/p>",
             "text_style": "body"
           }
         },
@@ -40,7 +40,7 @@
           "type": "button",
           "settings": {
             "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify:\/\/products\/into-it",
+            "button_link": "shopify:\/\/products\/british-racing-green",
             "button_style_secondary": false
           }
         }
@@ -54,7 +54,7 @@
         "img {object-fit: contain; max-height: 90%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/intoit.jpg",
+        "image": "shopify:\/\/shop_images\/british_racing_green.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -75,14 +75,14 @@
         "heading_RW89MN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>OUT OF IT<\/strong>",
+            "heading": "<strong>HAPPY FARMHOUSE<\/strong>",
             "heading_size": "h0"
           }
         },
         "text_rptbDJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Out of It és una Hazy Doble IPA que combina les varietats de llúpol Motueka, Nelson Sauvin i Mosaic Cryo. Amb un 8,3% de graduació, les notes en nas són de préssec i nectarina, mango i herba que recorda el cannabis. En boca, la base és dolça i sedosa amb sutils de pi, herba fresca, i espècies.<\/p>",
+            "text": "<p>Inspirada en algunes de les nostres saison preferides, Happy Farmhouse està elaborada amb flors de saüc que vam collir amb els amics de Cyclic el mateix dia d’elaboració, a pocs metres de la nostra fàbrica. <\/p>",
             "text_style": "body"
           }
         },
@@ -90,7 +90,7 @@
           "type": "button",
           "settings": {
             "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify:\/\/products\/out-of-it",
+            "button_link": "shopify:\/\/products\/happy-farmhouse",
             "button_style_secondary": false
           }
         }
@@ -101,10 +101,10 @@
         "button_VbRNUR"
       ],
       "custom_css": [
-        "img {object-fit: contain; max-height: 90%}"
+        "img {object-fit: contain; max-height: 90%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/outofit.jpg",
+        "image": "shopify:\/\/shop_images\/happy_farmhouse.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
