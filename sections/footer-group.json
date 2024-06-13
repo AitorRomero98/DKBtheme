@@ -5,6 +5,13 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "5a7ac4a9-5224-4851-8bf1-2d5670ebb357": {
+          "type": "brand_information",
+          "disabled": true,
+          "settings": {
+            "show_social": true
+          }
+        },
         "link_list_PDRB48": {
           "type": "link_list",
           "settings": {
@@ -23,28 +30,21 @@
           "type": "text",
           "settings": {
             "heading": "",
-            "subtext": "<h3><strong>TAPROOM<\/strong><\/h3><h5><em>Els nostres horaris varien segons l'època de l'any.<\/em><\/h5><h5><strong>Estiu<\/strong> - cada vespre de 18h a 00h<\/h5><h5><strong>Primavera i tardor <\/strong>- divendres de 18h a 00h, dissabtes de 12h a 00h i diumenges de 12h a 18h<\/h5><h5><strong>Hivern<\/strong> - dissabtes i diumenges de 12h a 18h<\/h5><h3><strong>BOTIGA<\/strong><\/h3><h5>Oberta durant els horaris de taproom i de dimarts a divendres de 10h a 18h<\/h5><h5><\/h5><p><\/p>"
-          }
-        },
-        "5a7ac4a9-5224-4851-8bf1-2d5670ebb357": {
-          "type": "brand_information",
-          "disabled": true,
-          "settings": {
-            "show_social": true
+            "subtext": "<h3><strong>TAPROOM<\/strong><\/h3><h5><a href=\"https:\/\/www.google.com\/maps\/place\/DOSKIWIS+BREWING\/@42.0225367,3.003692,17z\/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/place\/DOSKIWIS+BREWING\/@42.0225367,3.003692,17z\/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\"><em>Els nostres horaris<\/em><\/a><em> varien segons l'època de l'any.<\/em><\/h5><h5><strong>Estiu<\/strong> - cada vespre de 18h a 00h<\/h5><h5><strong>Primavera i tardor <\/strong>- divendres de 18h a 00h, dissabtes de 12h a 00h i diumenges de 12h a 18h<\/h5><h5><strong>Hivern<\/strong> - dissabtes i diumenges de 12h a 18h<\/h5><h3><strong>BOTIGA<\/strong><\/h3><h5>Oberta durant els horaris de taproom i de dimarts a divendres de 10h a 18h<\/h5><h5><\/h5><p><\/p>"
           }
         }
       },
       "block_order": [
+        "5a7ac4a9-5224-4851-8bf1-2d5670ebb357",
         "link_list_PDRB48",
         "link_list_CMienx",
-        "text_iUNX3i",
-        "5a7ac4a9-5224-4851-8bf1-2d5670ebb357"
+        "text_iUNX3i"
       ],
       "custom_css": [
         ".rte {margin-bottom: rem;}"
       ],
       "settings": {
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "newsletter_enable": true,
         "newsletter_heading": "<strong>SUBSCRIU-TE<\/strong>",
         "enable_follow_on_shop": false,
