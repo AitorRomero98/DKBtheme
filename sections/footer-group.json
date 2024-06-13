@@ -1,1 +1,65 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"5a7ac4a9-5224-4851-8bf1-2d5670ebb357":{"type":"brand_information","settings":{"show_social":true}}},"block_order":["5a7ac4a9-5224-4851-8bf1-2d5670ebb357"],"custom_css":[".rte {margin-bottom: 1rem;}",".footer-block__heading,.footer-block__image-wrapper {margin-bottom: 0px;}"],"settings":{"color_scheme":"background-1","newsletter_enable":false,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":false,"show_social":false,"enable_country_selector":true,"enable_language_selector":false,"payment_enable":false,"show_policy":false,"margin_top":0,"padding_top":36,"padding_bottom":36}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "link_list_PDRB48": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>Connect<\/strong>",
+            "menu": "footer"
+          }
+        },
+        "link_list_CMienx": {
+          "type": "link_list",
+          "settings": {
+            "heading": "<strong>Links<\/strong>",
+            "menu": "links-footer-menu"
+          }
+        },
+        "text_iUNX3i": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": "<h3><strong>TAPROOM<\/strong><\/h3><h5><em>Els nostres horaris varien segons l'època de l'any.<\/em><\/h5><h5><strong>Estiu<\/strong> - cada vespre de 18h a 00h<\/h5><h5><strong>Primavera i tardor <\/strong>- divendres de 18h a 00h, dissabtes de 12h a 00h i diumenges de 12h a 18h<\/h5><h5><strong>Hivern<\/strong> - dissabtes i diumenges de 12h a 18h<\/h5><h3><strong>BOTIGA<\/strong><\/h3><h5>Oberta durant els horaris de taproom i de dimarts a divendres de 10h a 18h<\/h5><h5><\/h5><p><\/p>"
+          }
+        },
+        "5a7ac4a9-5224-4851-8bf1-2d5670ebb357": {
+          "type": "brand_information",
+          "disabled": true,
+          "settings": {
+            "show_social": true
+          }
+        }
+      },
+      "block_order": [
+        "link_list_PDRB48",
+        "link_list_CMienx",
+        "text_iUNX3i",
+        "5a7ac4a9-5224-4851-8bf1-2d5670ebb357"
+      ],
+      "custom_css": [
+        ".rte {margin-bottom: rem;}"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "newsletter_enable": true,
+        "newsletter_heading": "<strong>SUBSCRIU-TE<\/strong>",
+        "enable_follow_on_shop": false,
+        "show_social": false,
+        "enable_country_selector": true,
+        "enable_language_selector": false,
+        "payment_enable": false,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
