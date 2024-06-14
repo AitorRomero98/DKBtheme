@@ -61,6 +61,14 @@
     "dc3b0198-9847-4d76-bc9e-3f6eb4350870": {
       "type": "rich-text",
       "blocks": {
+        "caption_UyfeCQ": {
+          "type": "caption",
+          "settings": {
+            "caption": "IMPORTANT: Temporalment, la compra de xecs regal per fer un tast no està disponible. Disposem de xecs regals lliures per utilitzar al nostre local. Disculpeu les molèsties.",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
         "template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-heading-1": {
           "type": "heading",
           "settings": {
@@ -102,6 +110,7 @@
         }
       },
       "block_order": [
+        "caption_UyfeCQ",
         "template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-heading-1",
         "template--20016114925907__dc3b0198-9847-4d76-bc9e-3f6eb4350870-text-1",
         "ca6dafb7-91cd-44c4-ba7a-caf3738a6fd4",
