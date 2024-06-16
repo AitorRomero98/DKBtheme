@@ -186,20 +186,58 @@
         "padding_bottom": 0
       }
     },
-    "image_banner_ThrxWa": {
-      "type": "image-banner",
+    "slideshow_T4KnMR": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_4Bt3Tr": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Monthly_Calendar.svg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_XLYFzG": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_4Bt3Tr",
+        "slide_XLYFzG"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Monthly_Calendar.svg",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "dots",
+        "auto_rotate": false,
+        "change_slides_speed": 9,
         "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false,
+        "accessibility_info": ""
       }
     }
   },
@@ -210,6 +248,6 @@
     "6a439f21-8554-4a4f-b322-0b28d5a03541",
     "71971597-3352-40a2-a64c-bc931f1d7838",
     "75dd660c-f305-4a96-8f18-3a227bdd2560",
-    "image_banner_ThrxWa"
+    "slideshow_T4KnMR"
   ]
 }
