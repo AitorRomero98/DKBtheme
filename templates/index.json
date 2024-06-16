@@ -82,7 +82,7 @@
         "text_rptbDJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Inspirada en algunes de les nostres saison preferides, Happy Farmhouse està elaborada amb flors de saüc que vam collir amb els amics de Cyclic el mateix dia d’elaboració, a pocs metres de la nostra fàbrica. <\/p>",
+            "text": "<p>Inspirada en algunes de les nostres saison preferides, Happy Farmhouse està elaborada amb flors de saüc que vam collir amb els amics de <a href=\"https:\/\/cyclicbeerfarm.com\/\" title=\"https:\/\/cyclicbeerfarm.com\/\">Cyclic<\/a> el mateix dia d’elaboració, a pocs metres de la nostra fàbrica. <\/p>",
             "text_style": "body"
           }
         },
