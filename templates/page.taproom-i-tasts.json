@@ -115,7 +115,7 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "background-1",
         "color_scheme": "scheme-aaafaf35-5b06-4754-9e59-742aa5dbed71",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
@@ -157,7 +157,7 @@
         "content_layout": "no-overlap",
         "section_color_scheme": "background-1",
         "color_scheme": "scheme-aaafaf35-5b06-4754-9e59-742aa5dbed71",
-        "image_behavior": "ambient",
+        "image_behavior": "none",
         "mobile_content_alignment": "center",
         "padding_top": 36,
         "padding_bottom": 36
