@@ -22,14 +22,14 @@
         "link_list_PDRB48": {
           "type": "link_list",
           "settings": {
-            "heading": "<strong>Connect<\/strong>",
+            "heading": "<strong>Connecta<\/strong>",
             "menu": "footer"
           }
         },
         "link_list_CMienx": {
           "type": "link_list",
           "settings": {
-            "heading": "<strong>Links<\/strong>",
+            "heading": "<strong>Enllaços<\/strong>",
             "menu": "links-footer-menu"
           }
         },
