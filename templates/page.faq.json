@@ -1,38 +1,5 @@
 {
   "sections": {
-    "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095": {
-      "type": "rich-text",
-      "blocks": {
-        "424f32ce-9862-4c60-abf7-5db44175c7e5": {
-          "type": "heading",
-          "settings": {
-            "heading": "Celebra amb nosaltres",
-            "heading_size": "h1"
-          }
-        },
-        "template--20113423270227__5ab0d96a-1e54-4d35-9e31-d7fc6b6db095-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Si t’agradaria celebrar o organitzar algun esdeveniment a Doskiwis, <a href=\"mailto:doskiwis@doskiwisbrewing.com\" title=\"mailto:doskiwis@doskiwisbrewing.com\">posa’t en contacte amb nosaltres<\/a>! <br\/><br\/>Celebres en un altre espai? Oferim lloguer de tiradors + barrils i llaunes per tal de que puguis comptar amb les teves cerveses preferides de Doskiwis durant la teva celebració.<\/p><p>Envia’ns un email a doskiwis@doskiwisbrewing per sol·licitar el teu barril o fer la teva consulta sobre el nostre servei de lloguer.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "424f32ce-9862-4c60-abf7-5db44175c7e5",
-        "template--20113423270227__5ab0d96a-1e54-4d35-9e31-d7fc6b6db095-text-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 24,
-        "padding_bottom": 52
-      }
-    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -44,68 +11,51 @@
         "padding_bottom": 0
       }
     },
-    "image_with_text_ya6Unr": {
-      "type": "image-with-text",
+    "rich_text_39crdK": {
+      "type": "rich-text",
       "blocks": {
-        "caption_PjP7dU": {
-          "type": "caption",
-          "settings": {
-            "caption": "ESDEVENIMENTS PASSATS",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "large"
-          }
-        },
-        "heading_LQ8HB3": {
+        "heading_mPEBMU": {
           "type": "heading",
           "settings": {
-            "heading": "26\/04\/2024",
-            "heading_size": "h2"
+            "heading": "Preguntes Freqüents",
+            "heading_size": "h1"
           }
         },
-        "text_AMHrKh": {
+        "text_4NQEEB": {
           "type": "text",
           "settings": {
-            "text": "<h2>MERCAT DE ROBA DE SEGONA MÀ<\/h2><p>Necessites fer canvi d'armari? Sovint no és necessari comprar noves peces de roba! <br\/><br\/>El diumenge 26 de maig, vine a conèixer persones de la teva comunitat i troba allò que necessites. De 11:30 a 16:00.<\/p><p><em>T'esperem a DOSKIWIS, Carretera de Parlavà, 22, 171312 Rupià (Girona)<\/em><\/p>",
-            "text_style": "body"
+            "text": "<h3><strong>ON PUC COMPRAR DOSKIWIS?<\/strong><\/h3><p>Pots comprar-ne directament des de la cerveseria o a través de la <a href=\"http:\/\/www.doskiwisbrewing.com\/shop\">botiga online<\/a>. També treballem amb un nombre de professionals que tenen establiments magnífics on disposen de la nostra cervesa.<\/p><h3><strong>TINC UN BAR, RESTAURANT O BOTIGA. PUC COMPRAR DOSKIWIS?<\/strong><\/h3><p>Si, ara mateix les nostres cerveses estan disponibles en barril i llauna de 440ml. Si ets al Gironès o Barcelona ciutat, entregarem nosaltres mateixos. Per a altres zones o més informació, contacta’ns a <em>doskiwis@doskiwisbrewing.com<\/em> o parla amb el teu distribuïdor local.<\/p><h3><strong>QUIN AVANTATGE TÉ LA LLAUNA?<\/strong><\/h3><p>La nostra prioritat és assegurar-nos que la cervesa que fem arribi al consumidor plena de sabor i amb la màxima qualitat. Juntament amb altres cerveseries arreu del món creiem que les llaunes d’alumini reciclat i lliures de BPA (<em>bisphenol A<\/em>) són la millor solució disponible per preservar la cerveses com la nostra.  <\/p><p>Perquè?<\/p><ul><li><em>Oxigen<\/em>. L’oxigen és l’enemic de la cervesa fresca. A les nostres llaunes ens assegurem que les quantitats d’oxigen dissolt són mínimes, i assegurem la frescor de la cervesa.<\/li><li><em>Llum.<\/em> La cervesa és sensible a la llum. La cervesa en llauna està protegida de la llum solar i altres factors externs.<\/li><li><em>Sabor<\/em>. L’estil de cervesa que fem, molt marcada per les característiques del llúpol, es preserva millor en llauna. Recomanem servir-la en un got per gaudir de totes les aromes.<\/li><li><em>Reciclatge<\/em>. L’alumini és 100% reciclable, es pot reciclar indefinidament y el seu cost de reciclatge és menor que el d’altres materials. Les nostres llaunes contenen un 68% d’alumini reciclat.<\/li><li><em>Petjada de carboni<\/em>. Les llaunes (i especialment les reciclades) tenen una petjada de carboni molt inferior a les ampolles de vidre, ja que són més lleugeres i ocupen menys espai. Una llauna pesa el 94% menys que una ampolla de vidre. Com a exemple, fan falta 2 camions per transportar la mateixa quantitat de líquid amb ampolla de vidre que no pas en llauna. Això vol dir que es fa servir menys cartró i plàstic per a l’embalatge, hi ha menys palets sortint de fàbriques vàries, i hi ha menys camions a la carretera.<br\/><br\/>Quan parlem de sostenibilitat i d’impacte ambiental, sovint hi ha molts factors diferents a tenir en compte i maneres diferents d’abordar-los. Sempre intentem prendre les millors decisions amb la informació que tenim disponible, mantenint una ment oberta per tal de que si sorgeixen noves solucions, tecnologies o informació estiguem a punt per adaptar-nos. Així doncs, no descartem fer servir altres materials per envasar per a determinats estils de cervesa a mida que expandim la gama d’estils que fabriquem o si sorgeixen alternatives.<\/li><\/ul><p>Per més info, podeu llegir més<a href=\"https:\/\/earth911.com\/living-well-being\/recycled-beverage-containers\/\"> aquí<\/a><em>,<\/em><a href=\"https:\/\/www.euronews.com\/living\/2019\/07\/17\/glass-bottles-vs-aluminium-cans-which-are-better-for-the-environment\"> aquí<\/a> i<a href=\"https:\/\/www.ball.com\/recycling\"> aquí<\/a>.<\/p><h3><strong>COM HE DE GUARDAR LA CERVESA?<\/strong><\/h3><p>La cervesa artesana s’hauria de conservar sempre freda (sota 10ºC). La cervesa que fabriquem a DOSKIWIS no està filtrada ni pasteuritzada. Tan bon punt surt del fermentador i l’envasem, va directament a la cambra de refrigeració i està a punt per ser entregada. Sempre mantenim la cervesa freda i només treballem amb distribuidors que mantinguin el circuit de fred.<\/p><h3><strong>FEU VISITES GUIADES A LA CERVESERIA?<\/strong><\/h3><p>Si, ara mateix oferirim visites guiades per a un mínim de 10 persones (<em>amb reserva prèvia<\/em>). La visita té una durada d’1h 30m a 2h i acaba amb un tast de tot el que tinguem a les aixetes aquell dia. Contacta'ns si vols reservar una visita.<\/p><h3><strong>ORGANITZEU TASTS A LA CERVESERIA?<\/strong><\/h3><p>Si, amb el tast podreu tastar 100ml de cada cervesa que tinguem a les aixetes. Normalment unes 8 varietats. Inclou pica-pica (<em>amb reserva prèvia<\/em>).<\/p><p>Els tasts també estan disponibles com a xec regal. Per a més informació, contacteu-nos a través de <em>doskiwis@doskiwisbrewing.com<\/em><\/p><h3><strong>PODEM PORTAR GOSSOS A LA CERVESERIA?<\/strong><\/h3><p>Si, els gossos són benvinguts sempre que vagin lligats i tinguin bon tarannà. Tenim bols d’aigua i galetes per gossos a la barra.<\/p><h3><strong>SERVIU ALTRES BEGUDES QUE NO SIGUIN CERVESA?<\/strong><\/h3><p>Si, tenim opcions sense gluten i sense alcohol, com ara la sidra i els sucs del productor local<a href=\"https:\/\/mooma.cat\/\"> Mooma<\/a> i una petita selecció de vi natural local. També fem la nostra pròpia kombutxa i tenim cafè fred de<a href=\"https:\/\/slowmov.com\/en\/\"> SlowMov<\/a> amb nitrogen durant els mesos d’estiu. Contacteu-nos o passeu per la cerveseria per saber què tenim disponible!<\/p><h3><strong>PUC VENIR FINS A DOSKIWIIS AMB BICICLETA?<\/strong><\/h3><p>Si, som “bike-friendly” i tenim lloc per aparcar bicis.<\/p><p>Hi ha varies rutes i camins que us portaràn fins a DOSKIWIS. Aquí sota trobareu dues rutes en format .gpx per descarregar directament al GPS. Gràcies a Jordi Pallí per crear-les i compartir-les.<\/p><ul><li><a href=\"https:\/\/www.doskiwisbrewing.com\/s\/Bordils_2kiwis.gpx\">Bordils - DOSKIWIS<\/a><\/li><li><a href=\"https:\/\/www.doskiwisbrewing.com\/s\/Torroella_pont_del_Ter_2kiwis.gpx\">Torroella de Montgrí - DOSKIWIS<\/a><\/li><li><a href=\"https:\/\/www.doskiwisbrewing.com\/s\/GS-Emporda-2020.gpx\">Baix Empordà<\/a> de<a href=\"https:\/\/www.gravetseries.com\/\"> Gravet Sèries<\/a><\/li><\/ul><p>Si feu servir la plataforma<a href=\"https:\/\/www.strava.com\/\"> Strava<\/a>, podeu utilitzar les rutes següents.<\/p><p>Gràcies a Dave Smith per crear-les i compartir-les.<\/p><ul><li><a href=\"https:\/\/www.strava.com\/routes\/19465377\">https:\/\/www.strava.com\/routes\/19465377<\/a><\/li><li><a href=\"https:\/\/www.strava.com\/routes\/19465045\">https:\/\/www.strava.com\/routes\/19465045<\/a><\/li><li><a href=\"https:\/\/www.strava.com\/routes\/19465012\">https:\/\/www.strava.com\/routes\/19465012<\/a><\/li><li><a href=\"https:\/\/www.strava.com\/routes\/19464961\">https:\/\/www.strava.com\/routes\/19464961<br\/><br\/><\/a>Tens alguna ruta que vulguis compartir? Envia'ns-la!<\/li><\/ul><h3><strong>PUC VENIR FINS A DOSKIWIS AMB TRANSPORT PÚBLIC?<\/strong><\/h3><p>Estem molt a prop de l’estació de tren de Flaçà, uns 8 minuts amb cotxe. Hi ha taxis disponibles a l’estació i podeu reservar-ne un per telèfon trucant al: +34 650310587<\/p><p> <\/p><p>També podeu agafar un autobús des de l’estació de Flaçà, Girona, o altres pobles veïns. L’estació d’autobús de Rupià està a 400m de DOSKIWIS.<a href=\"https:\/\/compras.moventis.es\/es\"> Consulta horaris i rutes d'autobús<\/a>.<\/p>"
+          }
+        },
+        "button_86zrK3": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "caption_PjP7dU",
-        "heading_LQ8HB3",
-        "text_AMHrKh"
+        "heading_mPEBMU",
+        "text_4NQEEB",
+        "button_86zrK3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/mercat_roba_de_segona_m_1.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "11a17f57-7c52-478a-8af1-40329256d795": {
-      "type": "contact-form",
-      "settings": {
-        "heading": "Contacta'ns",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
-    "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095",
     "main",
-    "image_with_text_ya6Unr",
-    "11a17f57-7c52-478a-8af1-40329256d795"
+    "rich_text_39crdK"
   ]
 }
