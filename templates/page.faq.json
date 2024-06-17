@@ -44,6 +44,9 @@
         "text_4NQEEB",
         "button_86zrK3"
       ],
+      "custom_css": [
+        ".rich-text--full-width.color-background-1 .rich-text__blocks {width: 100%;max-width: 100%;padding: 0 5rem;text-align: left;"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
