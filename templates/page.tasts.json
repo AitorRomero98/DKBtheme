@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -28,7 +37,7 @@
         "template--20016114925907__b23258b0-b41a-4821-b6e6-44d057961ccd-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "REGALA UN TAST",
+            "button_label": "REGALA UNA EXPERIÈNCIA",
             "button_link": "https:\/\/giftup.app\/place-order\/1203d1ec-1b1a-4243-9541-2740b5e83041?platform=hosted",
             "button_style_secondary": false
           }
