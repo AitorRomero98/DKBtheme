@@ -199,7 +199,7 @@
         "img {object-fit: contain;}"
       ],
       "settings": {
-        "title": "<strong>CERVESES FRESQUES, APUNT PER ENVIAR<\/strong>",
+        "title": "<a href=\"https:\/\/www.doskiwisbrewing.com\/collections\" title=\"https:\/\/www.doskiwisbrewing.com\/collections\"><strong>CERVESES FRESQUES, APUNT PER ENVIAR<\/strong><\/a>",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
