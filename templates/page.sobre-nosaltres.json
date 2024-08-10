@@ -77,6 +77,15 @@
         "padding_bottom": 52
       }
     },
+    "custom_liquid_qXiUG3": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<iframe src=”https:\/\/www.instagram.com\/s\/aGlnaGxpZ2h0OjE3OTEwMzkzNDAwMDk5MzA0?story_media_id=1711002483327551241&igsh=MWk0YTh0ZHVmOTdyMg=” width=”320″ height=”440″ frameborder=”0″ scrolling=”no” allowtransparency=”true”><\/iframe>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "slideshow_qWkwnE": {
       "type": "slideshow",
       "blocks": {
@@ -189,111 +198,6 @@
         "accessibility_info": "Slideshow with historic photos"
       }
     },
-    "slideshow_VzbJep": {
-      "type": "slideshow",
-      "blocks": {
-        "slide_8bn7Tz": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/5110238A-F218-4377-A93B-585AF1FF7B77_1_105_c.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_7eitLQ": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0005.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "top-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_KWke6J": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0081.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_83DHTt": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/80D542D4-467C-4C32-8208-8B70DE08BDCA.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_GXG9Db": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_0439.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        }
-      },
-      "block_order": [
-        "slide_8bn7Tz",
-        "slide_7eitLQ",
-        "slide_KWke6J",
-        "slide_83DHTt",
-        "slide_GXG9Db"
-      ],
-      "disabled": true,
-      "settings": {
-      }
-    },
     "1708623042331f910c": {
       "type": "apps",
       "settings": {
@@ -305,8 +209,8 @@
     "main",
     "3735bd84-28a1-4e2b-9956-d0365f8173e1",
     "33517754-0f5a-470f-9678-42da8616f6fc",
+    "custom_liquid_qXiUG3",
     "slideshow_qWkwnE",
-    "slideshow_VzbJep",
     "1708623042331f910c"
   ]
 }
