@@ -92,15 +92,6 @@
         "padding_bottom": 0
       }
     },
-    "custom_liquid_qXiUG3": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<iframe width=\"999\" height=\"562\" src=\"view-source:https:\/\/www.instagram.com\/stories\/highlights\/17910393400099304\/\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen><\/iframe>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "slideshow_qWkwnE": {
       "type": "slideshow",
       "blocks": {
@@ -225,7 +216,6 @@
     "3735bd84-28a1-4e2b-9956-d0365f8173e1",
     "33517754-0f5a-470f-9678-42da8616f6fc",
     "video_TAgBWa",
-    "custom_liquid_qXiUG3",
     "slideshow_qWkwnE",
     "1708623042331f910c"
   ]
