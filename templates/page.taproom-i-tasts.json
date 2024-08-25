@@ -219,6 +219,7 @@
         },
         "slide_XLYFzG": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/2024_Monthly_Calendar.svg",
             "heading": "",
