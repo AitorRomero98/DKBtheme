@@ -34,14 +34,14 @@
         "heading_9bWkgN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>BRITISH RACING GREEN<\/strong>",
+            "heading": "<strong>FIRECRACKER <\/strong>",
             "heading_size": "h1"
           }
         },
         "text_E8my4R": {
           "type": "text",
           "settings": {
-            "text": "<p>BRG o British Racing Green és la nostra primera col·laboració amb els nostres amics de la distant Cornualla (Cornwall), a Anglaterra, i una de les nostres cerveseres preferides: <a href=\"https:\/\/verdantbrewing.co\/collections\/all-beers\"><strong>Verdant<\/strong><\/a>.<\/p>",
+            "text": "<p>Una NZ IPA extremadament bebible i plena de sabor.<\/p>",
             "text_style": "body"
           }
         },
@@ -49,7 +49,7 @@
           "type": "button",
           "settings": {
             "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify:\/\/products\/british-racing-green",
+            "button_link": "shopify:\/\/products\/firecracker",
             "button_style_secondary": false
           }
         }
@@ -63,7 +63,7 @@
         "img {object-fit: contain; max-height: 90%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/british_racing_green.png",
+        "image": "shopify:\/\/shop_images\/Cans_from_Doskiwis.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -109,6 +109,7 @@
         "text_rptbDJ",
         "button_VbRNUR"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: contain; max-height: 90%;}"
       ],
@@ -359,6 +360,7 @@
             "title_color": "",
             "title_size": 0,
             "alignment": "left",
+            "background_color": "",
             "html_area": ""
           }
         }
