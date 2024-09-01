@@ -257,7 +257,6 @@
         "template--19735877615955__a84e0931-8f51-46dd-8c7f-cf103348b5ac-button-1"
       ],
       "custom_css": [
-        "div {border-radius: 2%;}",
         ".button {font-weight: bold;}"
       ],
       "settings": {
@@ -308,7 +307,6 @@
         "template--20069978014035__ad688dc9-f3fb-4d08-b21a-722fd3afc0a6-button-1"
       ],
       "custom_css": [
-        "div {border-radius: 1.2vh;}",
         ".button {font-weight: bold;}"
       ],
       "settings": {
