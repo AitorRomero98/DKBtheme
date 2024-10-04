@@ -22,14 +22,14 @@
         "template--20113407967571__66cf9728-6c03-4f7b-9f21-4c0a915c16e2-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<em>El nostre taproom ens permet mostrar de primera mà qui som, què fem i on ho fem.<\/em>",
+            "heading": "<em>El nostre taproom ens permet mostrar de primera mà qui som, què fem i on ho fem.</em>",
             "heading_size": "h2"
           }
         },
         "template--20113407967571__66cf9728-6c03-4f7b-9f21-4c0a915c16e2-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>El taproom és l'espai a la mateixa fàbrica on hi trobaràs nou de les nostres cerveses punxades als tiradors, la nostra pròpia kombutxa i altres begudes sense gluten i vins naturals de producció local. També servim cafè d'especialitat torrat per SlowMov. Els nostres horaris <a href=\"https:\/\/www.google.com\/maps\/place\/DOSKIWIS+BREWING\/@42.0225367,3.003692,17z\/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/place\/DOSKIWIS+BREWING\/@42.0225367,3.003692,17z\/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\">varien segons l'època de l'any.<\/a><\/p><h2><strong>Botiga<\/strong><\/h2><p>Les nostres cerveses estàn disponibles per emportar en llaunes de 440ml i ampolles reutilitzables de 946ml. La botiga està oberta de dimarts a divendres de 10h a 18h i durant els <a href=\"https:\/\/www.google.com\/maps\/place\/DOSKIWIS+BREWING\/@42.0225367,3.003692,17z\/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\" target=\"_blank\" title=\"https:\/\/www.google.com\/maps\/place\/DOSKIWIS+BREWING\/@42.0225367,3.003692,17z\/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\">horaris d'obertura del taproom<\/a>.<\/p>"
+            "text": "<p>El taproom és l'espai a la mateixa fàbrica on hi trobaràs nou de les nostres cerveses punxades als tiradors, la nostra pròpia kombutxa i altres begudes sense gluten i vins naturals de producció local. També servim cafè d'especialitat torrat per SlowMov. Els nostres horaris <a href=\"https://www.google.com/maps/place/DOSKIWIS+BREWING/@42.0225367,3.003692,17z/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\" target=\"_blank\" title=\"https://www.google.com/maps/place/DOSKIWIS+BREWING/@42.0225367,3.003692,17z/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\">varien segons l'època de l'any.</a></p><h2><strong>Botiga</strong></h2><p>Les nostres cerveses estàn disponibles per emportar en llaunes de 440ml i ampolles reutilitzables de 946ml. La botiga està oberta de dimarts a divendres de 10h a 18h i durant els <a href=\"https://www.google.com/maps/place/DOSKIWIS+BREWING/@42.0225367,3.003692,17z/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\" target=\"_blank\" title=\"https://www.google.com/maps/place/DOSKIWIS+BREWING/@42.0225367,3.003692,17z/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu\">horaris d'obertura del taproom</a>.</p>"
           }
         }
       },
@@ -59,17 +59,17 @@
         "template--20113407967571__c2252440-85ba-48a5-b16c-c6f99947af33-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>A la petita cuina del <em>Container<\/em> busquem ser pràctics. Menjar senzill sense ser simple amb ingredients d'altres productors locals per acompanyar les nostres cerveses. La nostra carta canvia regularment.<\/p>"
+            "text": "<p>A la petita cuina del <em>Container</em> busquem ser pràctics. Menjar senzill sense ser simple amb ingredients d'altres productors locals per acompanyar les nostres cerveses. La nostra carta canvia regularment.</p>"
           }
         },
         "5fca4c55-ba34-41e9-8f56-a1f0ba599b40": {
           "type": "button",
           "settings": {
-            "button_label": "On Som \/ Horaris",
-            "button_link": "https:\/\/www.google.com\/maps\/place\/DOSKIWIS+BREWING\/@42.0225367,3.003692,17z\/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu",
+            "button_label": "On Som / Horaris",
+            "button_link": "https://www.google.com/maps/place/DOSKIWIS+BREWING/@42.0225367,3.003692,17z/data=!3m1!4b1!4m6!3m5!1s0x12bafa171344c665:0xa92eec59e452f07d!8m2!3d42.0225367!4d3.0062669!16s%2Fg%2F11hd22j_yb?entry=ttu",
             "button_style_secondary": false,
             "button_label_2": "Carta",
-            "button_link_2": "https:\/\/lorine842.softr.app\/",
+            "button_link_2": "https://lorine842.softr.app/",
             "button_style_secondary_2": false
           }
         }
@@ -102,7 +102,7 @@
           "type": "button",
           "settings": {
             "button_label": "Clica aquí",
-            "button_link": "https:\/\/doskiwisbrewing.myrestoo.net\/ca\/reservar",
+            "button_link": "https://doskiwisbrewing.myrestoo.net/ca/reservar",
             "button_style_secondary": false
           }
         }
@@ -115,7 +115,7 @@
         "div {border-radius: 2%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/containerportcut.jpg",
+        "image": "shopify://shop_images/containerportcut.jpg",
         "height": "medium",
         "desktop_image_width": "large",
         "layout": "image_first",
@@ -144,7 +144,7 @@
           "type": "button",
           "settings": {
             "button_label": "Consulta la informació",
-            "button_link": "shopify:\/\/pages\/tasts",
+            "button_link": "shopify://pages/tasts",
             "button_style_secondary": false
           }
         }
@@ -153,12 +153,11 @@
         "template--20113407967571__71971597-3352-40a2-a64c-bc931f1d7838-heading-1",
         "template--20113407967571__71971597-3352-40a2-a64c-bc931f1d7838-button-1"
       ],
-      "disabled": true,
       "custom_css": [
         "div {border-radius: 2%;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/tapsmal.jpg",
+        "image": "shopify://shop_images/tapsmal.jpg",
         "height": "medium",
         "desktop_image_width": "large",
         "layout": "text_first",
@@ -203,7 +202,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Juny2024.svg",
+            "image": "shopify://shop_images/Juny2024.svg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -222,7 +221,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024_Monthly_Calendar.svg",
+            "image": "shopify://shop_images/2024_Monthly_Calendar.svg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -241,7 +240,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/Agost2024.svg",
+            "image": "shopify://shop_images/Agost2024.svg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -258,8 +257,9 @@
         },
         "slide_U37RYy": {
           "type": "slide",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/10_8350959c-59a2-4ff9-a7b3-35eb9958449d.svg",
+            "image": "shopify://shop_images/10_8350959c-59a2-4ff9-a7b3-35eb9958449d.svg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -277,7 +277,7 @@
         "slide_qifaJf": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/2024_Monthly_Calendar_2.svg",
+            "image": "shopify://shop_images/2024_Monthly_Calendar_2.svg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
