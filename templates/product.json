@@ -45,11 +45,10 @@
         },
         "icon_with_text_8C7mRR": {
           "type": "icon-with-text",
-          "disabled": true,
           "settings": {
             "layout": "vertical",
             "icon_1": "gluten_free",
-            "heading_1": "Sense Gluten",
+            "heading_1": "{{ product.metafields.custom.gluten_free.value }}",
             "icon_2": "none",
             "heading_2": "",
             "icon_3": "none",
