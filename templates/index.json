@@ -99,7 +99,7 @@
           "type": "button",
           "settings": {
             "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify://products/big-week",
+            "button_link": "shopify://products/peacharine",
             "button_style_secondary": false
           }
         }
