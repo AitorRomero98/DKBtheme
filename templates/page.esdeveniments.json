@@ -70,7 +70,7 @@
         "text_U43GyN": {
           "type": "text",
           "settings": {
-            "text": "<h2>5è MERCAT D'ARTESANES LOCALS</h2><p>PER NADAL, REGALA LOCAL!<br/><br/>El diumenge 15 de desembre de 2024, vine a conèixer artesanes del territori i les seves creacions, segur que trobaràs un regal ideal per aquestes festes mentre dones suport a les persones de la teva comunitat. <br/>De 12:00 a 17:00 🎁</p><p><em>T'esperem a DOSKIWIS, Carretera de Parlavà, 22, 17131 Rupià (Girona)</em></p>",
+            "text": "<h2>5è MERCAT D'ARTESANES LOCALS</h2><p>PER NADAL, REGALA LOCAL!<br/><br/>El diumenge 15 de desembre de 2024, vine a conèixer artesanes del territori i les seves creacions, segur que trobaràs un regal ideal per aquestes festes mentre dones suport a les persones de la teva comunitat. <br/>De 12:00 a 17:00 🎁</p><p>Hi trobaràs: ceràmica, cosmètica natural, moda i textils, il.lustració, bisuteria, enquadernació...</p><p><em>T'esperem a DOSKIWIS, Carretera de Parlavà, 22, 17131 Rupià (Girona)</em></p>",
             "text_style": "body"
           }
         }
@@ -81,7 +81,7 @@
         "text_U43GyN"
       ],
       "settings": {
-        "image": "shopify://shop_images/f380379586d44c09a0dfd2946a408b61_320_320.jpg",
+        "image": "shopify://shop_images/Screenshot_2024-11-25_at_13.23.06.png",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
