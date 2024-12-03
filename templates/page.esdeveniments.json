@@ -56,6 +56,54 @@
         "padding_bottom": 36
       }
     },
+    "image_banner_3MDiNq": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_qEnBkD": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_dq76i7": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_Tykcqt": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_qEnBkD",
+        "text_dq76i7",
+        "buttons_Tykcqt"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/FOOD_TRUCK_CONVIDAT.svg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
     "collage_LLniDF": {
       "type": "collage",
       "blocks": {
@@ -90,7 +138,7 @@
         "mobile_layout": "column",
         "card_styles": "none",
         "color_scheme": "",
-        "padding_top": 0,
+        "padding_top": 4,
         "padding_bottom": 36
       }
     },
@@ -250,6 +298,7 @@
   },
   "order": [
     "image_with_text_aHphen",
+    "image_banner_3MDiNq",
     "collage_LLniDF",
     "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095",
     "main",
