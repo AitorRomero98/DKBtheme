@@ -200,6 +200,7 @@
       "blocks": {
         "slide_m86CRB": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/12_cd3518cf-08a1-490b-a8da-fc13f2d36a28.svg",
             "heading": "",
