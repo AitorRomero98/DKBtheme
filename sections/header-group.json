@@ -36,7 +36,7 @@
         "announcement_aCfWtE": {
           "type": "announcement",
           "settings": {
-            "text": "🎁🎄PACKS DE NADAL JA DISPONIBLES!!🎄🎁",
+            "text": "🎁🎄PACKS REGAL🎄🎁GIFT PACKS🎁🎄PACKS REGALO",
             "link": "shopify://collections/packs-de-nadal-2024"
           }
         }
@@ -48,7 +48,7 @@
         "color_scheme": "",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
