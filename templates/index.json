@@ -336,6 +336,7 @@
       "block_order": [
         "template--20377464144211__b9b4250d-59d7-4198-b535-99170c56f2e7-heading-1"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "left",
         "content_alignment": "left",
@@ -356,6 +357,7 @@
             "title_size": 0,
             "alignment": "left",
             "background_color": "",
+            "feed_id": "",
             "html_area": ""
           }
         }
@@ -363,6 +365,7 @@
       "block_order": [
         "88d4ca6c-013e-4939-b6c0-3b449a43de22"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
