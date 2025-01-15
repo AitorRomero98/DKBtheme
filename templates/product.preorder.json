@@ -15,14 +15,7 @@
         "custom_liquid_DKa6Xh": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<style>\n.anouncement {\nbackground-color: black;\npadding-left: 1em;\npadding-right: 1em;\ndisplay: inline-block}\n\nb {\ncolor: white;\nfont-size: 1.5em;}\n</style>\n\n<div class=\"anouncement\">\n<b>VENDA ANTICIPADA</b>\n</div>"
-          }
-        },
-        "text_T9yfMK": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>VENDA ANTICIPADA</strong>",
-            "text_style": "body"
+            "custom_liquid": "<style>\n.anouncement {\nbackground-color: black;\npadding-left: 1em;\npadding-right: 1em;\ndisplay: inline-block}\n\nb {\ntext-transform: uppercase;\ncolor: white;\nfont-size: 1.5em;}\n</style>\n\n\n<div class=\"anouncement\">\n<b>{{ 'products.product.preorder' | t }}</b>\n</div>"
           }
         },
         "title": {
@@ -80,7 +73,6 @@
       },
       "block_order": [
         "custom_liquid_DKa6Xh",
-        "text_T9yfMK",
         "title",
         "description",
         "cdb9b624-ec7b-475a-a023-78a502e36c3c",
