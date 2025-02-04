@@ -198,65 +198,10 @@
     "slideshow_T4KnMR": {
       "type": "slideshow",
       "blocks": {
-        "slide_m86CRB": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/12_cd3518cf-08a1-490b-a8da-fc13f2d36a28.svg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_EVBJLk": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/2024_Monthly_Calendar_3.svg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "slide_44Rpah": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/2025_Monthly_Calendar_2.svg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
         "slide_gmRJaF": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/2025_Monthly_Calendar_3.svg",
+            "image": "shopify://shop_images/2025_TAPROOM_CALENDAR.svg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -273,9 +218,6 @@
         }
       },
       "block_order": [
-        "slide_m86CRB",
-        "slide_EVBJLk",
-        "slide_44Rpah",
         "slide_gmRJaF"
       ],
       "custom_css": [
