@@ -174,18 +174,6 @@
     },
     "75dd660c-f305-4a96-8f18-3a227bdd2560": {
       "type": "rich-text",
-      "blocks": {
-        "template--20113407967571__75dd660c-f305-4a96-8f18-3a227bdd2560-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Calendari d'obertura del Taproom",
-            "heading_size": "h2"
-          }
-        }
-      },
-      "block_order": [
-        "template--20113407967571__75dd660c-f305-4a96-8f18-3a227bdd2560-heading-1"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -201,7 +189,7 @@
         "slide_gmRJaF": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/2025_TAPROOM_CALENDAR.svg",
+            "image": "shopify://shop_images/2025_TAPROOM_CALENDAR_1.svg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
