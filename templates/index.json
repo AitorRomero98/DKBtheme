@@ -58,7 +58,7 @@
         "button_hnggch"
       ],
       "custom_css": [
-        "img {object-fit: contain; max-height: 90%;}"
+        "img {object-fit: contain; max-height: 90%; margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}"
       ],
       "settings": {
         "image": "shopify://shop_images/kickpush.png",
@@ -108,7 +108,7 @@
         "button_VbRNUR"
       ],
       "custom_css": [
-        "img {object-fit: contain; max-height: 90%;}"
+        "img {object-fit: contain; max-height: 90%; margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}"
       ],
       "settings": {
         "image": "shopify://shop_images/asavage.png",
