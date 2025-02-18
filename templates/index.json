@@ -73,7 +73,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 0
+        "padding_bottom": 28
       }
     },
     "image_with_text_tWwdMf": {
@@ -122,7 +122,7 @@
         "color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 0,
+        "padding_top": 24,
         "padding_bottom": 0
       }
     },
