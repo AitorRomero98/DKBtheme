@@ -33,7 +33,7 @@
           "type": "heading",
           "settings": {
             "heading": "<strong>KICK PUSH</strong>",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "text_E8my4R": {
@@ -82,8 +82,8 @@
         "heading_RW89MN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>A SAVAGE</strong>",
-            "heading_size": "h1"
+            "heading": "A SAVAGE",
+            "heading_size": "h0"
           }
         },
         "text_rptbDJ": {
