@@ -15,7 +15,7 @@
         "heading_NUdUaT": {
           "type": "heading",
           "settings": {
-            "heading": "15/12/2024",
+            "heading": "22/03/2025",
             "heading_size": "h2"
           }
         },
@@ -30,7 +30,7 @@
         "text_U43GyN": {
           "type": "text",
           "settings": {
-            "text": "<h2>5è MERCAT D'ARTESANES LOCALS</h2><p>PER NADAL, REGALA LOCAL!<br/><br/>El diumenge 15 de desembre de 2024, vine a conèixer artesanes del territori i les seves creacions, segur que trobaràs un regal ideal per aquestes festes mentre dones suport a les persones de la teva comunitat. <br/>🎁De 12:00 a 17:00 🎁</p><p>Hi trobaràs: ceràmica, cosmètica natural, moda i textils, il.lustració, bisuteria, torrons, panetone...i per suposat, cervesa fresca per gaudir al moment i per emportar i regalar!</p><p>Food Truck Convidat: <a href=\"https://www.fockviu.com/fock-viu-food-truck\" target=\"_blank\" title=\"https://www.fockviu.com/fock-viu-food-truck\">Fockviu</a></p><p><em>T'esperem a DOSKIWIS, Carretera de Parlavà, 22, 17131 Rupià (Girona)</em></p>",
+            "text": "<h2>MERCAT D'ARTESANES LOCALS</h2><p>EDICIÓ EQUINOCCI<br/><br/>El dissabte 22/03, omplim la fàbrica d’algunes de les nostres artesanes preferides.<br/><br/>Una oportunitat per donar suport al comerç local, descobrir artesanes de proximitat i conèixer gent afí. Cosmètica natural, ceràmica, ganxet, roba... tot fet amb amor per persones que val la pena conèixer. <br/><br/>L’excusa perfecta per relaxar-te i gaudir dels primers dies de primavera.Porta la colla, la curiositat... i la set!</p><p><em>T'esperem a DOSKIWIS, Carretera de Parlavà, 22, 17131 Rupià (Girona)</em></p>",
             "text_style": "body"
           }
         }
@@ -39,6 +39,53 @@
         "heading_NUdUaT",
         "button_izaLtR",
         "text_U43GyN"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Copy_of_22032025.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
+    "image_with_text_4fieB8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_y7XXM7": {
+          "type": "heading",
+          "settings": {
+            "heading": "15/12/2024",
+            "heading_size": "h2"
+          }
+        },
+        "button_b7Mrz8": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "text_HMXXiR": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>5è MERCAT D'ARTESANES LOCALS</h2><p>PER NADAL, REGALA LOCAL!<br/><br/>El diumenge 15 de desembre de 2024, vine a conèixer artesanes del territori i les seves creacions, segur que trobaràs un regal ideal per aquestes festes mentre dones suport a les persones de la teva comunitat. <br/>🎁De 12:00 a 17:00 🎁</p><p>Hi trobaràs: ceràmica, cosmètica natural, moda i textils, il.lustració, bisuteria, torrons, panetone...i per suposat, cervesa fresca per gaudir al moment i per emportar i regalar!</p><p>Food Truck Convidat: <a href=\"https://www.fockviu.com/fock-viu-food-truck\" target=\"_blank\" title=\"https://www.fockviu.com/fock-viu-food-truck\">Fockviu</a></p><p><em>T'esperem a DOSKIWIS, Carretera de Parlavà, 22, 17131 Rupià (Girona)</em></p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_y7XXM7",
+        "button_b7Mrz8",
+        "text_HMXXiR"
       ],
       "settings": {
         "image": "shopify://shop_images/Mercat_artesanes_locals_Doskiwis.png",
@@ -299,6 +346,7 @@
   },
   "order": [
     "image_with_text_aHphen",
+    "image_with_text_4fieB8",
     "image_banner_3MDiNq",
     "collage_LLniDF",
     "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095",
