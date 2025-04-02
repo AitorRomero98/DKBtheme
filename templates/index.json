@@ -32,14 +32,14 @@
         "heading_9bWkgN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>LEARNING TO FLY</strong>",
+            "heading": "<strong>WEIGHTLESS</strong>",
             "heading_size": "h1"
           }
         },
         "text_E8my4R": {
           "type": "text",
           "settings": {
-            "text": "<p>Aquesta DIPA desplega aromes intenses d’herba acabada de tallar, llima fresca i meló cantaloup. Després del primer glop ens arriba una dolçor suau i arrodonida que desapareix ràpidament, deixant pas a capes de notes herbàcies i de molsa, herba llimonera i una amargor verda i delicada que s’allarga lleugerament.<br/><br/>Fresca i deliciosa, aquesta és una cervesa de contrasts: dolça però seca, suau però amb caràcter.</p>",
+            "text": "<p>Una carta d’amor al Nelson Sauvin — aquesta Hazy IPA s’endinsa de ple en tot el que ofereix aquesta varietat de llúpol icònica.</p><p>Al nas, una intensitat especiada, embolcallada de tocs subtils d’albercoc verd i herbes aromàtiques. En boca, el cos és suau i plena, amb una mica més de carbonatació del que és habitual, que li dona lleugeresa i bebibilitat.</p><p>El final? Inconfusiblement Nelson — una amargor herbàcea persistent.</p>",
             "text_style": "body"
           }
         },
@@ -47,7 +47,7 @@
           "type": "button",
           "settings": {
             "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify://products/learning-to-fly",
+            "button_link": "shopify://products/weightless",
             "button_style_secondary": false
           }
         }
@@ -61,7 +61,7 @@
         "img {object-fit: contain; max-height: 90%;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/learning_to_fly_can.png",
+        "image": "shopify://shop_images/Weightless_can.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -107,6 +107,7 @@
         "text_rptbDJ",
         "button_VbRNUR"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: contain; max-height: 90%;}"
       ],
