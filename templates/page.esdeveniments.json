@@ -30,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "RESERVA",
-            "button_link": "",
+            "button_link": "https://docs.google.com/forms/d/e/1FAIpQLSf_HE8fUOD9bJrV3I7pYivVeR8HL4-088G3KkZ3w1ZuD_wKUg/viewform",
             "button_style_secondary": false
           }
         }
