@@ -32,14 +32,14 @@
         "heading_9bWkgN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>THE HEXX</strong>",
+            "heading": "<strong>DIVE BOMB</strong>",
             "heading_size": "h1"
           }
         },
         "text_E8my4R": {
           "type": "text",
           "settings": {
-            "text": "<p>Nítida i refrescant, aquesta West Coast IPA presenta un color daurat clar i brillant. Al nas, destaca la fruita tropical—pinya, mango i préssec—equilibrades pel caràcter clàssic del Nelson i un toc subtil de resina de fons.<br/><br/>Lleugera al paladar i molt fàcil de beure, els sabors reflecteixen l’aroma, amb notes de pinya i préssec. Amb un toc sec final, manté l’equilibri i convida a fer un altre glop. L’amargor hi és, però amb mesura—una IPA que aposta per l’equilibri més que per la intensitat.</p>",
+            "text": "<p><br/>Aromes intenses de taronja confitada, ratlladura de llima i xiclet, d’un groc tèrbol lluminós.</p><p>És sedosa i arrodonida al paladar, amb notes de pinya i fruita de la passió. Té dolçor, però està ben equilibrada amb un final amarg i herbaci l’arrodoneix i la fa molt fàcil de beure.<br/><br/></p>",
             "text_style": "body"
           }
         },
@@ -47,7 +47,7 @@
           "type": "button",
           "settings": {
             "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify://products/the-hexx",
+            "button_link": "shopify://products/medes-pils-nz-pilsner",
             "button_style_secondary": false
           }
         }
@@ -61,7 +61,7 @@
         "img {object-fit: contain; max-height: 90%;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/the_hexx_can.png",
+        "image": "shopify://shop_images/dive_bomb_can.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -107,6 +107,7 @@
         "text_rptbDJ",
         "button_VbRNUR"
       ],
+      "disabled": true,
       "custom_css": [
         "img {object-fit: contain; max-height: 90%;}"
       ],
@@ -289,11 +290,11 @@
           "settings": {
             "title": "",
             "title_color": "",
-            "title_size": 0,
+            "title_size_v2": 0,
             "alignment": "left",
-            "margin_top": 0,
-            "margin_bottom": 0,
-            "margin_sides": 0,
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
             "show_instagram_link": false,
             "link_alignment": "left",
             "link_color": "#000000",
