@@ -32,14 +32,14 @@
         "heading_9bWkgN": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>DIVE BOMB</strong>",
+            "heading": "<strong>FENIX</strong>",
             "heading_size": "h1"
           }
         },
         "text_E8my4R": {
           "type": "text",
           "settings": {
-            "text": "<p>Aromes intenses de taronja confitada, ratlladura de llima i xiclet, d’un groc tèrbol lluminós.</p><p>És sedosa i arrodonida al paladar, amb notes de pinya i fruita de la passió. Té dolçor, però està ben equilibrada amb un final amarg i herbaci l’arrodoneix i la fa molt fàcil de beure.<br/><br/></p>",
+            "text": "<p>Presentem la nostra primera cervesa sense alcohol: una cervesa de color or groc clar amb aromes tropicals intensos de pinya, sobre notes sutils herbàcies i especiades. <br/><br/>En boca, destaquen els sabors cítrics frescos sobre un cos suau i lleuger, oferint tot el sabor que t’agrada, sense alcohol.<br/><br/><br/></p>",
             "text_style": "body"
           }
         },
@@ -61,7 +61,7 @@
         "img {object-fit: contain; max-height: 90%;}"
       ],
       "settings": {
-        "image": "shopify://shop_images/dive_bomb_can.png",
+        "image": "shopify://shop_images/fenix_can.png",
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
