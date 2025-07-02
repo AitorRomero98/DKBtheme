@@ -13,7 +13,7 @@
       "type": "image-banner",
       "custom_css": [],
       "settings": {
-        "image": "shopify://shop_images/DOSKIWIS-BREWING-Cervesa-Artesana-Cerveza-Artesanal.jpg",
+        "image": "shopify://shop_images/LANDING_compressed.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "desktop_content_position": "middle-center",
@@ -354,8 +354,14 @@
           "settings": {
             "title": "",
             "title_color": "",
-            "title_size": 0,
+            "title_size_v2": 0,
             "alignment": "left",
+            "instafeed_margin_top": 0,
+            "instafeed_margin_bottom": 0,
+            "instafeed_margin_sides": 0,
+            "show_instagram_link": false,
+            "link_alignment": "left",
+            "link_color": "#000000",
             "background_color": "",
             "feed_id": "",
             "html_area": ""
