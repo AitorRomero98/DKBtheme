@@ -26,165 +26,55 @@
         "show_text_below": false
       }
     },
-    "image_with_text_e6p4Qc": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_9bWkgN": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>KICK PUSH</strong>",
-            "heading_size": "h0"
-          }
-        },
-        "text_E8my4R": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Aquesta West Coast IPA rebossa d’aromes taronja confitada i de resina i molsa. En boca destaca la taronja amarga i l’aranja amb un rerefons de tabac i fusta que perfilen el final amarg i sec que buscàvem. </p>",
-            "text_style": "body"
-          }
-        },
-        "button_hnggch": {
-          "type": "button",
-          "settings": {
-            "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify://products/catchall",
-            "button_style_secondary": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_9bWkgN",
-        "text_E8my4R",
-        "button_hnggch"
-      ],
-      "custom_css": [
-        "img {object-fit: contain; max-height: 90%; margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/kickpush.png",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
-        "color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 28
-      }
-    },
-    "image_with_text_tWwdMf": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_RW89MN": {
-          "type": "heading",
-          "settings": {
-            "heading": "A SAVAGE",
-            "heading_size": "h0"
-          }
-        },
-        "text_rptbDJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Una hazy IPA indòmita amb aromes de tangerina, mango i préssec i sabors de pinya, guava i una picantor apebrada i herbal que complementa el cos ple, fi i suau.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_VbRNUR": {
-          "type": "button",
-          "settings": {
-            "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify://products/a-savage",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_RW89MN",
-        "text_rptbDJ",
-        "button_VbRNUR"
-      ],
-      "custom_css": [
-        "img {object-fit: contain; max-height: 90%; margin: 0; position: absolute; top: 50%; -ms-transform: translateY(-50%); transform: translateY(-50%);}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/asavage.png",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
-        "color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 24,
-        "padding_bottom": 16
-      }
-    },
-    "featured_product_77iTaM": {
+    "featured_product_3jzbpx": {
       "type": "featured-product",
       "blocks": {
-        "text_3Vi7my": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<strong>VENDA ANTICIPADA</strong>",
-            "text_style": "body"
-          }
-        },
-        "title_kF9Fi3": {
+        "title_YNk87X": {
           "type": "title",
           "settings": {
             "heading_size": "h1"
           }
         },
-        "text_XbTyMr": {
+        "text_P3xdhi": {
           "type": "text",
           "settings": {
-            "text": "The Red Dot és una Hazy IPA amb dryhop de 100% Cashmere, una varietat que és filla de Cascade i té un amargor persistent però suau i una lleugera aroma a cítrics. El nom d'aquesta cervesa està inspirat en l'episodi <a href=\"https://www.youtube.com/watch?v=xteXgurD-DM\">The Red Dot</a> de Seinfeld on en George li compra un jersei de caixmir a l'Elaine.",
+            "text": "Presentem la nostra primera cervesa sense alcohol: una cervesa de color or groc clar amb aromes tropicals intensos de pinya, sobre notes sutils herbàcies i especiades.En boca, destaquen els sabors cítrics frescos sobre un cos suau i lleuger, oferint tot el sabor que t’agrada, sense alcohol.",
             "text_style": "body"
           }
         },
-        "buy_buttons_PUQy7J": {
+        "price_BHrmRh": {
+          "type": "price",
+          "settings": {}
+        },
+        "quantity_selector_ciPjQX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_8V4jmA": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": true
           }
-        },
-        "share_yEYNDN": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
         }
       },
       "block_order": [
-        "text_3Vi7my",
-        "title_kF9Fi3",
-        "text_XbTyMr",
-        "buy_buttons_PUQy7J",
-        "share_yEYNDN"
+        "title_YNk87X",
+        "text_P3xdhi",
+        "price_BHrmRh",
+        "quantity_selector_ciPjQX",
+        "buy_buttons_8V4jmA"
       ],
-      "disabled": true,
-      "custom_css": [
-        "img {object-fit: contain; max-height: 500px;}",
-        ".grid__item {max-height: 500px;}"
-      ],
+      "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "glide",
+        "product": "fenix",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "media_position": "left",
-        "image_zoom": "none",
+        "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 36,
@@ -379,9 +269,7 @@
   },
   "order": [
     "c227bd9b-4cf2-481c-b9a6-4bfcb6a8f075",
-    "image_with_text_e6p4Qc",
-    "image_with_text_tWwdMf",
-    "featured_product_77iTaM",
+    "featured_product_3jzbpx",
     "bdfed234-7975-4e20-bad7-04b40c568ff0",
     "a84e0931-8f51-46dd-8c7f-cf103348b5ac",
     "ad688dc9-f3fb-4d08-b21a-722fd3afc0a6",
