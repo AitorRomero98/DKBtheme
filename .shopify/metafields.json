@@ -199,6 +199,26 @@
         "name": "boolean",
         "category": "TRUE_FALSE"
       }
+    },
+    {
+      "key": "can_size",
+      "namespace": "custom",
+      "name": "Can size",
+      "description": "",
+      "type": {
+        "name": "single_line_text_field",
+        "category": "TEXT"
+      }
+    },
+    {
+      "key": "preorder_date",
+      "namespace": "custom",
+      "name": "Preorder date",
+      "description": "",
+      "type": {
+        "name": "date",
+        "category": "DATE_TIME"
+      }
     }
   ],
   "variant": [
