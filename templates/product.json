@@ -55,6 +55,7 @@
         },
         "13252fe7-cfc8-4902-8a79-ee74f7d66b67": {
           "type": "text",
+          "name": "Volume",
           "settings": {
             "text": "<strong>volum: </strong>{{ product.metafields.custom.can_size.value }}",
             "text_style": "uppercase"
