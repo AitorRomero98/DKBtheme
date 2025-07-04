@@ -44,21 +44,7 @@
         "custom_liquid_nR9fcE": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div style=\"display: flex; justify-content: space-around\">\n<div style href=\"google.com\">\nReservar barril de 20l</div>\n<div href=\"google.com\">\nReservar barril de 30l</div>\n</div>"
-          }
-        },
-        "popup_E7F7eH": {
-          "type": "popup",
-          "settings": {
-            "text": "Reservar barril de 20L",
-            "page": ""
-          }
-        },
-        "popup_rRbL3E": {
-          "type": "popup",
-          "settings": {
-            "text": "Reservar barril de 30L",
-            "page": ""
+            "custom_liquid": "<div style=\"display: flex; justify-content: space-between\">\n<div href=\"google.com\">\n<a>Reservar barril de 20l</a>\n</div>\n<div href=\"google.com\">\n<a>Reservar barril de 30l</a>\n</div>"
           }
         }
       },
@@ -67,9 +53,7 @@
         "title",
         "description",
         "cdb9b624-ec7b-475a-a023-78a502e36c3c",
-        "custom_liquid_nR9fcE",
-        "popup_E7F7eH",
-        "popup_rRbL3E"
+        "custom_liquid_nR9fcE"
       ],
       "custom_css": [
         ".no-js-hidden {margin-top: 0rem;}"
