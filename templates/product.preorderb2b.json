@@ -40,47 +40,13 @@
             "image_3": "shopify://shop_images/ethanol.svg",
             "heading_3": "{{ product.metafields.custom.abv.value }}%"
           }
-        },
-        "13252fe7-cfc8-4902-8a79-ee74f7d66b67": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>volum</strong> 440ml",
-            "text_style": "uppercase"
-          }
-        },
-        "6e8070ef-addf-4915-ae25-3f4979c715b7": {
-          "type": "text",
-          "settings": {
-            "text": "<strong>PACK DE 6 LLAUNES</strong>",
-            "text_style": "body"
-          }
-        },
-        "price": {
-          "type": "price",
-          "settings": {}
-        },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true
-          }
         }
       },
       "block_order": [
         "custom_liquid_DKa6Xh",
         "title",
         "description",
-        "cdb9b624-ec7b-475a-a023-78a502e36c3c",
-        "13252fe7-cfc8-4902-8a79-ee74f7d66b67",
-        "6e8070ef-addf-4915-ae25-3f4979c715b7",
-        "price",
-        "quantity_selector",
-        "buy_buttons"
+        "cdb9b624-ec7b-475a-a023-78a502e36c3c"
       ],
       "custom_css": [
         ".no-js-hidden {margin-top: 0rem;}"
