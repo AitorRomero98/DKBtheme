@@ -1,20 +1,18 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "padding_top": 36,
         "padding_bottom": 0
@@ -26,7 +24,7 @@
         "heading_mPEBMU": {
           "type": "heading",
           "settings": {
-            "heading": "PREGÜNTES FREQÜENTS \/ FAQ",
+            "heading": "PREGÜNTES FREQÜENTS / FAQ",
             "heading_size": "h1"
           }
         }
@@ -49,49 +47,90 @@
     "collapsible_content_VbwWYy": {
       "type": "collapsible-content",
       "blocks": {
+        "collapsible_row_GAJYUr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "On puc trobar la vostra cervesa?",
+            "icon": "none",
+            "row_content": "<p>Directament des de la nostra fàbrica podràs comprar cervesa fresca en diferents formats i quedar-te a prendre cervesa allà mateix on l’elaborem. Si no tens com venir fins aquí, pots fer una comanda a través de la nostra botiga web.</p><p>A l’Empordà, Girona i Barcelona distribuïm nosaltres mateixos i ens trobaràs a bars, restaurants, botigues i hotels que busquen oferir productes locals de qualitat així com botigues i locals especialitzats en cervesa artesana.</p><p>També treballem amb diversos distribuïdors nacional i internacionalment, de manera que ens trobaràs als principals punts de venta de cervesa artesana.</p><p>No ens trobes al teu punt de venta preferit? Pregunta per la nostra cervesa! És molt fàcil aconseguir la nostra cervesa.<br/></p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VQJN7q": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Què diferencia la vostra cervesa de la cervesa industrial?",
+            "icon": "check_mark",
+            "row_content": "<p>Som una microempresa, independent, fundada per una parella amb passió pels productes que priorititzen la qualitat.</p>",
+            "page": ""
+          }
+        },
         "collapsible_row_aeYHXr": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Feu cervesa sense alcohol?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>La cervesa tradicional és una beguda segura perquè, entre altres factors,<strong> conté alcohol</strong>, té un pH baix i conté llúpol, que pot ajudar a la seva estabilitat.</p><p>Quan eliminem l’alcohol d’aquesta equació, estem eliminant una barrera important vers patògens que són perillosos per a la salut. Un recurs per lluitar contra aquests patògens en cerveses sense alcohol és la pasteurització. Tot i això, la cervesa sense alcohol de barril segueix presentant riscs de contaminació i creixement de patògens mentre estigui punxada.</p><p>A Doskiwis no ens la juguem amb la salut dels nostres clients i clientes. Fins que no disposem dels recursos, tecnologia i processos per elaborar cervesa sense alcohol de manera segura, no n’elaborarem.</p>",
             "page": ""
           }
         },
         "collapsible_row_GgygWh": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Feu cervesa sense gluten?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Actualment, la nostra cervesa Rupianum és sense gluten. <br/><br/>És important entendre que a la UE, un &lt;20ppm de gluten ja és pot considerar <em>sense gluten</em>. Les persones que puguin tenir una sensibilitat inclús a nivells tan baixos de gluten, haurien d’evitar-ne el seu consum.</p>",
             "page": ""
           }
         },
         "collapsible_row_tgYHgy": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "És vegana la vostra cervesa?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Si. No fem servir clarificants ni additius d’origen animal com moltes cerveses industrials. Tampoc fem servir lactosa. Si en algun moment en féssim servir per una recepta en concret, aniria degudament assenyalada als ingredients.</p>",
             "page": ""
           }
         },
         "collapsible_row_cV8PAk": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Com he de guardar la vostra cervesa?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Guardant la nostra cervesa a la nevera t’assegures que manté amb les seves propietats organolèptiques durant un temps més llarg. Aconsellem evitar canvis de temperatura bruscos.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_XkiwHF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "M’agradaria oferir la vostra cervesa als meus clients!",
+            "icon": "check_mark",
+            "row_content": "<p>Genial! Gràcies per voler oferir un producte de qualitat i per apreciar els esforços d’una empresa jove i familiar. Escriu-nos i ens posem en marxa!</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_bDWmtF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Es pot visitar la fàbrica?",
+            "icon": "check_mark",
+            "row_content": "<p>Ara mateix no fem visited guiades, però si ens visites al Taproom veuràs que tota la fàbrica està a la vista; per nosaltres és molt important mostrar d’on prové la cervesa que t’estàs bevent.</p>",
             "page": ""
           }
         }
       },
       "block_order": [
+        "collapsible_row_GAJYUr",
+        "collapsible_row_VQJN7q",
         "collapsible_row_aeYHXr",
         "collapsible_row_GgygWh",
         "collapsible_row_tgYHgy",
-        "collapsible_row_cV8PAk"
+        "collapsible_row_cV8PAk",
+        "collapsible_row_XkiwHF",
+        "collapsible_row_bDWmtF"
       ],
+      "name": "FAQ Cat",
       "settings": {
         "caption": "",
         "heading": "GENERAL",
