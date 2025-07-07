@@ -32,16 +32,14 @@
       "block_order": [
         "heading_mPEBMU"
       ],
-      "custom_css": [
-        ".rich-text--full-width.color-background-1 .rich-text__blocks {width: 100%;max-width: 100%;padding: 0 5rem;text-align: left;"
-      ],
+      "custom_css": [],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 12
       }
     },
     "collapsible_content_VbwWYy": {
@@ -118,6 +116,24 @@
             "row_content": "<p>Ara mateix no fem visited guiades, però si ens visites al Taproom veuràs que tota la fàbrica està a la vista; per nosaltres és molt important mostrar d’on prové la cervesa que t’estàs bevent.</p>",
             "page": ""
           }
+        },
+        "collapsible_row_hxCDTA": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puc comprar un barril per una festa privada?",
+            "icon": "check_mark",
+            "row_content": "<p>I tant! Disposem de barrils i tiradors per la teva festa. <br/>Contacta’ns a <a href=\"mailto:orders@doskiwisbrewing.com\"><span style=\"text-decoration:underline\">orders@doskiwisbrewing.com</span></a> </p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_U7pC66": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Per què us dieu Doskiwis?",
+            "icon": "check_mark",
+            "row_content": "<p>El nostre nom fa referència a l’ocell kiwi, endèmic de Nova Zelanda, i al gentilici informal que s’utilitza per denominar les persones nascudes en aquest país. </p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -128,13 +144,15 @@
         "collapsible_row_tgYHgy",
         "collapsible_row_cV8PAk",
         "collapsible_row_XkiwHF",
-        "collapsible_row_bDWmtF"
+        "collapsible_row_bDWmtF",
+        "collapsible_row_hxCDTA",
+        "collapsible_row_U7pC66"
       ],
-      "name": "FAQ Cat",
+      "name": "General",
       "settings": {
         "caption": "",
         "heading": "GENERAL",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
         "color_scheme": "",
@@ -152,36 +170,54 @@
         "collapsible_row_34tafV": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Què és el Taproom?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>El taproom és l’espai adjacent a la fàbrica on pots venir a prendre una cervesa i veure exactament on les elaborem i envasem totes. Per nosaltres és crucial poder connectar-te directament a l’origen dels nostres productes.</p>",
             "page": ""
           }
         },
         "collapsible_row_NQiEzz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Serviu menjar al Taproom?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Si! Tenim la nostra petita cuina: El Container.</p>",
             "page": ""
           }
         },
         "collapsible_row_kTePyL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Podem venir amb un gos? ",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>Si, som 100% dog-friendly.</p>",
             "page": ""
           }
         },
         "collapsible_row_rcqqiz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
+            "heading": "Si vinc a Doskiwis, només puc beure cervesa?",
             "icon": "check_mark",
-            "row_content": "",
+            "row_content": "<p>També elaborem kombutxa i llimonada i servim begudes locals d’altres petits productors com ara sucs, sidra i vins naturals.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_TGMA4D": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Puc fer un tast de cervesa amb vosaltres?",
+            "icon": "check_mark",
+            "row_content": "<p>Si! Si vols tastar les diferents varietats de cervesa que elaborem, posa’t en contacte per reservar un tast guiat.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kVyiQ6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "He de reservar per venir al Taproom?",
+            "icon": "check_mark",
+            "row_content": "<p>No. L’esperit del taproom és informal, i es pot venir sense reserva. Això si, tenim un motor de reserves per qui vulgui assegurar taula durant els mesos de més trànsit: estiu, festius, etc.</p><p>Si vols venir al taproom per fer alguna celebració, contacta’ns a <a href=\"mailto:taproom@doskiwisbrewing.com\"><span style=\"text-decoration:underline\">taproom@doskiwisbrewing.com</span></a> i coordinem!</p>",
             "page": ""
           }
         }
@@ -190,15 +226,18 @@
         "collapsible_row_34tafV",
         "collapsible_row_NQiEzz",
         "collapsible_row_kTePyL",
-        "collapsible_row_rcqqiz"
+        "collapsible_row_rcqqiz",
+        "collapsible_row_TGMA4D",
+        "collapsible_row_kVyiQ6"
       ],
+      "name": "Taproom",
       "settings": {
         "caption": "",
         "heading": "TAPROOM",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "container_color_scheme": "",
         "open_first_collapsible_row": false,
         "image_ratio": "adapt",
