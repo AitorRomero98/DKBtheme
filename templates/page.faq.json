@@ -58,7 +58,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Què diferencia la vostra cervesa de la cervesa industrial?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Som una microempresa, independent, fundada per una parella amb passió pels productes que priorititzen la qualitat.</p>",
             "page": ""
           }
@@ -67,7 +67,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Feu cervesa sense alcohol?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>La cervesa tradicional és una beguda segura perquè, entre altres factors,<strong> conté alcohol</strong>, té un pH baix i conté llúpol, que pot ajudar a la seva estabilitat.</p><p>Quan eliminem l’alcohol d’aquesta equació, estem eliminant una barrera important vers patògens que són perillosos per a la salut. Un recurs per lluitar contra aquests patògens en cerveses sense alcohol és la pasteurització. Tot i això, la cervesa sense alcohol de barril segueix presentant riscs de contaminació i creixement de patògens mentre estigui punxada.</p><p>A Doskiwis no ens la juguem amb la salut dels nostres clients i clientes. Fins que no disposem dels recursos, tecnologia i processos per elaborar cervesa sense alcohol de manera segura, no n’elaborarem.</p>",
             "page": ""
           }
@@ -76,7 +76,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Feu cervesa sense gluten?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Actualment, la nostra cervesa Rupianum és sense gluten. <br/><br/>És important entendre que a la UE, un &lt;20ppm de gluten ja és pot considerar <em>sense gluten</em>. Les persones que puguin tenir una sensibilitat inclús a nivells tan baixos de gluten, haurien d’evitar-ne el seu consum.</p>",
             "page": ""
           }
@@ -85,7 +85,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "És vegana la vostra cervesa?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Si. No fem servir clarificants ni additius d’origen animal com moltes cerveses industrials. Tampoc fem servir lactosa. Si en algun moment en féssim servir per una recepta en concret, aniria degudament assenyalada als ingredients.</p>",
             "page": ""
           }
@@ -94,7 +94,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Com he de guardar la vostra cervesa?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Guardant la nostra cervesa a la nevera t’assegures que manté amb les seves propietats organolèptiques durant un temps més llarg. Aconsellem evitar canvis de temperatura bruscos.</p>",
             "page": ""
           }
@@ -103,7 +103,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "M’agradaria oferir la vostra cervesa als meus clients!",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Genial! Gràcies per voler oferir un producte de qualitat i per apreciar els esforços d’una empresa jove i familiar. Escriu-nos i ens posem en marxa!</p>",
             "page": ""
           }
@@ -112,7 +112,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Es pot visitar la fàbrica?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Ara mateix no fem visited guiades, però si ens visites al Taproom veuràs que tota la fàbrica està a la vista; per nosaltres és molt important mostrar d’on prové la cervesa que t’estàs bevent.</p>",
             "page": ""
           }
@@ -121,7 +121,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Puc comprar un barril per una festa privada?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>I tant! Disposem de barrils i tiradors per la teva festa. <br/>Contacta’ns a <a href=\"mailto:orders@doskiwisbrewing.com\"><span style=\"text-decoration:underline\">orders@doskiwisbrewing.com</span></a> </p>",
             "page": ""
           }
@@ -130,7 +130,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Per què us dieu Doskiwis?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>El nostre nom fa referència a l’ocell kiwi, endèmic de Nova Zelanda, i al gentilici informal que s’utilitza per denominar les persones nascudes en aquest país. </p>",
             "page": ""
           }
@@ -171,7 +171,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Què és el Taproom?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>El taproom és l’espai adjacent a la fàbrica on pots venir a prendre una cervesa i veure exactament on les elaborem i envasem totes. Per nosaltres és crucial poder connectar-te directament a l’origen dels nostres productes.</p>",
             "page": ""
           }
@@ -180,7 +180,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Serviu menjar al Taproom?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Si! Tenim la nostra petita cuina: El Container.</p>",
             "page": ""
           }
@@ -189,7 +189,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Podem venir amb un gos? ",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Si, som 100% dog-friendly.</p>",
             "page": ""
           }
@@ -198,7 +198,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Si vinc a Doskiwis, només puc beure cervesa?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>També elaborem kombutxa i llimonada i servim begudes locals d’altres petits productors com ara sucs, sidra i vins naturals.</p>",
             "page": ""
           }
@@ -207,7 +207,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Puc fer un tast de cervesa amb vosaltres?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>Si! Si vols tastar les diferents varietats de cervesa que elaborem, posa’t en contacte per reservar un tast guiat.</p>",
             "page": ""
           }
@@ -216,7 +216,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "He de reservar per venir al Taproom?",
-            "icon": "check_mark",
+            "icon": "none",
             "row_content": "<p>No. L’esperit del taproom és informal, i es pot venir sense reserva. Això si, tenim un motor de reserves per qui vulgui assegurar taula durant els mesos de més trànsit: estiu, festius, etc.</p><p>Si vols venir al taproom per fer alguna celebració, contacta’ns a <a href=\"mailto:taproom@doskiwisbrewing.com\"><span style=\"text-decoration:underline\">taproom@doskiwisbrewing.com</span></a> i coordinem!</p>",
             "page": ""
           }
