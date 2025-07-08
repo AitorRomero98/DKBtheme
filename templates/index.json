@@ -11,6 +11,7 @@
   "sections": {
     "c227bd9b-4cf2-481c-b9a6-4bfcb6a8f075": {
       "type": "image-banner",
+      "disabled": true,
       "custom_css": [],
       "settings": {
         "image": "shopify://shop_images/LANDING_compressed.jpg",
@@ -26,105 +27,59 @@
         "show_text_below": false
       }
     },
-    "image_with_text_e6p4Qc": {
-      "type": "image-with-text",
+    "featured_product_3jzbpx": {
+      "type": "featured-product",
       "blocks": {
-        "heading_9bWkgN": {
-          "type": "heading",
+        "title_YNk87X": {
+          "type": "title",
           "settings": {
-            "heading": "<strong>FENIX</strong>",
             "heading_size": "h1"
           }
         },
-        "text_E8my4R": {
+        "text_P3xdhi": {
           "type": "text",
           "settings": {
-            "text": "<p>Presentem la nostra primera cervesa sense alcohol: una cervesa de color or groc clar amb aromes tropicals intensos de pinya, sobre notes sutils herbàcies i especiades. <br/><br/>En boca, destaquen els sabors cítrics frescos sobre un cos suau i lleuger, oferint tot el sabor que t’agrada, sense alcohol.<br/><br/><br/></p>",
+            "text": "Presentem la nostra primera cervesa sense alcohol: una cervesa de color or groc clar amb aromes tropicals intensos de pinya, sobre notes sutils herbàcies i especiades.En boca, destaquen els sabors cítrics frescos sobre un cos suau i lleuger, oferint tot el sabor que t’agrada, sense alcohol.",
             "text_style": "body"
           }
         },
-        "button_hnggch": {
-          "type": "button",
+        "price_BHrmRh": {
+          "type": "price",
+          "settings": {}
+        },
+        "quantity_selector_ciPjQX": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_8V4jmA": {
+          "type": "buy_buttons",
           "settings": {
-            "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify://products/fenix",
-            "button_style_secondary": false
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true
           }
         }
       },
       "block_order": [
-        "heading_9bWkgN",
-        "text_E8my4R",
-        "button_hnggch"
+        "title_YNk87X",
+        "text_P3xdhi",
+        "price_BHrmRh",
+        "quantity_selector_ciPjQX",
+        "buy_buttons_8V4jmA"
       ],
-      "custom_css": [
-        "img {object-fit: contain; max-height: 90%;}"
-      ],
+      "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "image": "shopify://shop_images/fenix_can.png",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
+        "product": "fenix",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
         "padding_top": 36,
-        "padding_bottom": 0
-      }
-    },
-    "image_with_text_tWwdMf": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_RW89MN": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>GAP YEAR</strong>",
-            "heading_size": "h1"
-          }
-        },
-        "text_rptbDJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Vibrant, fresca i pensada per a l’estiu, <em>Gap Year</em> es presenta amb un groc pàl·lid, gairebé lletós. Aromes intenses de pinya lleugerament verda, citronel·la i llima acabada d’esprémer, equilibrades amb un toc dolç de caramel tipus sugus i una nota floral de farigola llimonera.<br/><br/>Lleugera, seca i molt fàcil de beure, amb els cítrics com a protagonistes en boca: llimona, llima i un cos suau que allarga els sabors. Una amargor moderada i ben integrada completa el glop, deixant la boca fresca i amb ganes de més.</p>",
-            "text_style": "body"
-          }
-        },
-        "button_VbRNUR": {
-          "type": "button",
-          "settings": {
-            "button_label": "MÉS INFORMACIÓ",
-            "button_link": "shopify://products/gap-year",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_RW89MN",
-        "text_rptbDJ",
-        "button_VbRNUR"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "img {object-fit: contain; max-height: 90%;}"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/gap_year_can.png",
-        "height": "medium",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "section_color_scheme": "",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 36
       }
     },
     "bdfed234-7975-4e20-bad7-04b40c568ff0": {
@@ -140,19 +95,19 @@
         "description_style": "body",
         "collection": "beer",
         "products_to_show": 25,
-        "columns_desktop": 5,
+        "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": true,
-        "color_scheme": "",
+        "color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
         "image_ratio": "portrait",
         "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": false,
         "enable_quick_add": true,
-        "columns_mobile": "2",
+        "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 20
@@ -164,7 +119,7 @@
         "template--19735877615955__a84e0931-8f51-46dd-8c7f-cf103348b5ac-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>TASTA'NS</strong>",
+            "heading": "<strong>BENVINGUTS AL NEST</strong>",
             "heading_size": "h2"
           }
         },
@@ -180,7 +135,7 @@
           "settings": {
             "button_label": "MÉS",
             "button_link": "shopify://pages/taproom",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
@@ -200,11 +155,11 @@
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "background-1",
-        "color_scheme": "scheme-aaafaf35-5b06-4754-9e59-742aa5dbed71",
+        "section_color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
+        "color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 4,
+        "padding_top": 24,
         "padding_bottom": 12
       }
     },
@@ -230,7 +185,7 @@
           "settings": {
             "button_label": "MÉS",
             "button_link": "shopify://pages/aboutus",
-            "button_style_secondary": false
+            "button_style_secondary": true
           }
         }
       },
@@ -250,12 +205,12 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "scheme-aaafaf35-5b06-4754-9e59-742aa5dbed71",
+        "section_color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
+        "color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 12,
-        "padding_bottom": 0
+        "padding_bottom": 44
       }
     },
     "b9b4250d-59d7-4198-b535-99170c56f2e7": {
@@ -315,8 +270,7 @@
   },
   "order": [
     "c227bd9b-4cf2-481c-b9a6-4bfcb6a8f075",
-    "image_with_text_e6p4Qc",
-    "image_with_text_tWwdMf",
+    "featured_product_3jzbpx",
     "bdfed234-7975-4e20-bad7-04b40c568ff0",
     "a84e0931-8f51-46dd-8c7f-cf103348b5ac",
     "ad688dc9-f3fb-4d08-b21a-722fd3afc0a6",

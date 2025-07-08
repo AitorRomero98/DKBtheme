@@ -24,7 +24,7 @@
     "animations_hover_elements": "vertical-lift",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
-    "buttons_radius": 6,
+    "buttons_radius": 0,
     "buttons_shadow_opacity": 0,
     "buttons_shadow_horizontal_offset": 0,
     "buttons_shadow_vertical_offset": 4,
@@ -45,8 +45,8 @@
     "inputs_shadow_blur": 5,
     "card_style": "card",
     "card_image_padding": 0,
-    "card_text_alignment": "center",
-    "card_color_scheme": "background-1",
+    "card_text_alignment": "left",
+    "card_color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
     "card_border_thickness": 1,
     "card_border_opacity": 10,
     "card_corner_radius": 6,
@@ -105,8 +105,8 @@
     "drawer_shadow_blur": 5,
     "badge_position": "bottom left",
     "badge_corner_radius": 6,
-    "sale_badge_color_scheme": "accent-2",
-    "sold_out_badge_color_scheme": "accent-1",
+    "sale_badge_color_scheme": "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1",
+    "sold_out_badge_color_scheme": "accent-2",
     "brand_headline": "<strong>DOSKIWIS BREWING</strong>",
     "brand_description": "<h5>CERVESERA EMPORDÀ</h5>",
     "brand_image": "shopify://shop_images/DKB_BOTTLE_LABEL_MONTGRI_BLACK-01_70806482-9839-4a30-9e8a-f5e601470a00.png",
@@ -129,7 +129,7 @@
     "show_vendor": false,
     "show_cart_note": true,
     "cart_drawer_collection": "",
-    "cart_color_scheme": "inverse",
+    "cart_color_scheme": "background-1",
     "checkout_accent_color": "#a7906a",
     "checkout_button_color": "#a7906a",
     "sections": {
@@ -227,24 +227,35 @@
       },
       "scheme-9641a114-95db-4b5a-b6d4-dd518e525051": {
         "settings": {
-          "background": "#fffde9",
+          "background": "#f3f3f3",
           "background_gradient": "",
-          "text": "#1c2444",
+          "text": "#131313",
           "button": "#2c332f",
           "button_label": "#1c2444",
-          "secondary_button_label": "#5c939b",
+          "secondary_button_label": "#6f6f6f",
           "shadow": "#1c2444"
         }
       },
       "scheme-aaafaf35-5b06-4754-9e59-742aa5dbed71": {
         "settings": {
-          "background": "#ffffff",
+          "background": "#886047",
           "background_gradient": "",
-          "text": "#1c2444",
+          "text": "#f2f2f2",
           "button": "#5c939b",
           "button_label": "#ffffff",
           "secondary_button_label": "#9c1c7c",
           "shadow": "#9c1c7c"
+        }
+      },
+      "scheme-71140e7c-bd90-4fad-b3b2-61f3f0357da1": {
+        "settings": {
+          "background": "#ffffff",
+          "background_gradient": "",
+          "text": "#252525",
+          "button": "#f1f1f1",
+          "button_label": "#525252",
+          "secondary_button_label": "#525252",
+          "shadow": "#252525"
         }
       }
     }
