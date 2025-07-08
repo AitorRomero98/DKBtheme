@@ -11,7 +11,7 @@
   "name": "t:sections.footer.name",
   "type": "footer",
   "sections": {
-    "custom_liquid_CrTjVG": {
+    "custom_liquid_kkBq9r": {
       "type": "custom-liquid",
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
@@ -71,7 +71,7 @@
     }
   },
   "order": [
-    "custom_liquid_CrTjVG",
+    "custom_liquid_kkBq9r",
     "footer"
   ]
 }
