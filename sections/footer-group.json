@@ -13,6 +13,7 @@
   "sections": {
     "custom_liquid_kkBq9r": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "t:sections.custom-liquid.presets.name",
       "settings": {
         "custom_liquid": "<style>\n.fineline {\n  width: 100%;\n  border-width: 1px;\n  border-color: #232323;\n  color: white;\n  border-style: solid;\ncolor: black;\n}\n</style>\n\n<div class=\"fineline\"> </div>",
