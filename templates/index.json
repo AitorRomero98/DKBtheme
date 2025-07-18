@@ -39,7 +39,7 @@
         "text_VDMKgi": {
           "type": "text",
           "settings": {
-            "text": "Aromàtica i intensa, amb capes de sabors que recorden a la fruita tropical i de pinyol, amb un toc de pell de llima final per arrodonir-la. En boca és sedosa i suculenta, amb els mateixos sabors exuberants: fruita tropical, meló madur, cítrics vius i una nota herbàcia subtil que hi aporta equilibri.",
+            "text": "Amb un color taronja suau i aspecte tèrbol, Visions esclata amb aromes intenses de fruita de la passió i mango. El cos, lleuger però sedós, conté capes sucoses de fruita de pinyol i cítrics i acaba amb una amargor herbàcia i neta.",
             "text_style": "body"
           }
         },
@@ -69,7 +69,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "univers",
+        "product": "visions",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "small",
