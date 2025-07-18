@@ -83,6 +83,62 @@
         "padding_bottom": 36
       }
     },
+    "featured_product_xRDNaP": {
+      "type": "featured-product",
+      "blocks": {
+        "title_gJC6A3": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "text_VDMKgi": {
+          "type": "text",
+          "settings": {
+            "text": "Aromàtica i intensa, amb capes de sabors que recorden a la fruita tropical i de pinyol, amb un toc de pell de llima final per arrodonir-la. En boca és sedosa i suculenta, amb els mateixos sabors exuberants: fruita tropical, meló madur, cítrics vius i una nota herbàcia subtil que hi aporta equilibri.",
+            "text_style": "body"
+          }
+        },
+        "price_Rn7pJg": {
+          "type": "price",
+          "settings": {}
+        },
+        "quantity_selector_RG74Ud": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_waED8R": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "button_style_secondary": true
+          }
+        }
+      },
+      "block_order": [
+        "title_gJC6A3",
+        "text_VDMKgi",
+        "price_Rn7pJg",
+        "quantity_selector_RG74Ud",
+        "buy_buttons_waED8R"
+      ],
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "univers",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "bdfed234-7975-4e20-bad7-04b40c568ff0": {
       "type": "featured-collection",
       "custom_css": [
@@ -271,6 +327,7 @@
   },
   "order": [
     "c227bd9b-4cf2-481c-b9a6-4bfcb6a8f075",
+    "featured_product_xRDNaP",
     "featured_product_3jzbpx",
     "bdfed234-7975-4e20-bad7-04b40c568ff0",
     "a84e0931-8f51-46dd-8c7f-cf103348b5ac",
