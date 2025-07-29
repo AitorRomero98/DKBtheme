@@ -30,6 +30,13 @@
     "featured_product_xRDNaP": {
       "type": "featured-product",
       "blocks": {
+        "custom_liquid_YdqYbU": {
+          "type": "custom_liquid",
+          "disabled": true,
+          "settings": {
+            "custom_liquid": "<style>\n.anouncement {\nbackground-color: #525252;\npadding-left: 1em;\npadding-right: 1em;\ndisplay: inline-block}\n\nb {\ntext-transform: uppercase;\ncolor: white;\nfont-size: 1.5em;}\n\n.date {\ncolor: white;\nmargin: 0px;\nfont-size: 0.9em;\n}\n</style>\n\n\n<div class=\"anouncement\">\n<b>{{ 'products.product.preorder' | t }}</b>\n</div>"
+          }
+        },
         "title_gJC6A3": {
           "type": "title",
           "settings": {
@@ -39,7 +46,7 @@
         "text_VDMKgi": {
           "type": "text",
           "settings": {
-            "text": "Amb un color taronja suau i aspecte tèrbol, Visions esclata amb aromes intenses de fruita de la passió i mango. El cos, lleuger però sedós, conté capes sucoses de fruita de pinyol i cítrics i acaba amb una amargor herbàcia i neta.",
+            "text": "De color groc sedós, amb aromes intenses de préssec, meló i maduixa, amb capes de llima vibrant i un toc d’herbes fresques com la farigola. En boca, apareixen notes de fruita dolça, fruita de la passió, suc de taronja i fins i tot una mica de poma confitada, tot plegat embolcallat per una marcada nota cítrica de llima.",
             "text_style": "body"
           }
         },
@@ -61,6 +68,7 @@
         }
       },
       "block_order": [
+        "custom_liquid_YdqYbU",
         "title_gJC6A3",
         "text_VDMKgi",
         "price_Rn7pJg",
@@ -69,7 +77,7 @@
       ],
       "name": "t:sections.featured-product.presets.name",
       "settings": {
-        "product": "visions",
+        "product": "wild-motion",
         "color_scheme": "",
         "secondary_background": false,
         "media_size": "small",
