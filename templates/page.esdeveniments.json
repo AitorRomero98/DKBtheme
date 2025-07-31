@@ -15,18 +15,65 @@
         "heading_7Gkwgi": {
           "type": "heading",
           "settings": {
-            "heading": "02/08/2025",
+            "heading": "09+10 August 2025",
             "heading_size": "h2"
           }
         },
         "text_zBUwNE": {
           "type": "text",
           "settings": {
-            "text": "<h1>OSO LEONE & B1N0 TEATRE DE RUPIÀ</h1><h3><strong>Dissabte 2 d’agost — Portes 21:00</strong></h3><p>Oso Leone + b1n0 en concert <strong>al Teatre de Rupià</strong> amb servei de bar a càrrec nostre :)<br/><br/>Punxarem:</p><ul><li>Social Lager - Helles Exportbier</li><li>Ideal - Hazy IPA</li></ul><p>També portarem la Fenix, cervesa sense alcohol.</p>",
+            "text": "<h1>THESE HILLS FESTIVAL</h1><p>We are very honored to be pouring at Beak’s international beer festival, These Hills.<br/></p><p>Taking place on the 9th + 10th August 2025 at the stunning Glynde Place, just outside Lewes, it promises to be bigger and better than ever with more than 40 of the world’s greatest breweries in attendance plus live music, DJs, incredible street-food and, of course, some left-field folk traditions. <br/><br/></p>",
             "text_style": "subtitle"
           }
         },
         "button_Dp7CrU": {
+          "type": "button",
+          "settings": {
+            "button_label": "+ INFO",
+            "button_link": "https://beakbrewery.com/pages/these-hills",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_7Gkwgi",
+        "text_zBUwNE",
+        "button_Dp7CrU"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/3_copy_28428a90-4552-443b-92a6-07d1a2a5af60.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 4
+      }
+    },
+    "image_with_text_CtRppy": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Y3FQE9": {
+          "type": "heading",
+          "settings": {
+            "heading": "02/08/2025",
+            "heading_size": "h2"
+          }
+        },
+        "text_iqgz8N": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>OSO LEONE & B1N0 TEATRE DE RUPIÀ</h1><h3><strong>Dissabte 2 d’agost — Portes 21:00</strong></h3><p>Oso Leone + b1n0 en concert <strong>al Teatre de Rupià</strong> amb servei de bar a càrrec nostre :)<br/><br/>Punxarem:</p><ul><li>Social Lager - Helles Exportbier</li><li>Ideal - Hazy IPA</li></ul><p>També portarem la Fenix, cervesa sense alcohol.</p>",
+            "text_style": "subtitle"
+          }
+        },
+        "button_nNrk9K": {
           "type": "button",
           "settings": {
             "button_label": "ÚLTIMES ENTRADES",
@@ -36,9 +83,9 @@
         }
       },
       "block_order": [
-        "heading_7Gkwgi",
-        "text_zBUwNE",
-        "button_Dp7CrU"
+        "heading_Y3FQE9",
+        "text_iqgz8N",
+        "button_nNrk9K"
       ],
       "settings": {
         "image": "shopify://shop_images/event_m_ol_b1no_rupia-02-02.png",
@@ -441,6 +488,7 @@
   },
   "order": [
     "image_with_text_aHphen",
+    "image_with_text_CtRppy",
     "5ab0d96a-1e54-4d35-9e31-d7fc6b6db095",
     "image_with_text_JPUcr7",
     "image_with_text_4fieB8",
