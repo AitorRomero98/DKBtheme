@@ -226,7 +226,8 @@
         "slide_AzWPyX"
       ],
       "custom_css": [
-        "slideshow-component {padding: 20px 20px;}"
+        "slideshow-component {padding: 20px 20px;}",
+        ".slideshow__text-wrapper {display: none;}"
       ],
       "settings": {
         "layout": "grid",
