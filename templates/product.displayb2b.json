@@ -12,12 +12,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "custom_liquid_DKa6Xh": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<style>\n.anouncement {\nbackground-color: black;\npadding-left: 1em;\npadding-right: 1em;\ndisplay: inline-block}\n\nb {\ntext-transform: uppercase;\ncolor: white;\nfont-size: 1.5em;}\n\n.date {\ncolor: white;\nmargin: 0px;\nfont-size: 0.9em;\n}\n</style>\n\n\n<div class=\"anouncement\">\n<b>{{ 'products.product.preorder' | t }}</b>\n<p class=\"date\">{{ 'products.product.preorder_date' | t}} \n{{product.metafields.custom.preorder_date  | date: \"%d - %m - %Y\"}}</p>\n</div>"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {}
@@ -49,7 +43,6 @@
         }
       },
       "block_order": [
-        "custom_liquid_DKa6Xh",
         "title",
         "description",
         "cdb9b624-ec7b-475a-a023-78a502e36c3c",
