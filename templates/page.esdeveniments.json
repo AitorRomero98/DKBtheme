@@ -9,6 +9,46 @@
  */
 {
   "sections": {
+    "rich_text_KJzGaX": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_QiRY8A": {
+          "type": "heading",
+          "settings": {
+            "heading": "Castanyada / Halloween party",
+            "heading_size": "h2"
+          }
+        },
+        "text_an4c6x": {
+          "type": "text",
+          "settings": {
+            "text": "<p>dia 1 de novembre</p>"
+          }
+        },
+        "caption_kEQFDq": {
+          "type": "caption",
+          "settings": {
+            "caption": "MÉS DETALLS PROPERAMENT",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        }
+      },
+      "block_order": [
+        "heading_QiRY8A",
+        "text_an4c6x",
+        "caption_kEQFDq"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_riUKeX": {
       "type": "image-with-text",
       "blocks": {
@@ -535,6 +575,7 @@
     }
   },
   "order": [
+    "rich_text_KJzGaX",
     "image_with_text_riUKeX",
     "image_with_text_aHphen",
     "image_with_text_CtRppy",
