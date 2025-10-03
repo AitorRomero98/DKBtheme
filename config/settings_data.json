@@ -243,12 +243,12 @@
       },
       "scheme-aaafaf35-5b06-4754-9e59-742aa5dbed71": {
         "settings": {
-          "background": "#886047",
+          "background": "#ffffff",
           "background_gradient": "",
-          "text": "#f2f2f2",
-          "button": "#5c939b",
-          "button_label": "#ffffff",
-          "secondary_button_label": "#9c1c7c",
+          "text": "#525252",
+          "button": "#525252",
+          "button_label": "#f3f3f3",
+          "secondary_button_label": "#525252",
           "shadow": "#9c1c7c"
         }
       },
