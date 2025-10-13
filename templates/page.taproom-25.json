@@ -17,23 +17,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_KitMHg": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/njoy-costa-brava-rupia-doskiwis-craft-beer.webp",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "rich_text_gPVYjh": {
       "type": "rich-text",
       "blocks": {
@@ -65,6 +48,23 @@
         "padding_bottom": 72
       }
     },
+    "image_banner_KitMHg": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/njoy-costa-brava-rupia-doskiwis-craft-beer.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "multicolumn_MPxb4e": {
       "type": "multicolumn",
       "blocks": {
@@ -93,6 +93,7 @@
         "column_h7C9Bq",
         "column_fLebWG"
       ],
+      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
@@ -204,6 +205,23 @@
         "enable_video_looping": false,
         "padding_top": 72,
         "padding_bottom": 72
+      }
+    },
+    "image_banner_pqiWEf": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC08854.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "image_with_text_zzDRnE": {
@@ -432,7 +450,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
+        "image": "shopify://shop_images/DSC03936.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -634,6 +652,7 @@
         "paragraph_nQTP9J",
         "email_form_r9E6aP"
       ],
+      "disabled": true,
       "name": "t:sections.newsletter.presets.name",
       "settings": {
         "color_scheme": "background-1",
@@ -789,11 +808,12 @@
   },
   "order": [
     "main",
-    "image_banner_KitMHg",
     "rich_text_gPVYjh",
+    "image_banner_KitMHg",
     "multicolumn_MPxb4e",
     "rich_text_EWjFnQ",
     "featured_product_qkL9j7",
+    "image_banner_pqiWEf",
     "image_with_text_zzDRnE",
     "image_with_text_qnew8U",
     "image_with_text_B7rzgz",
