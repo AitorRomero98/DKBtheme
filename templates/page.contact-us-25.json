@@ -23,14 +23,14 @@
         "heading_CwEgTq": {
           "type": "heading",
           "settings": {
-            "heading": "Visit our Taproom",
+            "heading": "Contact Us",
             "heading_size": "h1"
           }
         },
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. We currently have ten beers on rotation - always brewed on-site by our small and passionate team.</p>"
+            "text": "<p>For any questions relating to Doskiwis beer, online orders, our Taproom and beyond please use the relevant information below and we’ll be delighted to hear from you. </p>"
           }
         }
       },
@@ -118,14 +118,14 @@
         "heading_LUXqHN": {
           "type": "heading",
           "settings": {
-            "heading": "Taproom Information",
+            "heading": "",
             "heading_size": "h2"
           }
         },
         "text_rDQWqB": {
           "type": "text",
           "settings": {
-            "text": "<p>Address: </p><p>Doskiwis Brewing, Carretera Parlavà 22, 17131 Rupià, Girona</p><p><span style=\"text-decoration:underline\">Google Maps</span></p><p>Opening Hours - <strong>October 2025:</strong></p><ul><li><strong>Friday: 6pm-11pm</strong> (kitchen: 7.30pm-10.30pm)</li><li><strong>Saturday: 12pm-11pm</strong> (kitchen: 1pm-3.30pm and 7.30pm-10.30pm)</li><li><strong>Sunday: 12pm-6pm</strong> (kitchen: 1pm-3.30pm)</li></ul><p>Please note: </p><p>Our opening hours change with the seasons and are updated on a monthly basis. Please <span style=\"text-decoration:underline\">get in touch</span> if you have questions about opening hours on specific dates in the more distant future.</p><p>Taproom Shop:</p><p>Our beers are available to go in 440ml cans and 946ml reusable bottles. The shop is open Tuesday to Friday, 10am-6pm, as well as the Taproom opening hours listed above. </p>"
+            "text": "<p>General Enquiries:</p><ul><li>Email: doskiwis@doskiwisbrewing.com</li><li>Phone: +34623192815</li></ul><p>Brewery & Taproom Address:</p><ul><li>Doskiwis Brewing, Carretera de Parlavà, GI-642, 22, 17131 Rupià, Girona</li><li>Google Maps</li></ul><p>Opening hours:</p><ul><li>Our Taproom is open year-round, with hours that vary by season.</li><li>Please check the Taproom page for more information.</li></ul>"
           }
         }
       },
@@ -209,6 +209,7 @@
     },
     "image_banner_pqiWEf": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC08854.jpg",
@@ -255,6 +256,7 @@
         "text_bLwPwF",
         "button_8wzi8w"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC07456.jpg",
@@ -303,6 +305,7 @@
         "text_hjwfV7",
         "button_UaUc7y"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC06566.jpg",
@@ -351,6 +354,7 @@
         "text_WqCXtJ",
         "button_AtcTnh"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
@@ -448,6 +452,7 @@
         "text_8BdNLq",
         "button_p9tKPW"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC03936.jpg",
@@ -804,6 +809,23 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "image_banner_4Nmxfw": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/LIMINALITY_DKB_1.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -823,6 +845,7 @@
     "slideshow_H4bGJY",
     "newsletter_UqyYQY",
     "slideshow_LWXCkA",
-    "featured_collection_3KVGKF"
+    "featured_collection_3KVGKF",
+    "image_banner_4Nmxfw"
   ]
 }
