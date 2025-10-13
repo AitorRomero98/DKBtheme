@@ -23,14 +23,14 @@
         "heading_CwEgTq": {
           "type": "heading",
           "settings": {
-            "heading": "Visit our Taproom",
+            "heading": "Tasting Experiences",
             "heading_size": "h1"
           }
         },
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. We currently have ten beers on rotation - always brewed on-site by our small and passionate team.</p>"
+            "text": "<p>Join our passionate team at the Taproom for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>"
           }
         }
       },
@@ -52,9 +52,9 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/njoy-costa-brava-rupia-doskiwis-craft-beer.webp",
+        "image": "shopify://shop_images/DSC08854.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -118,14 +118,14 @@
         "heading_LUXqHN": {
           "type": "heading",
           "settings": {
-            "heading": "Taproom Information",
+            "heading": "Here’s all the information you will need:",
             "heading_size": "h2"
           }
         },
         "text_rDQWqB": {
           "type": "text",
           "settings": {
-            "text": "<p>Address: </p><p>Doskiwis Brewing, Carretera Parlavà 22, 17131 Rupià, Girona</p><p><span style=\"text-decoration:underline\">Google Maps</span></p><p>Opening Hours - <strong>October 2025:</strong></p><ul><li><strong>Friday: 6pm-11pm</strong> (kitchen: 7.30pm-10.30pm)</li><li><strong>Saturday: 12pm-11pm</strong> (kitchen: 1pm-3.30pm and 7.30pm-10.30pm)</li><li><strong>Sunday: 12pm-6pm</strong> (kitchen: 1pm-3.30pm)</li></ul><p>Please note: </p><p>Our opening hours change with the seasons and are updated on a monthly basis. Please <span style=\"text-decoration:underline\">get in touch</span> if you have questions about opening hours on specific dates in the more distant future.</p><p>Taproom Shop:</p><p>Our beers are available to go in 440ml cans and 946ml reusable bottles. The shop is open Tuesday to Friday, 10am-6pm, as well as the Taproom opening hours listed above. </p>"
+            "text": "<p>What does it include?</p><ul><li>The Tasting Experience includes 100ml of ten different beers on tap plus an appetiser of artisanal crisps and mixed olives. </li></ul><p>What is the price?</p><ul><li>The Tasting Experience is €25 per person. Of course, additional beers can be purchased to enjoy in the beer garden or to take home.</li></ul><p>Duration:</p><ul><li>The experience typically lasts two hours, but can be shortened if preferred - please let us know in advance or upon arrival.</li></ul><p>Timing:</p><ul><li>Tasting Experience hours vary by season. When we are open during the day, tastings start at 12pm. During evening-only hours, they start at 6pm.</li></ul><p>Combine with lunch or dinner:</p><ul><li>The Tasting Experience can be enjoyed alongside any of our kitchen menu dishes, either during or afterwards, subject to kitchen opening hours. </li></ul><p>Booking:</p><ul><li>Advance booking is required to ensure the best possible experience.</li></ul><p>Can I gift a Tasting Experience?</p><ul><li>Yes! Our Tasting Experience is the perfect gift for beer lovers.</li></ul><p>Questions?</p><ul><li>Please <span style=\"text-decoration:underline\">contact us</span> with any questions or special requests and we will be delighted to help. </li></ul>"
           }
         }
       },
@@ -137,6 +137,34 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "rich_text_hV4Ncf": {
+      "type": "rich-text",
+      "blocks": {
+        "button_yqzeEE": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_yqzeEE"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
@@ -255,6 +283,7 @@
         "text_bLwPwF",
         "button_8wzi8w"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC07456.jpg",
@@ -303,6 +332,7 @@
         "text_hjwfV7",
         "button_UaUc7y"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC06566.jpg",
@@ -351,6 +381,7 @@
         "text_WqCXtJ",
         "button_AtcTnh"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
@@ -448,6 +479,7 @@
         "text_8BdNLq",
         "button_p9tKPW"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC03936.jpg",
@@ -812,6 +844,7 @@
     "image_banner_KitMHg",
     "multicolumn_MPxb4e",
     "rich_text_EWjFnQ",
+    "rich_text_hV4Ncf",
     "featured_product_qkL9j7",
     "image_banner_pqiWEf",
     "image_with_text_zzDRnE",
