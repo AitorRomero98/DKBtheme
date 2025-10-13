@@ -47,7 +47,7 @@
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<p>We create modern and accessible beers, packed full of flavour, using only the highest-quality ingredients, ensuring an unmistakable experience in every glass.</p><p>Since 2019, we’ve been brewing away at our ever-evolving Brewery & Taproom in Rupià, Empordà - a peaceful village tucked between Girona, the Pyrenees mountains and the Costa Brava coastline.</p>"
+            "text": "<p>We create modern and accessible beers, packed full of flavour, using only the highest-quality ingredients, ensuring an unmistakable experience in every glass.</p><p>Since 2019, we’ve been brewing away in Rupià, Empordà - a peaceful village tucked between Girona, the Pyrenees mountains and the Costa Brava coastline.</p>"
           }
         }
       },
@@ -126,7 +126,7 @@
         "text_hjwfV7": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy our freshest beers on tap or to take home, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. </p>",
+            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. </p>",
             "text_style": "body"
           }
         },
@@ -174,7 +174,7 @@
         "text_WqCXtJ": {
           "type": "text",
           "settings": {
-            "text": "<p>Join our passionate team at the Brewery & Taproom for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
+            "text": "<p>Join our passionate team at the Taproom for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
             "text_style": "body"
           }
         },
@@ -222,7 +222,7 @@
         "text_AegN6r": {
           "type": "text",
           "settings": {
-            "text": "<p>Check out our upcoming events, hosted at the Brewery & Taproom in Rupià, Empordà and beyond.</p>",
+            "text": "<p>Check out our upcoming events, hosted at the Taproom in Rupià, Empordà and beyond.</p>",
             "text_style": "body"
           }
         },
@@ -270,7 +270,7 @@
         "text_8BdNLq": {
           "type": "text",
           "settings": {
-            "text": "<p>Back in 2016, we (Judit, from Llofriu, Baix Empordà and Michael, from New Zealand, the “Kiwi”) created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
+            "text": "<p>Back in 2016, we created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
             "text_style": "body"
           }
         },
