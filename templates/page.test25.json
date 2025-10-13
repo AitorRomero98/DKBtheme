@@ -165,7 +165,7 @@
         "image": "shopify://shop_images/Favicons_Core_Beers_-_4.png",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "text_first",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -208,10 +208,9 @@
         "text_hjwfV7",
         "button_UaUc7y"
       ],
-      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/DSC06824.jpg",
+        "image": "shopify://shop_images/DSC06566.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -259,7 +258,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/DSC06566.jpg",
+        "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -305,6 +304,7 @@
         "text_AegN6r",
         "button_XefYq3"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
@@ -358,7 +358,7 @@
         "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
