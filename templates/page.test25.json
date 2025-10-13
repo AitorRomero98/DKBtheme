@@ -285,6 +285,65 @@
         "padding_bottom": 36
       }
     },
+    "multirow_8xF7i4": {
+      "type": "multirow",
+      "blocks": {
+        "row_YQfhpn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC06886.jpg",
+            "caption": "",
+            "heading": "Visit our Taproom",
+            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. </p>",
+            "button_label": "Find out more",
+            "button_link": ""
+          }
+        },
+        "row_w8Ltad": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
+            "caption": "",
+            "heading": "Tasting Experiences",
+            "text": "<p>Join our passionate team at the Taproom for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
+            "button_label": "Find out more",
+            "button_link": ""
+          }
+        },
+        "row_chrbYq": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
+            "caption": "",
+            "heading": "A Labour of Love",
+            "text": "<p>Back in 2016, we created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
+            "button_label": "Keep reading",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_YQfhpn",
+        "row_w8Ltad",
+        "row_chrbYq"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "image_with_text_qnew8U": {
       "type": "image-with-text",
       "blocks": {
@@ -316,6 +375,7 @@
         "text_hjwfV7",
         "button_UaUc7y"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC06886.jpg",
@@ -364,6 +424,7 @@
         "text_WqCXtJ",
         "button_AtcTnh"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
@@ -461,6 +522,7 @@
         "text_8BdNLq",
         "button_p9tKPW"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
@@ -827,6 +889,7 @@
     "featured_collection_UxYmta",
     "featured_product_qkL9j7",
     "multicolumn_fGYzU6",
+    "multirow_8xF7i4",
     "image_with_text_qnew8U",
     "image_with_text_B7rzgz",
     "image_with_text_CPhkqf",
