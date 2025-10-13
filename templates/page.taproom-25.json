@@ -40,14 +40,14 @@
         "heading_CwEgTq": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome to Doskiwis",
-            "heading_size": "h0"
+            "heading": "Visit our Taproom",
+            "heading_size": "h1"
           }
         },
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<p>We create modern and accessible beers, packed full of flavour, using only the highest-quality ingredients, ensuring an unmistakable experience in every glass.</p><p>Since 2019, we’ve been brewing away in Rupià, Empordà - a peaceful village tucked between Girona, the Pyrenees mountains and the Costa Brava coastline.</p>"
+            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. We currently have ten beers on rotation - always brewed on-site by our small and passionate team.</p>"
           }
         }
       },
@@ -63,6 +63,83 @@
         "full_width": true,
         "padding_top": 72,
         "padding_bottom": 72
+      }
+    },
+    "multicolumn_MPxb4e": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_h7C9Bq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC06566.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_fLebWG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC06566.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_h7C9Bq",
+        "column_fLebWG"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_EWjFnQ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LUXqHN": {
+          "type": "heading",
+          "settings": {
+            "heading": "Taproom Information",
+            "heading_size": "h2"
+          }
+        },
+        "text_rDQWqB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Address: </p><p>Doskiwis Brewing, Carretera Parlavà 22, 17131 Rupià, Girona</p><p><span style=\"text-decoration:underline\">Google Maps</span></p><p>Opening Hours - <strong>October 2025:</strong></p><ul><li><strong>Friday: 6pm-11pm</strong> (kitchen: 7.30pm-10.30pm)</li><li><strong>Saturday: 12pm-11pm</strong> (kitchen: 1pm-3.30pm and 7.30pm-10.30pm)</li><li><strong>Sunday: 12pm-6pm</strong> (kitchen: 1pm-3.30pm)</li></ul><p>Please note: </p><p>Our opening hours change with the seasons and are updated on a monthly basis. Please <span style=\"text-decoration:underline\">get in touch</span> if you have questions about opening hours on specific dates in the more distant future.</p><p>Taproom Shop:</p><p>Our beers are available to go in 440ml cans and 946ml reusable bottles. The shop is open Tuesday to Friday, 10am-6pm, as well as the Taproom opening hours listed above. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LUXqHN",
+        "text_rDQWqB"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "featured_product_qkL9j7": {
@@ -135,21 +212,21 @@
         "heading_3BjG9K": {
           "type": "heading",
           "settings": {
-            "heading": "Fresh beer, delivered to your door",
+            "heading": "Our Kitchen",
             "heading_size": "h1"
           }
         },
         "text_bLwPwF": {
           "type": "text",
           "settings": {
-            "text": "<p>Discover our core range of signature beers and a rotating lineup of limited-edition releases.</p>",
+            "text": "<p>Our seasonal menu is designed to complement our beers, featuring classic beef, pulled pork, and veggie burgers, fresh salads, slaws, and sides, plus sweet treats like vegan brownies and tiramisu.</p>",
             "text_style": "body"
           }
         },
         "button_8wzi8w": {
           "type": "button",
           "settings": {
-            "button_label": "Shop now",
+            "button_label": "Menu",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -162,7 +239,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Favicons_Core_Beers_-_4.png",
+        "image": "shopify://shop_images/DSC07456.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -183,21 +260,21 @@
         "heading_d3ApXA": {
           "type": "heading",
           "settings": {
-            "heading": "Visit our Taproom",
+            "heading": "Book a Table",
             "heading_size": "h1"
           }
         },
         "text_hjwfV7": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. </p>",
+            "text": "<p>We recommend booking ahead to guarantee a comfortable spot in the beer garden, especially for large groups and busy summer evenings.</p>",
             "text_style": "body"
           }
         },
         "button_UaUc7y": {
           "type": "button",
           "settings": {
-            "button_label": "Find out more",
+            "button_label": "Book now",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -328,21 +405,21 @@
         "heading_6GdhQG": {
           "type": "heading",
           "settings": {
-            "heading": "A Labour of Love",
+            "heading": "Special Events",
             "heading_size": "h1"
           }
         },
         "text_8BdNLq": {
           "type": "text",
           "settings": {
-            "text": "<p>Back in 2016, we created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
+            "text": "<p>Check out our upcoming events, hosted at the Taproom in Rupià, Empordà and beyond.</p>",
             "text_style": "body"
           }
         },
         "button_p9tKPW": {
           "type": "button",
           "settings": {
-            "button_label": "Keep reading",
+            "button_label": "See events",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -714,6 +791,8 @@
     "main",
     "image_banner_KitMHg",
     "rich_text_gPVYjh",
+    "multicolumn_MPxb4e",
+    "rich_text_EWjFnQ",
     "featured_product_qkL9j7",
     "image_with_text_zzDRnE",
     "image_with_text_qnew8U",
