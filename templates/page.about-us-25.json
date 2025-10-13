@@ -23,14 +23,14 @@
         "heading_CwEgTq": {
           "type": "heading",
           "settings": {
-            "heading": "Visit our Taproom",
+            "heading": "Welcome to Doskiwis",
             "heading_size": "h1"
           }
         },
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. We currently have ten beers on rotation - always brewed on-site by our small and passionate team.</p>"
+            "text": "<p>We create modern and accessible beers, packed full of flavour, using only the highest-quality ingredients, ensuring an unmistakable experience in every glass.</p><p>Since 2019, we’ve been brewing away in Rupià, Empordà - a peaceful village tucked between Girona, the Pyrenees mountains and the Costa Brava coastline.</p>"
           }
         }
       },
@@ -118,14 +118,14 @@
         "heading_LUXqHN": {
           "type": "heading",
           "settings": {
-            "heading": "Taproom Information",
-            "heading_size": "h2"
+            "heading": "A Labour of Love",
+            "heading_size": "h1"
           }
         },
         "text_rDQWqB": {
           "type": "text",
           "settings": {
-            "text": "<p>Address: </p><p>Doskiwis Brewing, Carretera Parlavà 22, 17131 Rupià, Girona</p><p><span style=\"text-decoration:underline\">Google Maps</span></p><p>Opening Hours - <strong>October 2025:</strong></p><ul><li><strong>Friday: 6pm-11pm</strong> (kitchen: 7.30pm-10.30pm)</li><li><strong>Saturday: 12pm-11pm</strong> (kitchen: 1pm-3.30pm and 7.30pm-10.30pm)</li><li><strong>Sunday: 12pm-6pm</strong> (kitchen: 1pm-3.30pm)</li></ul><p>Please note: </p><p>Our opening hours change with the seasons and are updated on a monthly basis. Please <span style=\"text-decoration:underline\">get in touch</span> if you have questions about opening hours on specific dates in the more distant future.</p><p>Taproom Shop:</p><p>Our beers are available to go in 440ml cans and 946ml reusable bottles. The shop is open Tuesday to Friday, 10am-6pm, as well as the Taproom opening hours listed above. </p>"
+            "text": "<p>Back in 2016, we (Judit, from Llofriu, Baix Empordà and Michael, from New Zealand, the “Kiwi”) created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p><p>In late 2017, we found exactly what we had been looking for: an old, unoccupied barn full of potential. Strapped for cash, we rolled up our sleeves and called upon friends and family to help transform the barn into the brewery, taproom and beer garden we now call home.</p><p>After more than a year of hard work, we officially opened our doors on a cold February night in 2019, with just three beers on tap and a single garden table.Today, we have ten beers on tap - some core beers and a rotating selection of limited brews, always brewed on-site by our small and passionate team, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu best enjoyed in our lively beer garden, which now has around 30 tables.</p><p>Looking ahead, our goal is simple: to keep learning, improving and brewing the best beers possible, while making a positive impact on our community and environment.</p>"
           }
         }
       },
@@ -133,6 +133,7 @@
         "heading_LUXqHN",
         "text_rDQWqB"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -143,72 +144,9 @@
         "padding_bottom": 52
       }
     },
-    "featured_product_qkL9j7": {
-      "type": "featured-product",
-      "blocks": {
-        "text_VcnwDw": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "uppercase"
-          }
-        },
-        "title_hp7ghm": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_mYYUKD": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_XhLTha": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_URCMHm": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_3wVGNw": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_VcnwDw",
-        "title_hp7ghm",
-        "price_mYYUKD",
-        "variant_picker_XhLTha",
-        "quantity_selector_URCMHm",
-        "buy_buttons_3wVGNw"
-      ],
-      "disabled": true,
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "ideal",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "none",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "image_banner_pqiWEf": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC08854.jpg",
@@ -227,34 +165,173 @@
     "image_with_text_zzDRnE": {
       "type": "image-with-text",
       "blocks": {
-        "heading_3BjG9K": {
-          "type": "heading",
-          "settings": {
-            "heading": "Our Kitchen",
-            "heading_size": "h1"
-          }
-        },
         "text_bLwPwF": {
           "type": "text",
           "settings": {
-            "text": "<p>Our seasonal menu is designed to complement our beers, featuring classic beef, pulled pork, and veggie burgers, fresh salads, slaws, and sides, plus sweet treats like vegan brownies and tiramisu.</p>",
+            "text": "<p>Back in 2016, we (Judit, from Llofriu, Baix Empordà and Michael, from New Zealand, the “Kiwi”) created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
             "text_style": "body"
-          }
-        },
-        "button_8wzi8w": {
-          "type": "button",
-          "settings": {
-            "button_label": "Menu",
-            "button_link": "",
-            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "heading_3BjG9K",
-        "text_bLwPwF",
-        "button_8wzi8w"
+        "text_bLwPwF"
       ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC07456.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_mDdXrF": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_pX8Rp6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In late 2017, we found exactly what we had been looking for: an old, unoccupied barn full of potential. </p><p>Strapped for cash, we rolled up our sleeves and called upon friends and family to help transform the barn into the brewery, taproom and beer garden we now call home.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_pX8Rp6"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC07456.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_k3UUTn": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_DbRGQ4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>After more than a year of hard work, we officially opened our doors on a cold February night in 2019, with just three beers on tap and a single garden table.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_DbRGQ4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC07456.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_byJd4V": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_94ekrE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Today, we have ten beers on tap - some core beers and a rotating selection of limited brews, always brewed on-site by our small and passionate team, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu best enjoyed in our lively beer garden, which now has around 30 tables.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_94ekrE"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC07456.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_RDrM8d": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_TyRcCm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Looking ahead, our goal is simple: to keep learning, improving and brewing the best beers possible, while making a positive impact on our community and environment.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_TyRcCm"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC07456.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_n8gHhN": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_AT88AK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Back in 2016, we (Judit, from Llofriu, Baix Empordà and Michael, from New Zealand, the “Kiwi”) created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_AT88AK"
+      ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC07456.jpg",
@@ -303,6 +380,7 @@
         "text_hjwfV7",
         "button_UaUc7y"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC06566.jpg",
@@ -351,6 +429,7 @@
         "text_WqCXtJ",
         "button_AtcTnh"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
@@ -448,6 +527,7 @@
         "text_8BdNLq",
         "button_p9tKPW"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC03936.jpg",
@@ -804,6 +884,20 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "slideshow_pPhQCw": {
+      "type": "slideshow",
+      "name": "t:sections.slideshow.presets.name",
+      "settings": {
+        "layout": "grid",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
+      }
     }
   },
   "order": [
@@ -812,9 +906,13 @@
     "image_banner_KitMHg",
     "multicolumn_MPxb4e",
     "rich_text_EWjFnQ",
-    "featured_product_qkL9j7",
     "image_banner_pqiWEf",
     "image_with_text_zzDRnE",
+    "image_with_text_mDdXrF",
+    "image_with_text_k3UUTn",
+    "image_with_text_byJd4V",
+    "image_with_text_RDrM8d",
+    "image_with_text_n8gHhN",
     "image_with_text_qnew8U",
     "image_with_text_B7rzgz",
     "image_with_text_CPhkqf",
@@ -823,6 +921,7 @@
     "slideshow_H4bGJY",
     "newsletter_UqyYQY",
     "slideshow_LWXCkA",
-    "featured_collection_3KVGKF"
+    "featured_collection_3KVGKF",
+    "slideshow_pPhQCw"
   ]
 }
