@@ -21,9 +21,9 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/njoy-costa-brava-rupia-doskiwis-craft-beer.webp",
+        "image": "shopify://shop_images/Doskiwis_GiRODEO-23.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -838,9 +838,29 @@
           "type": "row",
           "settings": {
             "caption": "",
-            "heading": "Our Kitchen",
-            "text": "<p>Fresh, seasonal dishes to match our beers, including burgers, salads, sides, and desserts.</p>",
-            "button_label": "",
+            "heading": "Book a Table",
+            "text": "<p>We recommend booking ahead to guarantee a comfortable spot in the beer garden, especially for large groups and busy summer evenings.</p>",
+            "button_label": "Book now",
+            "button_link": ""
+          }
+        },
+        "row_gVxW6a": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Tasting Experiences ",
+            "text": "<p>Join our passionate team at the Brewery & Taproom for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
+            "button_label": "Find out more",
+            "button_link": ""
+          }
+        },
+        "row_ci7xij": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Special Events",
+            "text": "<p>Check out our upcoming events, hosted at the Brewery & Taproom in Rupià, Empordà and beyond.</p>",
+            "button_label": "See events",
             "button_link": ""
           }
         }
@@ -848,7 +868,9 @@
       "block_order": [
         "row_JVyVyn",
         "row_rGEM6j",
-        "row_pVw6mT"
+        "row_pVw6mT",
+        "row_gVxW6a",
+        "row_ci7xij"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
