@@ -9,123 +9,346 @@
  */
 {
   "sections": {
+    "image_banner_KitMHg": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/njoy-costa-brava-rupia-doskiwis-craft-beer.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "multicolumn_DFx7Vk": {
-      "type": "multicolumn",
+    "rich_text_gPVYjh": {
+      "type": "rich-text",
       "blocks": {
-        "column_rda4Fh": {
-          "type": "column",
+        "heading_CwEgTq": {
+          "type": "heading",
           "settings": {
-            "image": "shopify://shop_images/DSC09287_2_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_rda4Fh"
-      ],
-      "settings": {
-        "title": "Diari Ara",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "Diari Ara - 03/07/23",
-        "button_link": "https://mengem.ara.cat/mengem/doskiwis-rupia-una-fabrica-de-cervesa-artesana-bar-i-terrassa-amb-vistes-al-montgri_130_4740825.html",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_HiXfYA": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_bXcRR7": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
+            "heading": "Welcome to Doskiwis",
+            "heading_size": "h0"
           }
         },
-        "column_gJhEKw": {
-          "type": "column",
+        "text_eYrYpy": {
+          "type": "text",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_htgD7j": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>We create modern and accessible beers, packed full of flavour, using only the highest-quality ingredients, ensuring an unmistakable experience in every glass.</p><p>Since 2019, we’ve been brewing away at our ever-evolving Brewery & Taproom in Rupià, Empordà - a peaceful village tucked between Girona, the Pyrenees mountains and the Costa Brava coastline.</p>"
           }
         }
       },
       "block_order": [
-        "column_bXcRR7",
-        "column_gJhEKw",
-        "column_htgD7j"
+        "heading_CwEgTq",
+        "text_eYrYpy"
       ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "title": "Club Renfe",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "image_with_text_zzDRnE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3BjG9K": {
+          "type": "heading",
+          "settings": {
+            "heading": "Fresh beer, delivered to your door",
+            "heading_size": "h1"
+          }
+        },
+        "text_bLwPwF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover our core range of signature beers and a rotating lineup of limited-edition releases.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_8wzi8w": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3BjG9K",
+        "text_bLwPwF",
+        "button_8wzi8w"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC06566.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "1707480724ab4da501": {
-      "type": "apps",
+    "image_with_text_qnew8U": {
+      "type": "image-with-text",
       "blocks": {
-        "xo_gallery_xo_gallery_EmbPT7": {
-          "type": "shopify://apps/xo-gallery/blocks/xo-gallery/e61dfbaa-1a75-4e4e-bffc-324f17325251",
+        "heading_d3ApXA": {
+          "type": "heading",
           "settings": {
-            "id": 1,
-            "mid": ""
+            "heading": "Visit our Taproom",
+            "heading_size": "h1"
+          }
+        },
+        "text_hjwfV7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Enjoy our freshest beers on tap or to take home, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. </p>",
+            "text_style": "body"
+          }
+        },
+        "button_UaUc7y": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more",
+            "button_link": "",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "xo_gallery_xo_gallery_EmbPT7"
+        "heading_d3ApXA",
+        "text_hjwfV7",
+        "button_UaUc7y"
       ],
+      "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "include_margins": true
+        "image": "shopify://shop_images/DSC06824.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_B7rzgz": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ghxRGJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tasting Experiences",
+            "heading_size": "h1"
+          }
+        },
+        "text_WqCXtJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join our passionate team at the Brewery & Taproom for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_AtcTnh": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ghxRGJ",
+        "text_WqCXtJ",
+        "button_AtcTnh"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_CPhkqf": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_brdziU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Special Events",
+            "heading_size": "h1"
+          }
+        },
+        "text_AegN6r": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Check out our upcoming events, hosted at the Brewery & Taproom in Rupià, Empordà and beyond.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_XefYq3": {
+          "type": "button",
+          "settings": {
+            "button_label": "See events",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_brdziU",
+        "text_AegN6r",
+        "button_XefYq3"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC03936.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_zXECHw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6GdhQG": {
+          "type": "heading",
+          "settings": {
+            "heading": "A Labour of Love",
+            "heading_size": "h1"
+          }
+        },
+        "text_8BdNLq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Back in 2016, we (Judit, from Llofriu, Baix Empordà and Michael, from New Zealand, the “Kiwi”) created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_p9tKPW": {
+          "type": "button",
+          "settings": {
+            "button_label": "Keep reading",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6GdhQG",
+        "text_8BdNLq",
+        "button_p9tKPW"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "newsletter_UqyYQY": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_YgNCVg": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doskiwis Weekly Newsletter",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_nQTP9J": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up to get 10% off your first online order. </p>"
+          }
+        },
+        "email_form_r9E6aP": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_YgNCVg",
+        "paragraph_nQTP9J",
+        "email_form_r9E6aP"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 72
       }
     }
   },
   "order": [
+    "image_banner_KitMHg",
     "main",
-    "multicolumn_DFx7Vk",
-    "multicolumn_HiXfYA",
-    "1707480724ab4da501"
+    "rich_text_gPVYjh",
+    "image_with_text_zzDRnE",
+    "image_with_text_qnew8U",
+    "image_with_text_B7rzgz",
+    "image_with_text_CPhkqf",
+    "image_with_text_zXECHw",
+    "newsletter_UqyYQY"
   ]
 }
