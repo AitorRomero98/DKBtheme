@@ -47,6 +47,7 @@
       "block_order": [
         "text_eYrYpy"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -88,6 +89,7 @@
         "text_bLwPwF",
         "button_8wzi8w"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC06566.jpg",
@@ -107,6 +109,7 @@
     },
     "featured_collection_DwXPFt": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Core Range",
@@ -136,6 +139,7 @@
     },
     "featured_collection_UxYmta": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Limited Edition",
@@ -327,6 +331,7 @@
         "row_w8Ltad",
         "row_kNDm8p"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "adapt",
@@ -539,6 +544,7 @@
         "text_ErqaqC",
         "button_AXTxL3"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
@@ -558,6 +564,7 @@
     },
     "newsletter_UqyYQY": {
       "type": "newsletter",
+      "disabled": true,
       "name": "t:sections.newsletter.presets.name",
       "settings": {
         "color_scheme": "background-1",
@@ -919,6 +926,37 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "rich_text_NWazRJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fcJtih": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact us",
+            "heading_size": "h1"
+          }
+        },
+        "text_gMfXJa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>General Enquiries:</p><ul><li>Email: doskiwis@doskiwisbrewing.com</li><li>Phone: +34623192815</li></ul><p>Brewery & Taproom Address:</p><ul><li>Doskiwis Brewing, Carretera de Parlavà, GI-642, 22, 17131 Rupià, Girona</li></ul><p>Opening hours:</p><ul><li>Our Taproom is open year-round, with hours that vary by season.</li><li>Please check the Taproom page or Google Maps for more information.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fcJtih",
+        "text_gMfXJa"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -934,6 +972,7 @@
     "image_with_text_qnew8U",
     "image_with_text_B7rzgz",
     "image_with_text_CPhkqf",
+    "rich_text_NWazRJ",
     "image_banner_pYbBaB",
     "image_with_text_xpDEKt",
     "newsletter_UqyYQY",
