@@ -19,6 +19,7 @@
     },
     "image_banner_KitMHg": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/LANDING_compressed.jpg",
@@ -47,6 +48,7 @@
       "block_order": [
         "text_eYrYpy"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -88,6 +90,7 @@
         "text_bLwPwF",
         "button_8wzi8w"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC06566.jpg",
@@ -107,6 +110,7 @@
     },
     "featured_collection_DwXPFt": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Core Range",
@@ -136,6 +140,7 @@
     },
     "featured_collection_UxYmta": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Limited Edition",
@@ -327,6 +332,7 @@
         "row_w8Ltad",
         "row_kNDm8p"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "adapt",
@@ -493,6 +499,7 @@
     },
     "image_banner_mQHTyr": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Doskiwis_GiRODEO.png",
@@ -539,6 +546,7 @@
         "text_ErqaqC",
         "button_AXTxL3"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
@@ -558,6 +566,7 @@
     },
     "image_banner_pYbBaB": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Bird1_3e22c98e-1190-4f22-a849-4afc6f12e27d.jpg",
@@ -575,6 +584,7 @@
     },
     "newsletter_UqyYQY": {
       "type": "newsletter",
+      "disabled": true,
       "name": "t:sections.newsletter.presets.name",
       "settings": {
         "color_scheme": "background-1",
@@ -936,6 +946,184 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "multicolumn_bB7MWe": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_nyXYyP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yUwQjM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-24.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ELer9e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/zBhGk_1_4c6679b0-b829-42f5-8c6d-27afeff04d21.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HfqMeC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC06890_8ea36b42-036e-40f9-9030-4b5c31b04f41.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_xcyFA8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1145_6e886450-244e-4f85-b080-7133080df62e.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nqG6aQ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC01430.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3jnU9z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC03977.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_VmPHbN": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC01807_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_q7kmmm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC08817_cdcb4165-ee34-43dc-b64b-eae8591caf8f.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_hwgJEL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7QxMYC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_aMKbjJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yCfJ7B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_krMA3D": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_nyXYyP",
+        "column_yUwQjM",
+        "column_ELer9e",
+        "column_HfqMeC",
+        "column_xcyFA8",
+        "column_nqG6aQ",
+        "column_3jnU9z",
+        "column_VmPHbN",
+        "column_q7kmmm",
+        "column_hwgJEL",
+        "column_7QxMYC",
+        "column_aMKbjJ",
+        "column_yCfJ7B",
+        "column_krMA3D"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -959,6 +1147,7 @@
     "multicolumn_AirBMG",
     "slideshow_H4bGJY",
     "slideshow_LWXCkA",
-    "featured_collection_3KVGKF"
+    "featured_collection_3KVGKF",
+    "multicolumn_bB7MWe"
   ]
 }
