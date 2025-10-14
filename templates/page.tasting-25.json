@@ -129,96 +129,6 @@
         "padding_bottom": 72
       }
     },
-    "multicolumn_MPxb4e": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_h7C9Bq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC05726_39b69a1b-f435-4a1b-8b85-bab852821f96.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_GMARnX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC00725.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_fLebWG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC04827.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_Xii6mN": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/rupianum_pour.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_gkmAWz": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC04480.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_6bbCia": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC05663.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_h7C9Bq",
-        "column_GMARnX",
-        "column_fLebWG",
-        "column_Xii6mN",
-        "column_gkmAWz",
-        "column_6bbCia"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_zzDRnE": {
       "type": "image-with-text",
       "blocks": {
@@ -843,7 +753,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/DSC08854.jpg",
+        "image": "shopify://shop_images/Bird3_e135d1ec-9269-4ad2-b411-8cc4f07b0e4c.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -873,7 +783,6 @@
     "slideshow_LWXCkA",
     "featured_collection_3KVGKF",
     "rich_text_NzGbYT",
-    "image_banner_97GzMK",
-    "multicolumn_MPxb4e"
+    "image_banner_97GzMK"
   ]
 }
