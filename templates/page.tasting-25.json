@@ -71,7 +71,7 @@
         "column_h7C9Bq": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC06566.jpg",
+            "image": "shopify://shop_images/DSC05726_39b69a1b-f435-4a1b-8b85-bab852821f96.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -81,7 +81,7 @@
         "column_fLebWG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC06566.jpg",
+            "image": "shopify://shop_images/DSC04827.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -91,7 +91,7 @@
         "column_GMARnX": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DSC06566.jpg",
+            "image": "shopify://shop_images/DSC00725.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -103,63 +103,6 @@
         "column_h7C9Bq",
         "column_fLebWG",
         "column_GMARnX"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "portrait",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn_xT7VFj": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_dkCjaF": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC06566.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_jzNdy7": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC06566.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_LraBAp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DSC06566.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_dkCjaF",
-        "column_jzNdy7",
-        "column_LraBAp"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
@@ -861,6 +804,63 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multicolumn_xT7VFj": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_dkCjaF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC05663.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jzNdy7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC04480.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LraBAp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC06953_c60529e9-b120-49f0-82c8-858876ac0a32.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_dkCjaF",
+        "column_jzNdy7",
+        "column_LraBAp"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
