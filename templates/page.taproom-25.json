@@ -838,6 +838,7 @@
         },
         "row_pVw6mT": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DSC06123_26de5972-d938-441c-8257-5a5e5473cd57.jpg",
             "caption": "",
@@ -849,6 +850,7 @@
         },
         "row_CWidVY": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DSC07456.jpg",
             "caption": "",
@@ -860,6 +862,7 @@
         },
         "row_gVxW6a": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DSC05746_e035d18d-c8ce-42fc-9199-51d46485488c.jpg",
             "caption": "",
@@ -871,6 +874,7 @@
         },
         "row_ci7xij": {
           "type": "row",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/DSC06872.jpg",
             "caption": "",
@@ -888,6 +892,126 @@
         "row_CWidVY",
         "row_gVxW6a",
         "row_ci7xij"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_GKYPBd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zU9tRV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Please note:</p><p>Our opening hours change with the seasons and are updated on a monthly basis.</p><p>Our kitchen opening hours differ from the Taproom, as follows:</p><ul><li>Friday kitchen: 7.30pm-10.30pm</li><li>Saturday kitchen: 1pm-3.30pm and 7.30pm-10.30pm</li><li>Sunday kitchen: 1pm-3.30pm</li></ul><p>Our beers are available to go in 440ml cans and 946ml reusable bottles. The shop is open Tuesday to Friday, 10am-6pm, as well as the Taproom opening hours listed above. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_zU9tRV"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_mDr6EL": {
+      "type": "multirow",
+      "blocks": {
+        "row_TwX43X": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DSC01788.jpg",
+            "caption": "",
+            "heading": "Taproom Address",
+            "text": "<p>Doskiwis Brewing, Carretera Parlavà 22, 17131 Rupià, Girona</p>",
+            "button_label": "Google Maps",
+            "button_link": ""
+          }
+        },
+        "row_xBxqBB": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/DSC06824_77cda7c2-30bb-4c9a-a6f5-58b73ba4706f.jpg",
+            "caption": "",
+            "heading": "Opening Hours",
+            "text": "<p><strong>October 2025:</strong></p><ul><li>Friday: 6pm-11pm</li><li>Saturday: 12pm-11pm</li><li>Sunday: 12pm-6pm</li></ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_UrHx6i": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC06123_26de5972-d938-441c-8257-5a5e5473cd57.jpg",
+            "caption": "",
+            "heading": "Book a Table",
+            "text": "<p>We recommend booking ahead to guarantee a table, especially for large groups and busy summer evenings.</p>",
+            "button_label": "Book now",
+            "button_link": ""
+          }
+        },
+        "row_TkAxMT": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC07456.jpg",
+            "caption": "",
+            "heading": "Our Kitchen",
+            "text": "<p>Fresh, seasonal dishes to match our beers, including burgers, salads, sides, and desserts.</p>",
+            "button_label": "Menu",
+            "button_link": ""
+          }
+        },
+        "row_aKL67K": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-22.png",
+            "caption": "",
+            "heading": "Tasting Experiences ",
+            "text": "<p>Join our passionate team at the Taproom for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
+            "button_label": "Find out more",
+            "button_link": ""
+          }
+        },
+        "row_MYiBFH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC06872.jpg",
+            "caption": "",
+            "heading": "Special Events",
+            "text": "<p>Check out our upcoming events, hosted at the Taproom in Rupià, and beyond.</p>",
+            "button_label": "See events",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_TwX43X",
+        "row_xBxqBB",
+        "row_UrHx6i",
+        "row_TkAxMT",
+        "row_aKL67K",
+        "row_MYiBFH"
       ],
       "name": "t:sections.multirow.presets.name",
       "settings": {
@@ -1043,6 +1167,8 @@
     "slideshow_LWXCkA",
     "featured_collection_3KVGKF",
     "multirow_8q39wH",
+    "rich_text_GKYPBd",
+    "multirow_mDr6EL",
     "image_banner_pgNnQJ",
     "multicolumn_FLMhNB"
   ]
