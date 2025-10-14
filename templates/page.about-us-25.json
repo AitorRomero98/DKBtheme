@@ -282,7 +282,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG_0254.jpg",
+        "image": "shopify://shop_images/2543DF15-ED61-4383-809F-76AAE1C5CF02_1_105_c_974c2fb7-2d0a-450e-b7a5-872ad915f8ce.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -303,7 +303,7 @@
         "text_94ekrE": {
           "type": "text",
           "settings": {
-            "text": "<p>Today, we have ten beers on tap - some core beers and a rotating selection of limited brews, always brewed on-site by our small and passionate team, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu best enjoyed in our lively beer garden, which now has around 30 tables.</p>",
+            "text": "<p>Today, we have ten beers on tap - some core beers and a rotating selection of limited brews, always brewed on-site by our small and passionate team, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu best enjoyed in our lively beer garden.</p>",
             "text_style": "body"
           }
         }
@@ -313,7 +313,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/IMG_3656.jpg",
+        "image": "shopify://shop_images/IMG_0254.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
