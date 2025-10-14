@@ -65,6 +65,70 @@
         "padding_bottom": 72
       }
     },
+    "featured_product_qkL9j7": {
+      "type": "featured-product",
+      "blocks": {
+        "text_VcnwDw": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "uppercase"
+          }
+        },
+        "title_hp7ghm": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_mYYUKD": {
+          "type": "price",
+          "settings": {}
+        },
+        "variant_picker_XhLTha": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector_URCMHm": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_3wVGNw": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": true,
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "text_VcnwDw",
+        "title_hp7ghm",
+        "price_mYYUKD",
+        "variant_picker_XhLTha",
+        "quantity_selector_URCMHm",
+        "buy_buttons_3wVGNw"
+      ],
+      "disabled": true,
+      "name": "t:sections.featured-product.presets.name",
+      "settings": {
+        "product": "ideal",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
     "multicolumn_MPxb4e": {
       "type": "multicolumn",
       "blocks": {
@@ -153,70 +217,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "featured_product_qkL9j7": {
-      "type": "featured-product",
-      "blocks": {
-        "text_VcnwDw": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "uppercase"
-          }
-        },
-        "title_hp7ghm": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_mYYUKD": {
-          "type": "price",
-          "settings": {}
-        },
-        "variant_picker_XhLTha": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "quantity_selector_URCMHm": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_3wVGNw": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": false,
-            "show_gift_card_recipient": true,
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "text_VcnwDw",
-        "title_hp7ghm",
-        "price_mYYUKD",
-        "variant_picker_XhLTha",
-        "quantity_selector_URCMHm",
-        "buy_buttons_3wVGNw"
-      ],
-      "disabled": true,
-      "name": "t:sections.featured-product.presets.name",
-      "settings": {
-        "product": "ideal",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "none",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 72,
-        "padding_bottom": 72
       }
     },
     "image_with_text_zzDRnE": {
@@ -861,7 +861,6 @@
     "main",
     "image_banner_KitMHg",
     "rich_text_gPVYjh",
-    "multicolumn_MPxb4e",
     "featured_product_qkL9j7",
     "image_with_text_zzDRnE",
     "image_with_text_qnew8U",
@@ -874,6 +873,7 @@
     "slideshow_LWXCkA",
     "featured_collection_3KVGKF",
     "rich_text_NzGbYT",
-    "image_banner_97GzMK"
+    "image_banner_97GzMK",
+    "multicolumn_MPxb4e"
   ]
 }
