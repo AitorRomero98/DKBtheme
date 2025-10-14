@@ -40,13 +40,14 @@
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<h2>We create modern and accessible beers, packed full of flavour, using only the highest-quality ingredients, ensuring an unmistakable experience in every glass.</h2><h2>Since 2019, we’ve been brewing away in Rupià, Empordà - a peaceful village tucked between Girona, the Pyrenees mountains and the Costa Brava coastline.</h2>"
+            "text": "<p><strong>Join the team</strong></p><p>We’re always looking for passionate, motivated people to join our team and help us share great beer with the world.</p><p>See our open vacancies below, otherwise feel free to get in touch via: doskiwis@doskiwisbrewing.com</p>"
           }
         }
       },
       "block_order": [
         "text_eYrYpy"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
@@ -88,6 +89,7 @@
         "text_bLwPwF",
         "button_8wzi8w"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/DSC06566.jpg",
@@ -107,6 +109,7 @@
     },
     "featured_collection_DwXPFt": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Core Range",
@@ -136,6 +139,7 @@
     },
     "featured_collection_UxYmta": {
       "type": "featured-collection",
+      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Limited Edition",
@@ -327,6 +331,7 @@
         "row_w8Ltad",
         "row_kNDm8p"
       ],
+      "disabled": true,
       "name": "t:sections.multirow.presets.name",
       "settings": {
         "image_height": "adapt",
@@ -442,6 +447,37 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_n3Pahk": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TK4hU9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Join the team",
+            "heading_size": "h1"
+          }
+        },
+        "text_FbdmB4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We’re always looking for passionate, motivated people to join our team and help us share great beer with the world.</p><p>See our open vacancies below, otherwise feel free to get in touch via: doskiwis@doskiwisbrewing.com</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TK4hU9",
+        "text_FbdmB4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_CPhkqf": {
       "type": "image-with-text",
       "blocks": {
@@ -539,6 +575,7 @@
         "text_ErqaqC",
         "button_AXTxL3"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413.jpg",
@@ -558,6 +595,7 @@
     },
     "newsletter_UqyYQY": {
       "type": "newsletter",
+      "disabled": true,
       "name": "t:sections.newsletter.presets.name",
       "settings": {
         "color_scheme": "background-1",
@@ -933,6 +971,7 @@
     "multirow_8xF7i4",
     "image_with_text_qnew8U",
     "image_with_text_B7rzgz",
+    "rich_text_n3Pahk",
     "image_with_text_CPhkqf",
     "image_banner_pYbBaB",
     "image_with_text_xpDEKt",
