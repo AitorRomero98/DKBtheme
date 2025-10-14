@@ -21,7 +21,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/LANDING_compressed.jpg",
+        "image": "shopify://shop_images/Bird3_e135d1ec-9269-4ad2-b411-8cc4f07b0e4c.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -496,21 +496,35 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_pYbBaB": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
+    "rich_text_NWazRJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fcJtih": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact us",
+            "heading_size": "h1"
+          }
+        },
+        "text_gMfXJa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>General Enquiries:</p><ul><li>Email: doskiwis@doskiwisbrewing.com</li><li>Phone: +34623192815</li></ul><p>Brewery & Taproom Address:</p><ul><li>Doskiwis Brewing, Carretera de Parlavà, GI-642, 22, 17131 Rupià, Girona</li></ul><p>Opening hours:</p><ul><li>Our Taproom is open year-round, with hours that vary by season.</li><li>Please check the Taproom page or Google Maps for more information.</li></ul>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fcJtih",
+        "text_gMfXJa"
+      ],
+      "name": "t:sections.rich-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Doskiwis_GiRODEO.png",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
+        "desktop_content_position": "center",
+        "content_alignment": "left",
         "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "image_with_text_xpDEKt": {
@@ -926,37 +940,6 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
-    },
-    "rich_text_NWazRJ": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_fcJtih": {
-          "type": "heading",
-          "settings": {
-            "heading": "Contact us",
-            "heading_size": "h1"
-          }
-        },
-        "text_gMfXJa": {
-          "type": "text",
-          "settings": {
-            "text": "<p>General Enquiries:</p><ul><li>Email: doskiwis@doskiwisbrewing.com</li><li>Phone: +34623192815</li></ul><p>Brewery & Taproom Address:</p><ul><li>Doskiwis Brewing, Carretera de Parlavà, GI-642, 22, 17131 Rupià, Girona</li></ul><p>Opening hours:</p><ul><li>Our Taproom is open year-round, with hours that vary by season.</li><li>Please check the Taproom page or Google Maps for more information.</li></ul>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_fcJtih",
-        "text_gMfXJa"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -973,7 +956,6 @@
     "image_with_text_B7rzgz",
     "image_with_text_CPhkqf",
     "rich_text_NWazRJ",
-    "image_banner_pYbBaB",
     "image_with_text_xpDEKt",
     "newsletter_UqyYQY",
     "image_with_text_zXECHw",
