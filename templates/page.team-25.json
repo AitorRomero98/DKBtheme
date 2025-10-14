@@ -21,7 +21,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/LANDING_compressed.jpg",
+        "image": "shopify://shop_images/Bird2_cc7ef2ab-1ffa-4bd0-9a64-e67a57fcc48d.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -529,6 +529,7 @@
     },
     "image_banner_pYbBaB": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "shopify://shop_images/Doskiwis_GiRODEO.png",
@@ -957,6 +958,54 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "image_with_text_8y9prC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_wpeTT7": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cook",
+            "heading_size": "h1"
+          }
+        },
+        "text_WfpnYF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Full time</p>",
+            "text_style": "body"
+          }
+        },
+        "button_wicxQK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find out more",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wpeTT7",
+        "text_WfpnYF",
+        "button_wicxQK"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC07027.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
@@ -980,6 +1029,7 @@
     "multicolumn_AirBMG",
     "slideshow_H4bGJY",
     "slideshow_LWXCkA",
-    "featured_collection_3KVGKF"
+    "featured_collection_3KVGKF",
+    "image_with_text_8y9prC"
   ]
 }
