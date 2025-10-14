@@ -21,7 +21,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/DSC08854.jpg",
+        "image": "shopify://shop_images/Doskiwis_GiRODEO-7.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
@@ -87,20 +87,30 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_GMARnX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC06566.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "column_h7C9Bq",
-        "column_fLebWG"
+        "column_fLebWG",
+        "column_GMARnX"
       ],
-      "disabled": true,
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
         "title": "",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
@@ -112,80 +122,61 @@
         "padding_bottom": 36
       }
     },
-    "image_banner_pqiWEf": {
-      "type": "image-banner",
-      "name": "t:sections.image-banner.presets.name",
-      "settings": {
-        "image": "shopify://shop_images/DSC08854.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
-    "rich_text_EWjFnQ": {
-      "type": "rich-text",
+    "multicolumn_xT7VFj": {
+      "type": "multicolumn",
       "blocks": {
-        "heading_LUXqHN": {
-          "type": "heading",
+        "column_dkCjaF": {
+          "type": "column",
           "settings": {
-            "heading": "",
-            "heading_size": "h2"
+            "image": "shopify://shop_images/DSC06566.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         },
-        "text_rDQWqB": {
-          "type": "text",
+        "column_jzNdy7": {
+          "type": "column",
           "settings": {
-            "text": "<p>What does it include?</p><ul><li>The Tasting Experience includes 100ml of ten different beers on tap plus an appetiser of artisanal crisps and mixed olives. </li></ul><p>What is the price?</p><ul><li>The Tasting Experience is €25 per person. Of course, additional beers can be purchased to enjoy in the beer garden or to take home.</li></ul><p>Duration:</p><ul><li>The experience typically lasts two hours, but can be shortened if preferred - please let us know in advance or upon arrival.</li></ul><p>Timing:</p><ul><li>Tasting Experience hours vary by season. When we are open during the day, tastings start at 12pm. During evening-only hours, they start at 6pm.</li></ul><p>Combine with lunch or dinner:</p><ul><li>The Tasting Experience can be enjoyed alongside any of our kitchen menu dishes, either during or afterwards, subject to kitchen opening hours. </li></ul><p>Booking:</p><ul><li>Advance booking is required to ensure the best possible experience.</li></ul><p>Can I gift a Tasting Experience?</p><ul><li>Yes! Our Tasting Experience is the perfect gift for beer lovers.</li></ul><p>Questions?</p><ul><li>Please <span style=\"text-decoration:underline\">contact us</span> with any questions or special requests and we will be delighted to help. </li></ul>"
+            "image": "shopify://shop_images/DSC06566.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_LraBAp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC06566.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "heading_LUXqHN",
-        "text_rDQWqB"
+        "column_dkCjaF",
+        "column_jzNdy7",
+        "column_LraBAp"
       ],
-      "name": "t:sections.rich-text.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
         "color_scheme": "",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 0
-      }
-    },
-    "rich_text_hV4Ncf": {
-      "type": "rich-text",
-      "blocks": {
-        "button_yqzeEE": {
-          "type": "button",
-          "settings": {
-            "button_label": "Book now",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "button_yqzeEE"
-      ],
-      "name": "t:sections.rich-text.presets.name",
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "featured_product_qkL9j7": {
@@ -836,6 +827,41 @@
         "padding_top": 72,
         "padding_bottom": 72
       }
+    },
+    "rich_text_NzGbYT": {
+      "type": "rich-text",
+      "blocks": {
+        "text_kYeWYp": {
+          "type": "text",
+          "settings": {
+            "text": "<p>What does it include?</p><ul><li>The Tasting Experience includes 100ml of ten different beers on tap plus an appetiser of artisanal crisps and mixed olives. </li></ul><p>What is the price?</p><ul><li>The Tasting Experience is €25 per person. Of course, additional beers can be purchased to enjoy in the beer garden or to take home.</li></ul><p>Duration:</p><ul><li>The experience typically lasts two hours, but can be shortened if preferred - please let us know in advance or upon arrival.</li></ul><p>Timing:</p><ul><li>Tasting Experience hours vary by season. When we are open during the day, tastings start at 12pm. During evening-only hours, they start at 6pm.</li></ul><p>Combine with lunch or dinner:</p><ul><li>The Tasting Experience can be enjoyed alongside any of our kitchen menu dishes, either during or afterwards, subject to kitchen opening hours. </li></ul><p>Booking:</p><ul><li>Advance booking is required to ensure the best possible experience.</li></ul><p>Can I gift a Tasting Experience?</p><ul><li>Yes! Our Tasting Experience is the perfect gift for beer lovers.</li></ul><p>Questions?</p><ul><li>Please <span style=\"text-decoration:underline\">contact us</span> with any questions or special requests and we will be delighted to help. </li></ul>"
+          }
+        },
+        "button_xDAMmU": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book now",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_kYeWYp",
+        "button_xDAMmU"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -843,9 +869,6 @@
     "image_banner_KitMHg",
     "rich_text_gPVYjh",
     "multicolumn_MPxb4e",
-    "image_banner_pqiWEf",
-    "rich_text_EWjFnQ",
-    "rich_text_hV4Ncf",
     "featured_product_qkL9j7",
     "image_with_text_zzDRnE",
     "image_with_text_qnew8U",
@@ -856,6 +879,8 @@
     "slideshow_H4bGJY",
     "newsletter_UqyYQY",
     "slideshow_LWXCkA",
-    "featured_collection_3KVGKF"
+    "featured_collection_3KVGKF",
+    "rich_text_NzGbYT",
+    "multicolumn_xT7VFj"
   ]
 }
