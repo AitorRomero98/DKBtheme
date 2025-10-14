@@ -1043,7 +1043,7 @@
         "column_hwgJEL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "image": "shopify://shop_images/DSC00919_359977fe-5582-4aac-afba-88a3d2f74fd4.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -1053,7 +1053,7 @@
         "column_7QxMYC": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "image": "shopify://shop_images/5D8AB960-6F92-4043-8281-C2BE5AF4847F_1_105_c_a0f74f5a-10e7-44c6-bcad-df1106882ebe.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -1063,17 +1063,7 @@
         "column_aMKbjJ": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yCfJ7B": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "image": "shopify://shop_images/IMG_4234_0cf482e9-ca5c-4488-a904-2a13ea41acec.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -1083,7 +1073,17 @@
         "column_krMA3D": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Doskiwis_GiRODEO-30.png",
+            "image": "shopify://shop_images/DSC02979.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yCfJ7B": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DSC01662_c1e4d61f-8fa6-40b7-a2ff-e2ca92dc7f0e.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -1104,8 +1104,8 @@
         "column_hwgJEL",
         "column_7QxMYC",
         "column_aMKbjJ",
-        "column_yCfJ7B",
-        "column_krMA3D"
+        "column_krMA3D",
+        "column_yCfJ7B"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {
