@@ -573,16 +573,6 @@
         "show_text_below": false
       }
     },
-    "newsletter_UqyYQY": {
-      "type": "newsletter",
-      "name": "t:sections.newsletter.presets.name",
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 72,
-        "padding_bottom": 72
-      }
-    },
     "image_with_text_zXECHw": {
       "type": "image-with-text",
       "blocks": {
@@ -936,6 +926,40 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "newsletter_C4mh7A": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_d3FYtQ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Doskiwis Weekly Newsletter",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_JXpqkz": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up to get 10% off your first online order.</p>"
+          }
+        },
+        "email_form_p9eGVR": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_d3FYtQ",
+        "paragraph_JXpqkz",
+        "email_form_p9eGVR"
+      ],
+      "name": "t:sections.newsletter.presets.name",
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -954,11 +978,11 @@
     "image_banner_mQHTyr",
     "image_with_text_xpDEKt",
     "image_banner_pYbBaB",
-    "newsletter_UqyYQY",
     "image_with_text_zXECHw",
     "multicolumn_AirBMG",
     "slideshow_H4bGJY",
     "slideshow_LWXCkA",
-    "featured_collection_3KVGKF"
+    "featured_collection_3KVGKF",
+    "newsletter_C4mh7A"
   ]
 }
