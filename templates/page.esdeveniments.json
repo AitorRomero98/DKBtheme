@@ -16,7 +16,15 @@
           "type": "heading",
           "settings": {
             "heading": "Castanyada / Halloween party",
-            "heading_size": "h1"
+            "heading_size": "h2"
+          }
+        },
+        "caption_pmQTwb": {
+          "type": "caption",
+          "settings": {
+            "caption": "1 de novembre",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
           }
         },
         "text_RQWGf3": {
@@ -37,6 +45,7 @@
       },
       "block_order": [
         "heading_pB3Xrx",
+        "caption_pmQTwb",
         "text_RQWGf3",
         "button_rRqn4F"
       ],
