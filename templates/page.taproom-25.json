@@ -143,9 +143,9 @@
           "settings": {
             "image": "shopify://shop_images/DSC07456.jpg",
             "caption": "",
-            "heading": "Our Kitchen",
-            "text": "<p>Fresh, seasonal dishes to match our beers, including burgers, salads, sides, and desserts.</p>",
-            "button_label": "Menu",
+            "heading": "La nostra cuina",
+            "text": "<p>Plats frescos i de temporada que mariden amb les nostres cerveses: hamburgueses, amanides, plats per compartir i postres.</p>",
+            "button_label": "Menú",
             "button_link": "https://lorine842.softr.app/"
           }
         },
@@ -154,9 +154,9 @@
           "settings": {
             "image": "shopify://shop_images/DSC06123_26de5972-d938-441c-8257-5a5e5473cd57.jpg",
             "caption": "",
-            "heading": "Book a Table",
-            "text": "<p>We recommend booking ahead to guarantee a table, especially for large groups and busy summer evenings.</p>",
-            "button_label": "Book now",
+            "heading": "Reserva taula",
+            "text": "<p>Recomanem reservar amb antelació per assegurar una taula, especialment en festius o nits d’estiu amb molta afluència.</p>",
+            "button_label": "Reserva ara",
             "button_link": "https://doskiwisbrewing.myrestoo.net/ca/reservar"
           }
         },
@@ -165,9 +165,9 @@
           "settings": {
             "image": "shopify://shop_images/Doskiwis_GiRODEO-22.png",
             "caption": "",
-            "heading": "Tasting Experiences ",
-            "text": "<p>Join our passionate team for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
-            "button_label": "Find out more",
+            "heading": "Experiències de tast",
+            "text": "<p>Deixa que un membre del nostre equip t’acompanyi en un tast divertit i relaxat de tota la gamma de cerveses Doskiwis.</p>",
+            "button_label": "Més informació",
             "button_link": "shopify://pages/tasting-25"
           }
         },
@@ -176,9 +176,9 @@
           "settings": {
             "image": "shopify://shop_images/DSC06872.jpg",
             "caption": "",
-            "heading": "Special Events",
-            "text": "<p>Check out our upcoming events, hosted at the Taproom in Rupià, and beyond.</p>",
-            "button_label": "See events",
+            "heading": "Esdeveniments especials",
+            "text": "<p>Consulta els propers esdeveniments, tant al Taproom de Rupià com fora.</p>",
+            "button_label": "Veure esdeveniments",
             "button_link": "shopify://pages/events-25"
           }
         }
