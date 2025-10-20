@@ -76,7 +76,7 @@
             "heading": "Taproom Address",
             "text": "<p>Doskiwis Brewing, Carretera Parlavà 22, 17131 Rupià, Girona</p>",
             "button_label": "Google Maps",
-            "button_link": ""
+            "button_link": "https://maps.app.goo.gl/ZxwVNeF9yjxsegwV7?g_st=ipc"
           }
         },
         "row_rGEM6j": {
@@ -146,7 +146,7 @@
             "heading": "Our Kitchen",
             "text": "<p>Fresh, seasonal dishes to match our beers, including burgers, salads, sides, and desserts.</p>",
             "button_label": "Menu",
-            "button_link": ""
+            "button_link": "https://lorine842.softr.app/"
           }
         },
         "row_frFmhK": {
@@ -157,7 +157,7 @@
             "heading": "Book a Table",
             "text": "<p>We recommend booking ahead to guarantee a table, especially for large groups and busy summer evenings.</p>",
             "button_label": "Book now",
-            "button_link": ""
+            "button_link": "https://doskiwisbrewing.myrestoo.net/ca/reservar"
           }
         },
         "row_YE6kXk": {
@@ -168,18 +168,18 @@
             "heading": "Tasting Experiences ",
             "text": "<p>Join our passionate team for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
             "button_label": "Find out more",
-            "button_link": ""
+            "button_link": "shopify://pages/tasting-25"
           }
         },
         "row_4RxKfe": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/Doskiwis_GiRODEO-22.png",
+            "image": "shopify://shop_images/DSC06872.jpg",
             "caption": "",
             "heading": "Special Events",
             "text": "<p>Check out our upcoming events, hosted at the Taproom in Rupià, and beyond.</p>",
             "button_label": "See events",
-            "button_link": ""
+            "button_link": "shopify://pages/events-25"
           }
         }
       },
