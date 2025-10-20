@@ -47,7 +47,7 @@
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<p>Enjoy our freshest beers on tap, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu available in our lively beer garden. We currently have ten beers on rotation - always brewed on-site by our small and passionate team.</p>"
+            "text": "<p>Enjoy our freshest beers on tap, alongside specialty coffee by Ambient, kombucha, natural wine and a seasonal kitchen menu available in our lively beer garden. We currently have ten beers on rotation - always brewed on-site by our small and passionate team.</p>"
           }
         }
       },
@@ -1034,7 +1034,7 @@
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
       "settings": {
-        "image": "shopify://shop_images/Birds_Eggs.005.png",
+        "image": "shopify://shop_images/Untitled.006.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
