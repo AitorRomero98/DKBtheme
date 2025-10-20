@@ -166,7 +166,7 @@
             "heading": "Visit our Taproom",
             "text": "<p>Enjoy our freshest beers on tap, alongside specialty coffee by Ambient, kombucha, natural wine and a seasonal kitchen menu.</p>",
             "button_label": "Find out more",
-            "button_link": ""
+            "button_link": "shopify://pages/taproom-25"
           }
         },
         "row_Kfp4AD": {
@@ -177,7 +177,7 @@
             "heading": "Tasting Experiences",
             "text": "<p>Join our passionate team for a fun and relaxed tasting of the full range of fresh Doskiwis beers.</p>",
             "button_label": "Find out more",
-            "button_link": ""
+            "button_link": "shopify://pages/tasting-25"
           }
         },
         "row_bkKgFp": {
@@ -188,7 +188,7 @@
             "heading": "Special Events",
             "text": "<p>Check out our upcoming events, hosted at the Taproom in Rupià, and beyond.</p>",
             "button_label": "See events",
-            "button_link": ""
+            "button_link": "shopify://pages/events-25"
           }
         }
       },
@@ -242,7 +242,7 @@
             "heading": "A Labour of Love",
             "text": "<p>Back in 2016, we created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
             "button_label": "Keep reading",
-            "button_link": ""
+            "button_link": "shopify://pages/about-us-25"
           }
         }
       },
