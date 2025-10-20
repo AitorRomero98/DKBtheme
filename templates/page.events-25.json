@@ -65,21 +65,21 @@
         "heading_3BjG9K": {
           "type": "heading",
           "settings": {
-            "heading": "Ambient Coffee Launch Party",
+            "heading": "Halloween Party",
             "heading_size": "h2"
           }
         },
         "text_bLwPwF": {
           "type": "text",
           "settings": {
-            "text": "<p>Meet the roasters, DJs, cocktails, special treats and more.</p><p>Sunday 19th October 2025, 12pm-6pm</p>",
+            "text": "<p>Saturday 1st November</p><p>Prizes for best dressed</p><p>DJ DEATH & Friends </p><p>There’ll be a bus to/from Girona - sign up at the link below. </p>",
             "text_style": "body"
           }
         },
         "button_8wzi8w": {
           "type": "button",
           "settings": {
-            "button_label": "More info",
+            "button_label": "Sign up",
             "button_link": "",
             "button_style_secondary": false
           }
@@ -89,6 +89,54 @@
         "heading_3BjG9K",
         "text_bLwPwF",
         "button_8wzi8w"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/halloween2025_en.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 48,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_7rHHGW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pMEDqM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ambient Coffee Launch Party",
+            "heading_size": "h2"
+          }
+        },
+        "text_E7xntA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Meet the roasters, DJs, cocktails, special treats and more.</p><p>Sunday 19th October 2025, 12pm-6pm</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YTNff4": {
+          "type": "button",
+          "settings": {
+            "button_label": "More info",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pMEDqM",
+        "text_E7xntA",
+        "button_YTNff4"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
@@ -981,6 +1029,7 @@
     "image_banner_KitMHg",
     "rich_text_gPVYjh",
     "image_with_text_zzDRnE",
+    "image_with_text_7rHHGW",
     "featured_collection_DwXPFt",
     "featured_collection_UxYmta",
     "featured_product_qkL9j7",
