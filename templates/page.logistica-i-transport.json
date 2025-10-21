@@ -11,9 +11,34 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_4bVH3y": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UhaBr4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Política d’enviament",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UhaBr4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "4b953b4c-989a-43c0-82c5-a2501db414c7": {
@@ -40,7 +65,7 @@
         "87e984d8-fa6b-43bc-bae4-53e63b5c89bd": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>Shipping Locations</strong></p><p>We currently ship to addresses within mainland Europe.</p><p>Please note: Unfortunately, we do not currently ship to any Spanish islands, or the UK & Ireland.</p><p><strong>Age Verification</strong></p><p>By placing an order, you confirm that you are of legal drinking age in your country. Our couriers may request ID upon delivery. If valid ID cannot be provided, your order will not be delivered, and a restocking fee may apply.</p><p><strong>Processing & Delivery Times</strong></p><p>Orders are typically processed within one business day. We ship on Tuesdays, Wednesdays, and Thursdays (excluding public holidays).</p><p>Typical delivery times:</p><p>Spain: 1-2 business days</p><p>Mainland Europe: 2-4 business days</p><p>Please note: External factors may occasionally cause delays.</p><p><strong>Shipping Fees</strong></p><p>Free shipping on orders over €60, this is automatically applied at checkout</p><p>Standard shipping is calculated at checkout</p><p>Expedited delivery may be available at an additional cost</p><p><strong>Order Tracking</strong></p><p>Once your order ships, you’ll receive a tracking number via email to monitor its progress.</p><p><strong>Damaged or Missing Items</strong></p><p>If your order arrives damaged or incomplete, please <span style=\"text-decoration:underline\">contact us</span> within 24 hours of delivery and include photos of the package and items. We’ll resolve the issue as quickly as possible.</p><p><strong>Returns & Refunds</strong></p><p>Because our products are perishable, we generally can’t accept returns. However, if there’s an issue with your order, please contact us at online@doskiwisbrewing.com so we can assist you.</p><p><strong>Changes & Cancellations</strong></p><p>If you need to modify or cancel your order, please contact us as soon as possible. Changes can only be made before your order has been shipped.</p><p>For any other questions, feel free to reach out at doskiwis@doskiwisbrewing.com.</p>"
+            "text": "<p>Actualment fem enviaments a Europa continental.</p><p>No enviem a illes espanyoles, Regne Unit ni Irlanda.</p><p>Per fer una comanda, cal ser major d’edat segons la legislació del país. El transportista pot demanar un document d’identitat.</p><p>Les comandes es processen en un dia laborable i s’envien dimarts, dimecres i dijous.</p><p>Terminis orientatius:</p><p>Espanya: 1–2 dies laborables</p><p>Europa continental: 2–4 dies laborables</p><p>Enviament gratuït per comandes superiors a 60 €.</p><p>Rebràs un número de seguiment per correu electrònic quan la comanda s’enviï.</p><p>Si l’enviament arriba danyat o incomplet, contacta amb nosaltres en 24 hores i envia’ns fotos. Ho solucionarem tan aviat com sigui possible.</p><p>Com que el producte és perible, no acceptem devolucions, però si hi ha cap problema, escriu-nos a online@doskiwisbrewing.com.</p><p>Per modificar o cancel·lar una comanda, contacta’ns abans que s’hagi enviat.</p><p>Per a qualsevol altra pregunta, pots escriure’ns a doskiwis@doskiwisbrewing.com.</p>"
           }
         }
       },
@@ -61,6 +86,7 @@
   },
   "order": [
     "main",
+    "rich_text_4bVH3y",
     "4b953b4c-989a-43c0-82c5-a2501db414c7"
   ]
 }
