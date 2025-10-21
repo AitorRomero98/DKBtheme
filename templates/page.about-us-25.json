@@ -48,7 +48,7 @@
         "text_eYrYpy": {
           "type": "text",
           "settings": {
-            "text": "<h2>We create modern, accessible beers packed full of flavour, using only the highest-quality ingredients to deliver an unmistakable experience in every glass.</h2><h2>Since 2019, we’ve been brewing in Rupià, Empordà - a peaceful village tucked between Girona, the Pyrenees, and the Costa Brava.</h2>"
+            "text": "<h2>Ens centrem en crear cerveses modernes i accessibles, plenes de sabor, utilitzant només ingredients de la màxima qualitat per oferir una experiència inconfusible a cada got.</h2><h2>Des del 2019, elaborem cervesa a Rupià, Baix Empordà – un poble tranquil situat entre Girona, els Pirineus i la Costa Brava.</h2>"
           }
         }
       },
@@ -168,7 +168,7 @@
         "heading_ci9M4F": {
           "type": "heading",
           "settings": {
-            "heading": "A Labour of Love",
+            "heading": "Una feina feta amb amor",
             "heading_size": "h1"
           }
         }
@@ -210,7 +210,7 @@
         "text_bLwPwF": {
           "type": "text",
           "settings": {
-            "text": "<p>Back in 2016, we (Judit, from Llofriu, Baix Empordà and Michael, from New Zealand, the “Kiwi”) created the Doskiwis concept with the ambition of making the beers we wanted to drink ourselves but couldn’t find locally here in Empordà.</p>",
+            "text": "<p>L’any 2016, nosaltres (Judit, de Llofriu i Michael, de Nova Zelanda, el “Kiwi”) vam crear el concepte DosKiwis amb la voluntat d’elaborar les cerveses que volíem beure, però que no trobàvem a l’Empordà.</p>",
             "text_style": "body"
           }
         }
@@ -241,7 +241,7 @@
         "text_pX8Rp6": {
           "type": "text",
           "settings": {
-            "text": "<p>In late 2017, we found exactly what we had been looking for: an old, unoccupied barn full of potential. </p><p>Strapped for cash, we rolled up our sleeves and called upon friends and family to help transform the barn into the brewery, taproom and beer garden we now call home.</p>",
+            "text": "<p>A finals del 2017 vam trobar el que buscàvem: un antic paller convertit en antiquari, buit, però ple de possibilitats.</p><p>Sense gaire pressupost, vam arromangar-nos i amb l’ajuda d’amics i familiars, vam transformar aquell espai en la fàbrica, taproom i jardí que ara és casa nostra.</p>",
             "text_style": "body"
           }
         }
@@ -272,7 +272,7 @@
         "text_DbRGQ4": {
           "type": "text",
           "settings": {
-            "text": "<p>After more than a year of hard work, we officially opened our doors on a cold February night in 2019, with just three beers on tap and a single garden table.</p>",
+            "text": "<p>Després de més d’un any de treballar-hi, vam obrir oficialment les portes una nit freda de febrer del 2019, amb només tres cerveses a les aixetes i una taula al jardí.</p>",
             "text_style": "body"
           }
         }
@@ -303,7 +303,7 @@
         "text_94ekrE": {
           "type": "text",
           "settings": {
-            "text": "<p>Today, we have ten beers on tap - some core beers and a rotating selection of limited brews, always brewed on-site by our small and passionate team, alongside kombucha, natural wine, specialty coffee and a seasonal kitchen menu best enjoyed in our lively beer garden.</p>",
+            "text": "<p>Avui tenim deu cerveses als tiradors — algunes fixes i altres rotatòries — sempre elaborades aquí pel nostre petit i apassionat equip, juntament amb cafè d’Ambient, kombutxa, vi natural i una carta de temporada per gaudir al jardí.</p>",
             "text_style": "body"
           }
         }
@@ -334,7 +334,7 @@
         "text_TyRcCm": {
           "type": "text",
           "settings": {
-            "text": "<p>Looking ahead, our goal is simple: to keep learning, improving and brewing the best beers possible, while making a positive impact on our community and environment.</p>",
+            "text": "<p>De cara al futur, el nostre objectiu és simple: continuar aprenent, millorant i fent les millors cerveses possibles, tot tenint un impacte positiu en la nostra comunitat i el medi ambient.</p>",
             "text_style": "body"
           }
         }
