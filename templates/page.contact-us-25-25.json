@@ -40,14 +40,14 @@
         "heading_fcJtih": {
           "type": "heading",
           "settings": {
-            "heading": "Contact us",
+            "heading": "Contacta amb nosaltres",
             "heading_size": "h1"
           }
         },
         "text_gMfXJa": {
           "type": "text",
           "settings": {
-            "text": "<p>General Enquiries:</p><ul><li>Email: doskiwis@doskiwisbrewing.com</li><li>Phone: +34623192815</li></ul><p>Brewery & Taproom Address:</p><ul><li>Doskiwis Brewing, Carretera de Parlavà, GI-642, 22, 17131 Rupià, Girona</li></ul><p>Opening hours:</p><ul><li>Our Taproom is open year-round, with hours that vary by season.</li><li>Please check the Taproom page or Google Maps for more information.</li></ul>"
+            "text": "<p>Consultes generals:</p><ul><li>Correu: doskiwis@doskiwisbrewing.com</li><li>Telèfon: +34 623 192 815</li></ul><p>Adreça del Brewery & Taproom:</p><p>DosKiwis Brewing, Carretera de Parlavà, GI-642, 22, 17131 Rupià, Girona</p><p>El Taproom està obert tot l’any, amb horaris que varien segons la temporada.</p><p>Consulta la pàgina del <a href=\"/pages/taproom-25\" target=\"_blank\" title=\"Taproom 25\">Taproom</a> o <a href=\"https://maps.app.goo.gl/ZxwVNeF9yjxsegwV7?g_st=ipc\" target=\"_blank\" title=\"https://maps.app.goo.gl/ZxwVNeF9yjxsegwV7?g_st=ipc\">Google Maps</a> per més informació.</p>"
           }
         }
       },
