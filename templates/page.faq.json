@@ -140,72 +140,72 @@
         "collapsible_row_34tafV": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "What is the Taproom?",
+            "heading": "Què és el Taproom?",
             "icon": "none",
-            "row_content": "<p>Our Taproom is an integral part of our brewery, right next to our brewery, it’s where you can drink our beer at its freshest, just meters from where it’s made.</p><p>We have a cozy indoor space and a large, beautiful beer garden and terrace.</p><p>Please check our <span style=\"text-decoration:underline\">Taproom</span> page or <span style=\"text-decoration:underline\">Google Maps</span> for current opening hours.</p>",
+            "row_content": "<p>És una part essencial del nostre projecte: un espai on pots beure la cervesa més fresca just davant d’on l’hem elaborat. Tenim un petit interior acollidor i un ampli jardí.</p>",
             "page": ""
           }
         },
         "collapsible_row_NQiEzz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you serve food?",
+            "heading": "Serviu menjar?",
             "icon": "none",
-            "row_content": "<p>Yes. Our on-site kitchen offers a seasonal menu featuring freshly made dishes that celebrate locally sourced ingredients, including options for vegetarians and vegans. </p><p>Please alert the kitchen if you suffer from any allergies and please note we cannot guarantee the absence of traces. </p><p><span style=\"text-decoration:underline\">Please note that kitchen hours differ from Taproom hours.</span></p>",
+            "row_content": "<p>Sí. La nostra cuina ofereix una carta informal de temporada amb plats acabats de fer que celebren els ingredients d’origen local, incloent-hi opcions veganes i vegeratianes.</p><p>Si tens alguna al·lèrgia, si us plau, avisa a la cuina. No podem garantir absències de tracess.</p><p>Tingues en compte que l’horari de la cuina pot diferir de l’horari del Taproom.</p>",
             "page": ""
           }
         },
         "collapsible_row_kTePyL": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you serve other drinks besides beer?",
+            "heading": "Serviu altres begudes a part de la cervesa?",
             "icon": "none",
-            "row_content": "<p>Yes. We offer gluten-free and alcohol-free options such as cider and juice from local producer Mooma, plus a small selection of local natural wines. </p><p>We also serve Ambient specialty coffee, and Lov Kombucha. </p>",
+            "row_content": "<p>Sí. Oferim opcions sense gluten i sense alcohol, com ara sidra i sucs del productor local Mooma, a més d’una petita selecció de vins naturals locals.</p><p>També servim cafè d’especialitat Ambient, i Lov Kombucha.</p>",
             "page": ""
           }
         },
         "collapsible_row_rcqqiz": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do I need to book in advance to visit the Taproom?",
+            "heading": "Cal reservar per visitar el Taproom?",
             "icon": "none",
-            "row_content": "<p>Walk-ins are always welcome, but we recommend booking in advance for large groups or during busy summer evenings.</p>",
+            "row_content": "<p>No és obligatori, però recomanem reservar en festius, per a grups grans o nits d’estiu.</p>",
             "page": ""
           }
         },
         "collapsible_row_TGMA4D": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I bring my dog?",
+            "heading": "Puc portar el meu gos?",
             "icon": "none",
-            "row_content": "<p>Yes! Dogs are welcome, but for everyone’s comfort and safety, please keep your dog leashed and supervised at all times. </p>",
+            "row_content": "<p>Sí! Els gossos són benvinguts, però cal mantenir-los lligats i sota supervisió.</p>",
             "page": ""
           }
         },
         "collapsible_row_kVyiQ6": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you offer tasting experiences?",
+            "heading": "Oferiu experiències de tast?",
             "icon": "none",
-            "row_content": "<p>Yes, all the details are <span style=\"text-decoration:underline\">available here.</span></p>",
+            "row_content": "<p>Sí, pots trobar tots els detalls a la secció corresponent.</p>",
             "page": ""
           }
         },
         "collapsible_row_tnbNTK": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Do you offer brewery tours?",
+            "heading": "Feu visites guiades?",
             "icon": "none",
-            "row_content": "<p>We don’t currently offer guided “behind the scenes” brewery tours, but you’ll see the entire brewery directly from the Taproom - where Doskiwis beer is made and served, all under one roof. </p>",
+            "row_content": "<p>Actualment no fem visites “entre bastidors”, però des del Taproom es veu tota la fàbrica, on es fa i s’envasa la nostra cervesa. </p>",
             "page": ""
           }
         },
         "collapsible_row_4Eqkqc": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Can I host a private event at the Taproom?",
+            "heading": "Puc organitzar un esdeveniment privat al Taproom?",
             "icon": "none",
-            "row_content": "<p>Absolutely. We’d love to help you plan your celebration - birthdays, weddings, or any special occasion. </p><p>We also offer tap rentals, kegs, and cans, so you can bring Doskiwis to your own event.</p><p>Please <span style=\"text-decoration:underline\">get in touch</span> to start the conversation.</p>",
+            "row_content": "<p>Per descomptat. T’ajudem a preparar la teva celebració, sigui un aniversari, casament o qualsevol ocasió especial.</p><p>També oferim lloguer de tiradors, barrils i llaunes.</p>",
             "page": ""
           }
         },
@@ -214,7 +214,7 @@
           "settings": {
             "heading": "How do I get there?",
             "icon": "none",
-            "row_content": "<p>The Taproom address is:</p><p>Doskiwis Brewing</p><p>Carretera de Parlavà, GI-642, 22</p><p>17131 Rupià, Girona</p><p><span style=\"text-decoration:underline\">Google Maps</span></p><p>If you’re driving, we offer free on-site parking.</p><p>We’re also close to Flaçà train station, about 7 minutes away by car. Taxis are usually available at the station and can be booked in advance at +34 650 310 587.</p><p>A bus service connects Rupià with Flaçà, Girona, and nearby towns. The Rupià bus stop is just 400 m from the Taproom. <span style=\"text-decoration:underline\">We recommend checking schedules in advance.</span></p><p>Cyclists will find many beautiful road and gravel routes leading to the Taproom. We have bike parking and a drinking water tap for refills.</p><p>Example routes from Girona:</p><p>Girona to Doskiwis - road, flat:</p><p><a href=\"https://www.strava.com/routes/19465045\"><span style=\"text-decoration:underline\">https://www.strava.com/routes/19465045</span></a></p><p>Girona to Doskiwis - off-road, flat:</p><p><a href=\"https://www.strava.com/routes/19465377\"><span style=\"text-decoration:underline\">https://www.strava.com/routes/19465377</span></a></p><p>Girona to Doskiwis - road, up and over Els Angels climb:</p><p><a href=\"https://www.strava.com/routes/19465012\"><span style=\"text-decoration:underline\">https://www.strava.com/routes/19465012</span></a></p><p>Girona to Doskiwis - off-road, up and over Els Angels climb:</p><p><a href=\"https://www.strava.com/routes/19464961\"><span style=\"text-decoration:underline\">https://www.strava.com/routes/19464961</span></a></p><p>Many thanks to Dave Smith for sharing these routes!</p>",
+            "row_content": "<p>Com hi arribo?</p><p>Adreça:<br/> DosKiwis Brewing<br/> Carretera de Parlavà, GI-642, 22<br/> 17131 Rupià, Girona</p><p>Hi ha aparcament gratuït.<br/> L’estació de tren de Flaçà és a 7 minuts amb cotxe.<br/> També hi ha connexió d’autobús amb Rupià, Girona i pobles propers.<br/><br/> Els ciclistes trobaran bones rutes i un punt d’aigua per reomplir.<br/><br/>Exemples de rutes amb bicicletes:</p><p>Girona a DosKiwis – carretera, pla:<br/><a href=\"https://www.strava.com/routes/19465045\"> <span style=\"text-decoration:underline\">https://www.strava.com/routes/19465045</span></a></p><p>Girona a DosKiwis – camins, pla:<br/><a href=\"https://www.strava.com/routes/19465377\"> <span style=\"text-decoration:underline\">https://www.strava.com/routes/19465377</span></a></p><p>Girona a DosKiwis – carretera, pujant i baixant els Àngels:<br/><a href=\"https://www.strava.com/routes/19465012\"> <span style=\"text-decoration:underline\">https://www.strava.com/routes/19465012</span></a></p><p>Girona a DosKiwis – camins, pujant i baixant els Àngels:<br/><a href=\"https://www.strava.com/routes/19464961\"> <span style=\"text-decoration:underline\">https://www.strava.com/routes/19464961</span></a></p><p>Moltes gràcies a en Dave Smith per compartir aquestes rutes!</p>",
             "page": ""
           }
         }
@@ -233,7 +233,7 @@
       "name": "Taproom",
       "settings": {
         "caption": "",
-        "heading": "TAPROOM",
+        "heading": "Taproom",
         "heading_size": "h2",
         "heading_alignment": "center",
         "layout": "none",
@@ -252,7 +252,7 @@
         "text_ckA6Uk": {
           "type": "text",
           "settings": {
-            "text": "<p>For any other questions, feel free to reach out at doskiwis@doskiwisbrewing.com.</p>"
+            "text": "<p>Per a qualsevol altra pregunta, no dubteu a escriure’ns a doskiwis@doskiwisbrewing.com</p>"
           }
         }
       },
