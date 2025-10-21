@@ -40,14 +40,14 @@
         "heading_TK4hU9": {
           "type": "heading",
           "settings": {
-            "heading": "Join the team",
+            "heading": "Uneix-te a l’equip",
             "heading_size": "h1"
           }
         },
         "text_FbdmB4": {
           "type": "text",
           "settings": {
-            "text": "<p>We’re always looking for passionate, motivated people to join our team and help us share great beer with the world.</p><p>See our open vacancies below, otherwise feel free to get in touch via: doskiwis@doskiwisbrewing.com</p>"
+            "text": "<p>Busquem persones apassionades i motivades per compartir la nostra cervesa amb el món.</p><p>Consulta les vacants obertes o contacta’ns a: doskiwis@doskiwisbrewing.com</p>"
           }
         }
       },
@@ -71,21 +71,21 @@
         "heading_wpeTT7": {
           "type": "heading",
           "settings": {
-            "heading": "Cook",
+            "heading": "Cuiner/a Jornada completa",
             "heading_size": "h1"
           }
         },
         "text_WfpnYF": {
           "type": "text",
           "settings": {
-            "text": "<p>Full time</p>",
+            "text": "",
             "text_style": "body"
           }
         },
         "button_wicxQK": {
           "type": "button",
           "settings": {
-            "button_label": "Find out more",
+            "button_label": "Més informació",
             "button_link": "shopify://pages/cuinera",
             "button_style_secondary": false
           }
