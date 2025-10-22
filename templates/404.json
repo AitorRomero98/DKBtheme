@@ -26,27 +26,10 @@
             "heading": "Oops! This page no longer exists.",
             "heading_size": "h2"
           }
-        },
-        "text_LjqtFz": {
-          "type": "text",
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "button_JpJYNi": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
         }
       },
       "block_order": [
-        "heading_ntdyaz",
-        "text_LjqtFz",
-        "button_JpJYNi"
+        "heading_ntdyaz"
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
