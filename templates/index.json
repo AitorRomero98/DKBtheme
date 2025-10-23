@@ -249,7 +249,7 @@
           "type": "button",
           "settings": {
             "button_label": "MÉS",
-            "button_link": "shopify://pages/aboutus",
+            "button_link": "shopify://pages/aboutus_archived",
             "button_style_secondary": true
           }
         }
