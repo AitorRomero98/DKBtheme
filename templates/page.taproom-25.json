@@ -179,7 +179,7 @@
             "heading": "Esdeveniments especials",
             "text": "<p>Consulta els propers esdeveniments, tant al Taproom de Rupià com fora.</p>",
             "button_label": "Veure esdeveniments",
-            "button_link": "shopify://pages/events-25"
+            "button_link": "shopify://pages/events"
           }
         }
       },
