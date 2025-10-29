@@ -23,9 +23,29 @@
         "padding_top": 100,
         "padding_bottom": 100
       }
+    },
+    "featured_blog_PE8hUq": {
+      "type": "featured-blog",
+      "disabled": true,
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "heading": "Test Blog Header 123",
+        "heading_size": "h2",
+        "blog": "press",
+        "post_limit": 4,
+        "columns_desktop": 2,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": false,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "featured_blog_PE8hUq"
   ]
 }

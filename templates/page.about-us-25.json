@@ -1,0 +1,296 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_KitMHg": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/BE82BDCF-4A06-4BE3-9555-D0551CF5A426_1_105_c.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_gPVYjh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CwEgTq": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Welcome to Doskiwis",
+            "heading_size": "h1"
+          }
+        },
+        "text_eYrYpy": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Ens centrem en crear cerveses modernes i accessibles, plenes de sabor, utilitzant només ingredients de la màxima qualitat per oferir una experiència inconfusible a cada got.</h2><h2>Des del 2019, elaborem cervesa a Rupià, Baix Empordà – un poble tranquil situat entre Girona, els Pirineus i la Costa Brava.</h2>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CwEgTq",
+        "text_eYrYpy"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_banner_Jegp9M": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/5110238A-F218-4377-A93B-585AF1FF7B77_1_105_c_490ac363-1f1f-4813-baaa-92123c945104.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_NQa46C": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_UrxHiY": {
+          "type": "heading",
+          "settings": {
+            "heading": "Una feina feta amb amor",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UrxHiY"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_zzDRnE": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_bLwPwF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>L’any 2016, nosaltres (Judit, de Llofriu i Michael, de Nova Zelanda, el “Kiwi”) vam crear el concepte DosKiwis amb la voluntat d’elaborar les cerveses que volíem beure, però que no trobàvem a l’Empordà.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_bLwPwF"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/CXgXg.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_mDdXrF": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_pX8Rp6": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A finals del 2017 vam trobar el que buscàvem: un antic paller convertit en antiquari, buit, però ple de possibilitats.</p><p>Sense gaire pressupost, vam arromangar-nos i amb l’ajuda d’amics i familiars, vam transformar aquell espai en la fàbrica, taproom i jardí que ara és casa nostra.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_pX8Rp6"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/DSC02228_20a72148-b4d3-4ee4-ba1f-a73242771a90.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_k3UUTn": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_DbRGQ4": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Després de més d’un any de treballar-hi, vam obrir oficialment les portes una nit freda de febrer del 2019, amb només tres cerveses a les aixetes i una taula al jardí.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_DbRGQ4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/2543DF15-ED61-4383-809F-76AAE1C5CF02_1_105_c_974c2fb7-2d0a-450e-b7a5-872ad915f8ce.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_byJd4V": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_94ekrE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Avui tenim deu cerveses als tiradors — algunes fixes i altres rotatòries — sempre elaborades aquí pel nostre petit i apassionat equip, juntament amb cafè d’Ambient, kombutxa, vi natural i una carta de temporada per gaudir al jardí.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_94ekrE"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/IMG_0254.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_RDrM8d": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_TyRcCm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>De cara al futur, el nostre objectiu és simple: continuar aprenent, millorant i fent les millors cerveses possibles, tot tenint un impacte positiu en la nostra comunitat i el medi ambient.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_TyRcCm"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/232A3548-6709-4847-BC03-A1380F2B6413_91722564-80ec-4a84-a458-3ae378065be9.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_g3ePRA": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Untitled.007.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_KitMHg",
+    "rich_text_gPVYjh",
+    "image_banner_Jegp9M",
+    "rich_text_NQa46C",
+    "image_with_text_zzDRnE",
+    "image_with_text_mDdXrF",
+    "image_with_text_k3UUTn",
+    "image_with_text_byJd4V",
+    "image_with_text_RDrM8d",
+    "image_banner_g3ePRA"
+  ]
+}
