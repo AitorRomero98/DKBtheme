@@ -1,0 +1,190 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_zzDRnE": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3BjG9K": {
+          "type": "heading",
+          "settings": {
+            "heading": "Festa de Halloween",
+            "heading_size": "h2"
+          }
+        },
+        "text_bLwPwF": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dissabte 1 de novembre</p><p>Premis als millors vestits</p><p>DJ DEATH & Amics</p><p>Hi haurà un autobús cap a/des de Girona - inscriu-te a l'enllaç següent.</p>",
+            "text_style": "body"
+          }
+        },
+        "button_8wzi8w": {
+          "type": "button",
+          "settings": {
+            "button_label": "Sign up",
+            "button_link": "https://docs.google.com/forms/d/e/1FAIpQLScjWpmyyDanIaTfUU-CEY2Haw0H03xIAcajpwoLt2Uglxb3Hg/viewform",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3BjG9K",
+        "text_bLwPwF",
+        "button_8wzi8w"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/halloween2025_en.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 48,
+        "padding_bottom": 100
+      }
+    },
+    "image_with_text_7rHHGW": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_pMEDqM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Festa de presentació del Ambient Coffee",
+            "heading_size": "h2"
+          }
+        },
+        "text_E7xntA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Coneix els torradors, DJs, còctels, llaminadures especials i molt més.<br/>Diumenge, 19 d'octubre de 2025, de 12 a 18 h</p>",
+            "text_style": "body"
+          }
+        },
+        "button_YTNff4": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_pMEDqM",
+        "text_E7xntA",
+        "button_YTNff4"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/ambient_launch_party_en.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 48,
+        "padding_bottom": 100
+      }
+    },
+    "image_banner_pYbBaB": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Doskiwis_GiRODEO-18.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_t7Cf9E": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_GpggwC": {
+          "type": "heading",
+          "settings": {
+            "heading": "Celebra a DosKiwis",
+            "heading_size": "h1"
+          }
+        },
+        "text_6ziHqG": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Esdeveniments privats, per a grups i celebració d’ocasions especials al Taproom.</h3><p>Ens encantaria acollir-te per qualsevol celebració: aniversaris, casaments, esdeveniments d’empresa, presentacions de discos i més.<br/><br/>Podem ajudar-te a organitzar esdeveniments de totes les mides, amb qualsevol combinació de la nostra cervesa, menjar i altres detalls específics.</p><p>Si la teva celebració és en un altre lloc, també oferim lloguer de tiradors, barrils i llaunes, perquè puguis portar DosKiwis allà on vulguis.</p><p>Contacta’ns a: doskiwis@doskiwisbrewing.com</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_GpggwC",
+        "text_6ziHqG"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 100
+      }
+    },
+    "image_banner_6m6CfN": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Untitled.006.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_zzDRnE",
+    "image_with_text_7rHHGW",
+    "image_banner_pYbBaB",
+    "rich_text_t7Cf9E",
+    "image_banner_6m6CfN"
+  ]
+}

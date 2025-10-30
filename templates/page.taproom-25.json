@@ -1,0 +1,236 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_KitMHg": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Doskiwis_GiRODEO-7.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_gPVYjh": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_CwEgTq": {
+          "type": "heading",
+          "settings": {
+            "heading": "Visita el nostre Taproom",
+            "heading_size": "h1"
+          }
+        },
+        "text_eYrYpy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gaudeix de les nostres cerveses de tirador al seu lloc d’origen, juntament amb cafè d’especialitat d’Ambient, kombutxa, vi natural i una carta de cuina informal de temporada al nostre jardí. Actualment tenim deu cerveses en rotació, sempre elaborades in situ pel nostre petit i apassionat equip.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_CwEgTq",
+        "text_eYrYpy"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 72,
+        "padding_bottom": 72
+      }
+    },
+    "multirow_8q39wH": {
+      "type": "multirow",
+      "blocks": {
+        "row_JVyVyn": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC01788.jpg",
+            "caption": "",
+            "heading": "Adreça del Taproom",
+            "text": "<p>Doskiwis Brewing, Carretera Parlavà 22, 17131 Rupià, Girona</p>",
+            "button_label": "Google Maps",
+            "button_link": "https://maps.app.goo.gl/ZxwVNeF9yjxsegwV7?g_st=ipc"
+          }
+        },
+        "row_rGEM6j": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC06824_77cda7c2-30bb-4c9a-a6f5-58b73ba4706f.jpg",
+            "caption": "",
+            "heading": "Horaris del Taproom",
+            "text": "<p><strong>Octubre 2025:</strong></p><ul><li>Divendres: 18:00 – 23:00</li><li>Dissabte: 12:00 – 23:00</li><li>Diumenge: 12:00 – 18:00</li></ul>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_JVyVyn",
+        "row_rGEM6j"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_GKYPBd": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zU9tRV": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Si us plau, tingues en compte:</p><p>Els horaris canvien segons la temporada i s’actualitzen mensualment.</p><p>Els horaris de la cuina són diferents:</p><ul><li>Divendres: 19:30 – 22:30</li><li>Dissabte: 13:00 – 15:30 i 19:30 – 22:30</li><li>Diumenge: 13:00 – 15:30</li></ul><p>Les nostres cerveses estan disponibles per emportar en llaunes de 440 ml i ampolles reutilitzables de 946 ml.La botiga està oberta de dilluns a divendres, de 10:00 a 18:00, així com durant els horaris del Taproom.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_zU9tRV"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "multirow_MLxAWR": {
+      "type": "multirow",
+      "blocks": {
+        "row_UhVyMa": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC07456.jpg",
+            "caption": "",
+            "heading": "La nostra cuina",
+            "text": "<p>Plats frescos i de temporada que mariden amb les nostres cerveses: hamburgueses, amanides, plats per compartir i postres.</p>",
+            "button_label": "Menú",
+            "button_link": "https://lorine842.softr.app/"
+          }
+        },
+        "row_frFmhK": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC06123_26de5972-d938-441c-8257-5a5e5473cd57.jpg",
+            "caption": "",
+            "heading": "Reserva taula",
+            "text": "<p>Recomanem reservar amb antelació per assegurar una taula, especialment en festius o nits d’estiu amb molta afluència.</p>",
+            "button_label": "Reserva ara",
+            "button_link": "https://doskiwisbrewing.myrestoo.net/ca/reservar"
+          }
+        },
+        "row_YE6kXk": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Doskiwis_GiRODEO-22.png",
+            "caption": "",
+            "heading": "Experiències de tast",
+            "text": "<p>Deixa que un membre del nostre equip t’acompanyi en un tast divertit i relaxat de tota la gamma de cerveses Doskiwis.</p>",
+            "button_label": "Més informació",
+            "button_link": "shopify://pages/tasting"
+          }
+        },
+        "row_4RxKfe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DSC06872.jpg",
+            "caption": "",
+            "heading": "Esdeveniments especials",
+            "text": "<p>Consulta els propers esdeveniments, tant al Taproom de Rupià com fora.</p>",
+            "button_label": "Veure esdeveniments",
+            "button_link": "shopify://pages/events"
+          }
+        }
+      },
+      "block_order": [
+        "row_UhVyMa",
+        "row_frFmhK",
+        "row_YE6kXk",
+        "row_4RxKfe"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_pgNnQJ": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Untitled.006.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_KitMHg",
+    "rich_text_gPVYjh",
+    "multirow_8q39wH",
+    "rich_text_GKYPBd",
+    "multirow_MLxAWR",
+    "image_banner_pgNnQJ"
+  ]
+}

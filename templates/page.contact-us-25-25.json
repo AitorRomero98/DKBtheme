@@ -1,0 +1,74 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_KitMHg": {
+      "type": "image-banner",
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Untitled.002.png",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text_NWazRJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fcJtih": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contacta amb nosaltres",
+            "heading_size": "h1"
+          }
+        },
+        "text_gMfXJa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Consultes generals:</p><ul><li>Correu: doskiwis@doskiwisbrewing.com</li><li>Telèfon: +34 623 192 815</li></ul><p>Adreça del Brewery & Taproom:</p><p>DosKiwis Brewing, Carretera de Parlavà, GI-642, 22, 17131 Rupià, Girona</p><p>El Taproom està obert tot l’any, amb horaris que varien segons la temporada.</p><p>Consulta la pàgina del <a href=\"/pages/taproom-25\" target=\"_blank\" title=\"Taproom 25\">Taproom</a> o <a href=\"https://maps.app.goo.gl/ZxwVNeF9yjxsegwV7?g_st=ipc\" target=\"_blank\" title=\"https://maps.app.goo.gl/ZxwVNeF9yjxsegwV7?g_st=ipc\">Google Maps</a> per més informació.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_fcJtih",
+        "text_gMfXJa"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 100
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_KitMHg",
+    "rich_text_NWazRJ"
+  ]
+}
