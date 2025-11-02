@@ -37,7 +37,7 @@
         "button_8wzi8w": {
           "type": "button",
           "settings": {
-            "button_label": "Sign up",
+            "button_label": "",
             "button_link": "https://docs.google.com/forms/d/e/1FAIpQLScjWpmyyDanIaTfUU-CEY2Haw0H03xIAcajpwoLt2Uglxb3Hg/viewform",
             "button_style_secondary": false
           }
