@@ -84,7 +84,7 @@
           "settings": {
             "image": "shopify://shop_images/DSC06824_77cda7c2-30bb-4c9a-a6f5-58b73ba4706f.jpg",
             "caption": "",
-            "heading": "",
+            "heading": "Nota: Tancat durant el novembre",
             "text": "<p>És el moment de l'any en què fem un petit descans al taproom. El taproom tornarà a obrir per al servei de dinar, els dissabtes i diumenges a partir del 6 de desembre. La fàbrica continuarà funcionant com sempre.</p>",
             "button_label": "",
             "button_link": ""
@@ -125,6 +125,7 @@
       "block_order": [
         "text_zU9tRV"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "center",
