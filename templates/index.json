@@ -49,13 +49,96 @@
         "padding_bottom": 100
       }
     },
+    "multirow_BayEpx": {
+      "type": "multirow",
+      "blocks": {
+        "row_b7UraJ": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1_80587f0e-c692-4007-afa4-e63994dbd0bd.png",
+            "caption": "",
+            "heading": "DosKiwis + amics",
+            "text": "",
+            "button_label": "Compra ara",
+            "button_link": "shopify://collections/new-arrivals"
+          }
+        },
+        "row_dVftqe": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1_d7fddab0-9d08-4d0b-8c9f-b08170a44401.png",
+            "caption": "",
+            "heading": "DosKiwis + DEYA - Chazzy Hazy IPA, 7%",
+            "text": "",
+            "button_label": "Compra ara",
+            "button_link": "shopify://products/doskiwis-deya-chazzy-hazy-ipa"
+          }
+        },
+        "row_rRUTJr": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1_6e7e61fe-fa3c-47ea-9fb3-747eeb57f071.png",
+            "caption": "",
+            "heading": "DosKiwis + Left Handed Giant - Ambidextrous Foreign Extra Stout, 7%",
+            "text": "",
+            "button_label": "Compra ara",
+            "button_link": "shopify://products/doskiwis-left-handed-giant-ambidextrous-foreign-extra-stout"
+          }
+        },
+        "row_YGkdRC": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1_30a45da7-510e-466c-8ab9-02fa764e62b4.png",
+            "caption": "",
+            "heading": "DosKiwis + Fuerst Wiacek (Berlín, Alemanya) - Dosis Hazy DIPA, 8%",
+            "text": "",
+            "button_label": "Compra ara",
+            "button_link": "shopify://products/doskiwis-fuerst-wiacek-dosis-hazy-dipa"
+          }
+        },
+        "row_GmgmkX": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/1_fc9f32b7-54be-451a-896a-b5593a7bc4ce.png",
+            "caption": "",
+            "heading": "Track + DosKiwis presenta “Zonal”",
+            "text": "",
+            "button_label": "Llegeix la història completa",
+            "button_link": "shopify://blogs/press/track-doskiwis-presents-zonal"
+          }
+        }
+      },
+      "block_order": [
+        "row_b7UraJ",
+        "row_dVftqe",
+        "row_rRUTJr",
+        "row_YGkdRC",
+        "row_GmgmkX"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "primary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_NMYQiC": {
       "type": "image-with-text",
       "blocks": {
         "heading_g8nFMn": {
           "type": "heading",
           "settings": {
-            "heading": "Track + DosKiwis presenta “Zonal”",
+            "heading": "",
             "heading_size": "h2"
           }
         },
@@ -80,6 +163,7 @@
         "text_ji79Kr",
         "button_dffPVP"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/1_fc9f32b7-54be-451a-896a-b5593a7bc4ce.png",
@@ -287,6 +371,7 @@
   "order": [
     "c227bd9b-4cf2-481c-b9a6-4bfcb6a8f075",
     "rich_text_nhQDcB",
+    "multirow_BayEpx",
     "image_with_text_NMYQiC",
     "featured_collection_3riWdx",
     "featured_collection_JAARz7",
