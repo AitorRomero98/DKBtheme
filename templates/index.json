@@ -55,22 +55,22 @@
         "heading_g8nFMn": {
           "type": "heading",
           "settings": {
-            "heading": "Cervesa fresca, directe a casa teva",
+            "heading": "Track + DosKiwis presenta “Zonal”",
             "heading_size": "h2"
           }
         },
         "text_ji79Kr": {
           "type": "text",
           "settings": {
-            "text": "<p>Descobreix la nostra línia de cerveses fixes i una selecció de cerveses d’edició limitada.</p>",
+            "text": "<p>11è Aniversari DDH West Coast IPA amb Riwaka & Motueka | 7.2%</p>",
             "text_style": "body"
           }
         },
         "button_dffPVP": {
           "type": "button",
           "settings": {
-            "button_label": "Compra ara",
-            "button_link": "shopify://collections/beer",
+            "button_label": "Llegeix la història completa",
+            "button_link": "shopify://blogs/press/track-doskiwis-presents-zonal",
             "button_style_secondary": false
           }
         }
@@ -82,7 +82,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/DSC03752_1.jpg",
+        "image": "shopify://shop_images/1_fc9f32b7-54be-451a-896a-b5593a7bc4ce.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
