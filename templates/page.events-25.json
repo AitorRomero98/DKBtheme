@@ -23,14 +23,14 @@
         "heading_3BjG9K": {
           "type": "heading",
           "settings": {
-            "heading": "Festa de Halloween",
+            "heading": "Mercat d’Artesanes de Nadal anual de DosKiwis Dissabte 13 i diumenge 14 de desembre",
             "heading_size": "h2"
           }
         },
         "text_bLwPwF": {
           "type": "text",
           "settings": {
-            "text": "<p>Dissabte 1 de novembre</p><p>Premis als millors vestits</p><p>DJ DEATH & Amics</p><p>Hi haurà un autobús cap a/des de Girona - inscriu-te a l'enllaç següent.</p>",
+            "text": "<p>Tenim moltes ganes de rebre un cop més a diverses artesanes i artesans de la comunitat.</p><p>Conèixer les persones que hi ha al darrere: cosmètica natural, ceràmica, roba… </p><p>Horari del mercat: 12h-17h, Horari de la cuina: 12h-16h.</p>",
             "text_style": "body"
           }
         },
@@ -50,7 +50,7 @@
       ],
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
-        "image": "shopify://shop_images/halloween2025_en.jpg",
+        "image": "shopify://shop_images/1_5a774753-3061-434e-b4d2-55a72ec42a79.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -96,6 +96,7 @@
         "text_E7xntA",
         "button_YTNff4"
       ],
+      "disabled": true,
       "name": "t:sections.image-with-text.presets.name",
       "settings": {
         "image": "shopify://shop_images/ambient_launch_party_en.jpg",
