@@ -84,8 +84,8 @@
           "settings": {
             "image": "shopify://shop_images/DSC06824_77cda7c2-30bb-4c9a-a6f5-58b73ba4706f.jpg",
             "caption": "",
-            "heading": "Nota: Tancat durant el novembre",
-            "text": "<p>És el moment de l'any en què fem un petit descans al taproom. El taproom tornarà a obrir per al servei de dinar, els dissabtes i diumenges a partir del 6 de desembre. La fàbrica continuarà funcionant com sempre.</p>",
+            "heading": "Horari de desembre",
+            "text": "<p>Obert els caps de setmana per al servei de dinar:</p><p>Dissabte i diumenge</p><p>Sala de bar: 12h-18h</p><p>Cuina: 12h-17h</p>",
             "button_label": "",
             "button_link": ""
           }
@@ -118,7 +118,7 @@
         "text_zU9tRV": {
           "type": "text",
           "settings": {
-            "text": "<p>Si us plau, tingues en compte:</p><p>Els horaris canvien segons la temporada i s’actualitzen mensualment.</p><p>Els horaris de la cuina són diferents:</p><ul><li>Divendres: 19:30 – 22:30</li><li>Dissabte: 13:00 – 15:30 i 19:30 – 22:30</li><li>Diumenge: 13:00 – 15:30</li></ul><p>Les nostres cerveses estan disponibles per emportar en llaunes de 440 ml i ampolles reutilitzables de 946 ml.La botiga està oberta de dilluns a divendres, de 10:00 a 18:00, així com durant els horaris del Taproom.</p>"
+            "text": "<p>Si us plau, tingues en compte:Els horaris canvien segons la temporada i s’actualitzen mensualment.<br/>Les nostres cerveses estan disponibles per emportar en llaunes de 440 ml i ampolles reutilitzables de 946 ml.<br/>La botiga està oberta de dilluns a divendres, de 10:00 a 18:00, així com durant els horaris del Taproom.</p>"
           }
         }
       },
