@@ -3520,7 +3520,12 @@ details-disclosure > details {
   
 }
 
-  html body,
-html body * {
+ /* Body text → Courier New */
+body, body p, body li, body span, body a {
   font-family: "Courier New", Courier, monospace !important;
+}
+
+/* Headings keep Droulers */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Droulers" !important;
 }
