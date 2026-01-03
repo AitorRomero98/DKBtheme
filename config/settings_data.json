@@ -459,8 +459,6 @@
     }
   },
   "platform_customizations": {
-    "custom_css": [
-      "@font-face {font-family: \"Pitagon Sans Regular\"; src: url(\"{{'PitagonSansText-Regular.otf' | file_url }}\") format(\"otf\");}"
-    ]
+    "custom_css": []
   }
 }
