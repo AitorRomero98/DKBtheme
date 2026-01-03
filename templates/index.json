@@ -190,7 +190,7 @@
       "type": "featured-collection",
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Cerveses fixes (Core Range)",
+        "title": "Cerveses Fixes (Core Range)",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
