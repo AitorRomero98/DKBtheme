@@ -359,7 +359,8 @@
       "type": "featured-blog",
       "custom_css": [
         "/* Show titles */.card__heading,.article-card__title {display: block; white-space: normal; overflow: visible; max-height: none;}",
-        "/* Specifically hide only excerpt text, not the title */.article-card__excerpt,.card__excerpt,.card__badge-bottom {display: none !important;}"
+        " /* Specifically hide only excerpt text, not the title */.article-card__excerpt,.card__excerpt,.card__badge-bottom {display: none !important;}",
+        "/* hide the 1/2 counter under the slider */.slider-counter,.slider-buttons {display: none !important;}"
       ],
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
@@ -374,7 +375,7 @@
         "show_author": false,
         "show_view_all": true,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "image_banner_R8JC6j": {
