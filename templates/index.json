@@ -355,6 +355,24 @@
         "padding_bottom": 52
       }
     },
+    "featured_blog_bPKJBD": {
+      "type": "featured-blog",
+      "name": "t:sections.featured-blog.presets.name",
+      "settings": {
+        "heading": "Notes de Camp",
+        "heading_size": "h1",
+        "blog": "press",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_R8JC6j": {
       "type": "image-banner",
       "name": "t:sections.image-banner.presets.name",
@@ -383,6 +401,7 @@
     "multirow_9NUBrV",
     "image_banner_Fnbk8G",
     "multirow_YFCrtm",
+    "featured_blog_bPKJBD",
     "image_banner_R8JC6j"
   ]
 }
