@@ -357,6 +357,7 @@
     },
     "featured_blog_bPKJBD": {
       "type": "featured-blog",
+      "custom_css": [],
       "name": "t:sections.featured-blog.presets.name",
       "settings": {
         "heading": "Notes de Camp",
